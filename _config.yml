@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "Home"
    link: "/"
- # - name: "Resume"
- #   link: "resume.pdf"
+ - name: "Resume"
+   link: "main.pdf"
  - name: "Publications"
    link: "pubs"
