@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-\* means corresponding author
+<font color="#dd0000">* means corresponding author</font>
 
 ### 2020
 
