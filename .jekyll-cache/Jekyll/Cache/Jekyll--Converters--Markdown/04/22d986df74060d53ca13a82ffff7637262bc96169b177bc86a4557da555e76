@@ -1,6 +1,6 @@
-I"4<h2 id="about-me">About Me</h2>
+I"�<h2 id="about-me">About Me</h2>
 
-<!-- <img class="profile-picture" src="sherlock.jpg"> -->
+<p><img class="profile-picture" src="wjy.jpeg" /></p>
 
 <p>I’m a research fellow with Prof. <a href="https://www.comp.nus.edu.sg/~dongjs/">Dong Jin Song</a> at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="http://www.nus.edu.sg/">National University of Singapore</a>. I also work closely with Prof. <a href="https://sunjun.site/">Sun Jun</a>. I received my Ph.D. from <a href="https://istd.sutd.edu.sg/">Information Systems Technology and Design</a>, <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design</a> in March 2018 under the supervision of Prof. Sun Jun and B.E. in information engineering from <a href="http://www.xjtu.edu.cn/">Xi’an Jiaotong University</a> in July 2013.</p>
 
@@ -48,6 +48,7 @@
 <h2 id="news">News:</h2>
 
 <ul>
+  <li>[Apr 2020] I will join <a href="http://www.zju.edu.cn/">Zhejiang University</a> as an assistant professor this summer.</li>
   <li>[Dec 2019] One paper entitled <em>White-box Fairness Testing through Adversarial Sampling</em> is accepted by ICSE 2020.</li>
   <li>[May 2019] I attended ICSE 2019 at Montreal, Canada and presented our work <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em>. [<a href="https://github.com/wang-jingyi/myslides/blob/master/ICSE19/icse19-slide.pdf">slide</a>, <a href="https://github.com/dgl-prc/m_testing_adversatial_sample">code</a>]</li>
   <li>[Dec 2018] Our paper <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em> is accepted by ICSE 2019. [<a href="https://arxiv.org/abs/1812.05793">arXiv version</a>]</li>
