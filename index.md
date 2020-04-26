@@ -49,7 +49,7 @@ I’m interested in problems in the junction of formal methods, software enginee
 
 ## News:
 
-- [Apr 2020] I will join [Zhejiang University](http://www.zju.edu.cn/) as an assistant professor this summer.
+<!-- - [Apr 2020] I will join [Zhejiang University](http://www.zju.edu.cn/) as an assistant professor this summer. -->
 - [Dec 2019] One paper entitled *White-box Fairness Testing through Adversarial Sampling* is accepted by ICSE 2020.
 - [May 2019] I attended ICSE 2019 at Montreal, Canada and presented our work *Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing*. [[slide](https://github.com/wang-jingyi/myslides/blob/master/ICSE19/icse19-slide.pdf), [code](https://github.com/dgl-prc/m_testing_adversatial_sample)]
 - [Dec 2018] Our paper *Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing* is accepted by ICSE 2019. [[arXiv version](https://arxiv.org/abs/1812.05793)]
