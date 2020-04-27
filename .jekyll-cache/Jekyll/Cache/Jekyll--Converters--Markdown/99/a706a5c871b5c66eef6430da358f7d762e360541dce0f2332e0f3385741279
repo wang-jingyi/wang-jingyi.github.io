@@ -1,66 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Wang Jingyi 王竟亦</title>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="blog, accent, , Wang Jingyi 王竟亦, jekyll">
-    <meta name="author" content="">
-    
-    
-    
-    <meta name="description" content="">
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="alternate" type="application/rss+xml" title="Wang Jingyi 王竟亦 RSS" href="/feed.xml" />
-    <link rel="stylesheet" href="/css/main.css">
-    
-    
-    <!-- Facebook Open Graph -->
-    <meta name="og:description" content="">
-    <meta name="og:title" content="Wang Jingyi 王竟亦">
-    <meta name="og:url" content="http://localhost:4000/pubs.html">
-    <meta name="og:type" content="article">
-    
-    
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Wang Jingyi 王竟亦">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:url" content="http://localhost:4000/pubs.html">
-    
-        <meta name="twitter:image" content="">
-    
-</head>
-<body>
-    <div class="wrapper">
-        <div class="navbar container">
-            
-            <a id="author-name" class="alignable pull-left" href="">Wang Jingyi 王竟亦</a>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
-                
-                    
-                        <li class="alignable pull-left nav-list"><a href="/">Home</a>
-                    
-                    
-                        /
-                    
-                        </li>
-                
-                    
-                        <li class="alignable pull-left nav-list"><a href="pubs">Publications</a>
-                    
-                    
-                        </li>
-                
-            </ul>
-        </div>
-        <div style="clear:both"></div>
-        <hr>
-        
-            <div class="container content contact">
-        
-                <font color="#dd0000">* means corresponding author</font>
+I"�<font color="#dd0000">* means corresponding author</font>
+<p>Acceptance rates in parentheses if known.</p>
 
 <h3 id="2020">2020</h3>
 
@@ -106,7 +45,7 @@
     <p>[C4, <strong>ETAPS/FASE</strong>] <strong>Jingyi Wang</strong>, Jun Sun, Qixia Yuan, Jun Pang. <em>Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study</em>, 20th International Conference on Fundamental Approaches to Software Engineering, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)</p>
   </li>
   <li>
-    <p>[C3, <strong>ICECCS</strong>] Long H. Pham, Jun Sun, Lyly Tran, <strong>Jingyi Wang</strong>, Xin Peng. <em>Learning Likely Invariants to Explain Why a Program Fails</em>, 22nd International Conference on Engineering of Complex Computer Systems, Fukuoka, Japan, Nov 2017. (Acceptance rate: 23.3%)</p>
+    <p>[C3, <strong>ICECCS</strong>] Long H. Pham, Jun Sun, Lyly Tran, <strong>Jingyi Wang</strong>, Xin Peng. <em>Learning Likely Invariants to Explain Why a Program Fails</em>, 22nd International Conference on Engineering of Complex Computer Systems, Fukuoka, Japan, Nov 2017. (Acc rate: 23.3%)</p>
   </li>
 </ul>
 
@@ -121,16 +60,4 @@
   </li>
 </ul>
 
-
-                
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="" style="color: black"><small>Looking up at the stars, stepping down to the ground.</small></a>
-                    </p>
-                
-            </div>
-    </div>
-    
-</body>
-<footer>
-</footer>
+:ET
