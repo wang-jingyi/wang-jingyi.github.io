@@ -1,4 +1,4 @@
-I"�<h2 id="about-me">About Me</h2>
+I"�<h2 id="about-me">About Me</h2>
 
 <p><img class="profile-picture" src="wjy.jpeg" /></p>
 
@@ -8,13 +8,13 @@
 
 <p>I’m interested in problems in the junction of formal methods, software engineering, security and machine learning. In particular, my current research interests are focused on building trustworthy Artificial Intelligence (AI) systems and cyber-physical systems (CPS) using techniques like testing and verification. <a href="https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&amp;hl=en">Google Scholar</a></p>
 
-<ul>
-  <li>Email: <a href="mailto:wangjyee@gmail.com">gmail:wangjyee</a></li>
-</ul>
+<blockquote>
+  <p>Contact me via <a href="mailto:wangjyee@gmail.com">gmail:wangjyee</a></p>
+</blockquote>
 
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
-<hr />
+<!-- --- -->
 
 <!-- ## Mailing Address
 
@@ -44,6 +44,7 @@
 - Prof. Sun Jun, Associate Professor, Singapore Management University
 - [Peixin Zhang](http://pxzhang.cn/), PhD candidate, Zhejiang University
 - Guoliang Dong, PhD candidate, Zhejiang University -->
+<hr />
 
 <h2 id="news">News:</h2>
 
@@ -51,8 +52,8 @@
 <ul>
   <li>[Dec 2019] One paper entitled <em>White-box Fairness Testing through Adversarial Sampling</em> is accepted by ICSE 2020.</li>
   <li>[May 2019] I attended ICSE 2019 at Montreal, Canada and presented our work <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em>. [<a href="https://github.com/wang-jingyi/myslides/blob/master/ICSE19/icse19-slide.pdf">slide</a>, <a href="https://github.com/dgl-prc/m_testing_adversatial_sample">code</a>]</li>
-  <li>[Dec 2018] Our paper <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em> is accepted by ICSE 2019. [<a href="https://arxiv.org/abs/1812.05793">arXiv version</a>]</li>
-  <li>[Dec 2018] Our paper <em>Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement</em> is accepted by IEEE Transactions on Software Engineering (TSE). [<a href="https://ieeexplore.ieee.org/abstract/document/8576657">early access version</a>]</li>
+  <li>[Dec 2018] Our paper <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em> is accepted by ICSE 2019. [<a href="https://arxiv.org/abs/1812.05793">arXiv</a>]</li>
+  <li>[Dec 2018] Our paper <em>Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement</em> is accepted by IEEE Transactions on Software Engineering (TSE). [<a href="https://ieeexplore.ieee.org/abstract/document/8576657">early access</a>]</li>
   <li>[July 2018] I attended FLOC 2018 at Oxford, UK and presented our work <em>Towards ‘Verifying’ a Water Treatment System</em> at FM. [<a href="https://github.com/wang-jingyi/myslides/tree/master/FM18">slide</a>]</li>
   <li>[May 2018] Our paper <em>Towards Optimal Concolic Testing</em> won <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font> at ICSE 2018!</li>
 </ul>
@@ -76,7 +77,7 @@ Year | Award | Category
 
 Here is a horizontal rule
  -->
-<hr />
+<!-- --- -->
 
 <!-- Here is a blockquote -->
 
