@@ -7,7 +7,7 @@ is_contact: true
 
 ### 2020
 
-- [C10] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42rd International Conference on Software Engineering (ICSE), 23-29 May 2020, Seoul, South Korea. (129/617, Acceptance rate: 20.9%)
+- [C10] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering (ICSE), 23-29 May 2020, Seoul, South Korea. (129/617, Acceptance rate: 20.9%)
 
 ### 2019
 
@@ -19,7 +19,7 @@ is_contact: true
 
 - [C8] Cyrille Jegourel, **Jingyi Wang** and Jun Sun. *Importance Sampling of Interval Markov Chains*, 48th International Conference on Dependable Systems and Networks (DSN) 2018, Luxembourg. (Acceptance rate: 28%)
 
-- [C7] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22th International Symposium on Formal Methods (FM), 15-17 July 2018, Oxford, UK. (Acceptance rate: 28%)
+- [C7] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods (FM), 15-17 July 2018, Oxford, UK. (Acceptance rate: 28%)
 
 - [C6] Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, **Jingyi Wang**\* and Yun Lin. *Towards Optimal Concolic Testing*, 40th International Conference on Software Engineering (ICSE), May 27 – 3 June 2018, Gothenburg, Sweden. (Acceptance rate：20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>)
 
