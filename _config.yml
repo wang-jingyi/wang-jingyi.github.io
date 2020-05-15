@@ -2,7 +2,7 @@
 title:               Wang Jingyi
 tagline:             '王竟亦'
 # description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 wang-jingyi.github.io
+# url:                 wang-jingyi.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
