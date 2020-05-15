@@ -1,6 +1,6 @@
 ---
-layout: default
-is_contact: true
+layout: page
+title: Publications
 ---
 
 <font color="#dd0000">* means corresponding author</font>
@@ -38,5 +38,3 @@ is_contact: true
 - [C2, **ICFEM**] Manman Chen, Tian Huat Tan, Jun Sun, **Jingyi Wang**, Yang Liu, Jing Sun, Jin Song Dong, *Service Adaption with Probabilistic Partial Models*, 18th International Conference on Formal Engineering Methods (ICFEM), Tokyo, Japan, Nov 2016.
 
 - [C1, **FM**] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**. *Towards Concolic Testing for Hybrid Systems*, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.
-
-
