@@ -6,4 +6,6 @@ date:   2019-12-25
 tags:   [Work]
 ---
 
-One paper entitled *White-box Fairness Testing through Adversarial Sampling* is accepted by ICSE 2020. This work pushes forward fairness testing to be applicable for large-scale deep neural networks.
+One paper entitled *White-box Fairness Testing through Adversarial Sampling* is accepted by ICSE 2020. 
+
+This work pushes forward fairness testing to be applicable for large-scale deep neural networks.
