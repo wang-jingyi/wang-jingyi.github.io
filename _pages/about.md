@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Information
-permalink: /info/
+title: About
+permalink: /about/
 image: images/back.jpeg
 ---
 
