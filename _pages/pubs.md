@@ -20,7 +20,7 @@ permalink: /pubs/
 
 ### 2018
 
-- [C8, **DSN**] Cyrille Jegourel, **Jingyi Wang** and Jun Sun. *Importance Sampling of Interval Markov Chains*, 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018. (Acceptance rate: 28%)
+- [C8, **DSN**] Cyrille Jegourel, **Jingyi Wang** and Jun Sun. *Importance Sampling of Interval Markov Chains*, 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018. (Acceptance rate: 26.7%)
 
 - [C7, **FM**] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)
 
