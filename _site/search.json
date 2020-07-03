@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Honored to Win the ACM SIGSOFT Distinguished Paper Award again at ICSE 2020",
+      "category" : "",
+      "tags"     : "Work",
+      "url"      : "/2020/07/02/icse20award/",
+      "date"     : "2020-07-02 00:00:00 -0700"
+    } ,
+  
+    {
       "title"    : "Paper Accepted by ICSE 2020",
       "category" : "",
       "tags"     : "Work",
       "url"      : "/2019/12/25/paper-acceptance/",
-      "date"     : "2019-12-25 00:00:00 +0800"
+      "date"     : "2019-12-25 00:00:00 -0800"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "Work",
       "url"      : "/2019/05/30/attend-icse19/",
-      "date"     : "2019-05-30 00:00:00 +0800"
+      "date"     : "2019-05-30 00:00:00 -0700"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "Work",
       "url"      : "/2018/12/30/icse19/",
-      "date"     : "2018-12-30 00:00:00 +0800"
+      "date"     : "2018-12-30 00:00:00 -0800"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "Work",
       "url"      : "/2018/12/15/tse/",
-      "date"     : "2018-12-15 00:00:00 +0800"
+      "date"     : "2018-12-15 00:00:00 -0800"
     } ,
   
     {
@@ -37,15 +45,15 @@
       "category" : "",
       "tags"     : "Work",
       "url"      : "/2018/07/30/fm18/",
-      "date"     : "2018-07-30 00:00:00 +0800"
+      "date"     : "2018-07-30 00:00:00 -0700"
     } ,
   
     {
-      "title"    : "Won ACM SIGSOFT Distinguished Paper Award at ICSE 2018",
+      "title"    : "Honored to Win the ACM SIGSOFT Distinguished Paper Award at ICSE 2018",
       "category" : "",
       "tags"     : "Work",
-      "url"      : "/2018/05/30/icse18-award/",
-      "date"     : "2018-05-30 00:00:00 +0800"
+      "url"      : "/2018/05/30/icse18award/",
+      "date"     : "2018-05-30 00:00:00 -0700"
     } 
   
 ]

@@ -7,11 +7,11 @@ image: images/back.jpeg
 
 I'm a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/). I also work closely with Prof. [Sun Jun](https://sunjun.site/). I received my Ph.D. from [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) in March 2018 under the supervision of Prof. Sun Jun and B.E. in information engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
 
-*I will join Zhejiang University as an assistant professor this summer.*  
+*I will join Zhejiang University as a ZJU 100 Young Professor this summer.*  
 
 #### Research Interest
 
-I’m interested in problems in the junction of formal methods, software engineering, security and machine learning. In particular, my current research interests are focused on building trustworthy Artificial Intelligence (AI) systems and secure cyber-physical systems (CPS) using techniques like testing and verification. [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
+I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. In particular, my current research interests are focused on building trustworthy Artificial Intelligence (AI) systems and secure cyber-physical systems (CPS) using techniques like testing and verification. [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
 
 #### Contact
 
