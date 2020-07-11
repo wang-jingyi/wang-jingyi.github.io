@@ -5,7 +5,7 @@ permalink: /about/
 image: images/back.jpeg
 ---
 
-*I am on job transition and will join Zhejiang University as a ZJU 100 Young Professor this summer.* 
+*I am on job transition and will join Zhejiang University as a tenure-track Assistant Professor this summer.* 
 
 I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018 under the supervision of Prof. Sun Jun. I obtained my B.E. in information engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
  
