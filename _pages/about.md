@@ -12,7 +12,13 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. In particular, my current research interests are focused on designing and building safe/secure cyber-physical systems (CPS) and trustworthy Artificial Intelligence (AI)-enabled systems using techniques like testing and formal verification. I received two ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020). See my [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en) and the [research](https://wang-jingyi.github.io/res/) page for details.
+I’m broadly interested in problems in the junction of formal methods, software engineering and machine learning. In particular, my current research interests are focused on designing safe/secure cyber-physical systems (CPS) and dependable Artificial Intelligence (AI) systems using techniques like testing and formal verification. I received two ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020). See my [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en) and the [research](https://wang-jingyi.github.io/res/) page for details.
+
+
+#### Hobbies
+
+Things I like (no ranking): badminton, football, hiking, DOTA2, Switch, travel...(to be added) 
+
 
 #### Contact
 

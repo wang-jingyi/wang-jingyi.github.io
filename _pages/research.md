@@ -17,9 +17,9 @@ permalink: /res/
 - [[DSN 2018](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5970&context=sis_research)] Proposed an importance sampling algorithm of the learned approximate probabilistic model to obtain a more accurate verification result where rare events are potentially involved.
 - [[ICSE 2018](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5655&context=sis_research), <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>] Applied the idea of probabilistic learning to model program concolic testing, solved the optimal strategy and proposed a greedy algorithm to approximate the strategy. 
 
-## Software Engineering for Trustworthy Artificial Intelligence-enabled Systems
+## Software Engineering for Dependable Artificial Intelligence Systems
 
-> AI is deeply interwined with software engineering. While AI-enabled systems can be intrinsically vulnerable/discriminative to be trusted, software engineering could help either by testing or formal verification.
+> AI is deeply interwined with software engineering. While AI systems can be intrinsically vulnerable/discriminative to be trusted, software engineering could help either by testing or formal verification.
 
 
 ### Series of Works
