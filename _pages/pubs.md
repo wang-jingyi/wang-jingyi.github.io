@@ -7,6 +7,7 @@ permalink: /pubs/
 
 
 ###### <font color="#dd0000">* means corresponding author</font>
+*Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized with journal papers.*
 
 ### 2020
 
