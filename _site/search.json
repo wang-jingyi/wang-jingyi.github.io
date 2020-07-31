@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Paper Accepted by ASE 2020",
+      "category" : "",
+      "tags"     : "Work",
+      "url"      : "/2020/07/30/ase20/",
+      "date"     : "2020-07-30 00:00:00 -0700"
+    } ,
+  
+    {
       "title"    : "Honored to Win the ACM SIGSOFT Distinguished Paper Award at ICSE 2020",
       "category" : "",
       "tags"     : "Work",
@@ -12,7 +20,7 @@
       "title"    : "Paper Accepted by ICSE 2020",
       "category" : "",
       "tags"     : "Work",
-      "url"      : "/2019/12/25/paper-acceptance/",
+      "url"      : "/2019/12/25/paper-icse20/",
       "date"     : "2019-12-25 00:00:00 -0800"
     } ,
   

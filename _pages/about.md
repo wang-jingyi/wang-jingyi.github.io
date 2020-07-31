@@ -2,13 +2,16 @@
 layout: page
 title: About
 permalink: /about/
-image: images/back.jpeg
+image: images/mon.jpeg
 ---
 
 I am a tenure-track Assistant Professor at School of Control Science and Technology, Zhejiang University, China.
 
 I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018. I obtained my B.E. in information engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
  
+
+<!-- <img align="right" src="images/me2.jpeg" />  -->
+<!-- <img style="float: right;" src="images/me2.jpeg">  -->
 
 #### Research Interest
 
