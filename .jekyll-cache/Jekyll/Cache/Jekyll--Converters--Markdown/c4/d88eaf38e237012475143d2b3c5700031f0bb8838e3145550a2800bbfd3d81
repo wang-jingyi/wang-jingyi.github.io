@@ -1,0 +1,4 @@
+I"b<p>Our paper <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em> is accepted by ICSE 2019. [<a href="https://arxiv.org/abs/1812.05793">arXiv</a>]</p>
+
+<p>This work utilized the distinguishable sensitivity between adversarial and benign samples of a deep neural network to detect adversarial ones at runtime.</p>
+:ET

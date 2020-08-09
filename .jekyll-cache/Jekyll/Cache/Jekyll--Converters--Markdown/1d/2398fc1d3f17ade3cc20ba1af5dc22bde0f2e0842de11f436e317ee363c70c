@@ -1,0 +1,33 @@
+I"Ï<h2 id="formal-analysis-of-cyber-physical-systems">Formal Analysis of Cyber-physical Systems</h2>
+
+<blockquote>
+  <p>Formally modelling and verifying a complex CPS is extremely challenging, can we automatically learn for verifying such systems without manual modelling?</p>
+</blockquote>
+
+<h3 id="series-of-works">Series of Works</h3>
+<ul>
+  <li>[<a href="http://158.64.76.181/bitstream/10993/36876/1/STTT18.pdf">ETAPS/FASE 2017, STTT 2018</a>] Conducted an empirical study on learning probabilistic models (e.g., discrete-time Markov Chains) from system traces, and proposed a new learning framework based on genetic algorithms.</li>
+  <li>[<a href="https://ieeexplore.ieee.org/abstract/document/8576657/">TSE 2018</a>] Proposed a CEGAR-style predicate abstraction-based learning framework to push forward learning to be applicable for large-scale systems with even infinite state space.</li>
+  <li>[<a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5711&amp;context=sis_research">ICFEM 2017</a>] Proposed an active learning algorithm to sample the system so that a more acurate model can be learned.</li>
+  <li>[<a href="https://arxiv.org/pdf/1712.04155.pdf">FM 2018</a>] Conducted a case study of the above learning algorithms on the verification of a real-world testbed, i.e., <a href="https://itrust.sutd.edu.sg/testbeds/secure-water-treatment-swat/">SWaT</a>.</li>
+  <li>[<a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5970&amp;context=sis_research">DSN 2018</a>] Proposed an importance sampling algorithm of the learned approximate probabilistic model to obtain a more accurate verification result where rare events are potentially involved.</li>
+  <li>[<a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5655&amp;context=sis_research">ICSE 2018</a>, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>] Applied the idea of probabilistic learning to model program concolic testing, solved the optimal strategy and proposed a greedy algorithm to approximate the strategy.</li>
+</ul>
+
+<h2 id="software-engineering-for-dependable-artificial-intelligence-systems">Software Engineering for Dependable Artificial Intelligence Systems</h2>
+
+<blockquote>
+  <p>AI is deeply interwined with software engineering. While AI systems can be intrinsically vulnerable/discriminative to be trusted, software engineering could help either by testing or formal verification.</p>
+</blockquote>
+
+<h3 id="series-of-works-1">Series of Works</h3>
+<ul>
+  <li>[<a href="https://arxiv.org/pdf/1812.05793.pdf">ICSE 2019</a>] Proposed a runtime detection system framework to filter adversarial samples of deep neural networks. Compared to prior detection algorithms, it is sufficiently efficient to be applicable at runtime.</li>
+  <li>[<a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&amp;context=sis_research">ICSE 2020</a>, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>] Proposed a scalable and efficient algorithm which utilized gradient to search for disciminative samples of deep neural networks, which could be used for data augmentation to improve the model fairness.</li>
+  <li>[ASE 2020] Proposed to interprete recurrent neural networks by extracting more tracable, reasonable and transparent models, i.e., probabilistic finite automata. The extracted models can potentially bridge the gap between black-box neural networks and existing model-based analysis methods like testing/attack/adversary detection, predictive analysis and runtime monitoring.</li>
+  <li>
+    <p>[ICECCS 2020] Conducted an empirical study on the correlation between coverage and robustness for deep neural networks, which is surpringly limited.</p>
+  </li>
+  <li>Several other works are in submission.</li>
+</ul>
+:ET

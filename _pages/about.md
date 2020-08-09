@@ -5,7 +5,7 @@ permalink: /about/
 image: images/mon.jpeg
 ---
 
-I am a tenure-track Assistant Professor at School of Control Science and Technology, Zhejiang University, China.
+I am a tenure-track Assistant Professor at College of Control Science and Engineering, Zhejiang University, China.
 
 I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018. I obtained my B.E. in information engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
  
@@ -27,7 +27,7 @@ Things I like (no ranking): badminton, football, hiking, rock climbing, DOTA2, P
 
 #### Contact
 
-**[wangjyee *at* zju *dot* edu *dot* cn](mailto:wangjyee@zju.edu.cn)**
+**[wangjyee *at* gmail *dot* com](mailto:wangjyee@gmail.com)**
 
 <!-- Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
 
