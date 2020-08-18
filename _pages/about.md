@@ -17,7 +17,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. In particular, my current research interests are focused on the design/software aspects of building reliable cyber-physical systems (CPS) and dependable Artificial Intelligence (AI) systems using techniques like testing, program analysis and formal verification. I received two ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020), the flagship conference in software engineering. See my [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en) and the [research](https://wang-jingyi.github.io/res/) page for details.
 
-*I have PhD and master positions avaiable each year through CSE, ZJU. Feel free to contact me if you have overlapping research interests. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
+*I have PhD and master positions available each year through CSE, ZJU. Feel free to contact me if you have overlapping research interests. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
 
 
 #### Hobbies
