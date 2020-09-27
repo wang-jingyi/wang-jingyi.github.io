@@ -5,7 +5,7 @@ permalink: /res/
 <!-- image: images/back.jpeg -->
 ---
 
-## Formal Analysis of Cyber-physical Systems
+## Learning-based Formal Analysis of Cyber-physical Systems
 
 > Formally modelling and verifying a complex CPS is extremely challenging, can we automatically learn for verifying such systems without manual modelling?
 

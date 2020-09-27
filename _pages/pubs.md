@@ -11,41 +11,41 @@ permalink: /pubs/
 
 ### 2020
 
-- [C14, **ASE**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia, Sep 2020. (92/414, Acceptance rate: 22.5%)
+- [C14, **ASE, CCF A**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia, Sep 2020. (92/414, Acceptance rate: 22.5%)
 
-- [C13, **ICSE**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea, Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129</font>)
+- [C13, **ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea, Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129</font>)
 
-- [C12, **ICECCS**] Yizhen Dong, Peixin Zhang, **Jingyi Wang**, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore.
+- [C12, **ICECCS, CCF C**] Yizhen Dong, Peixin Zhang, **Jingyi Wang**, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore.
 
 ### 2019
 
-- [C11, **ICSE**] **Jingyi Wang**, Guoliang Dong, Jun Sun, Xinyu Wang and Peixin Zhang. *Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing*. 41st International Conference on Software Engineering, Montreal, Canada, May 2019. (109/529, Acceptance rate: 20.6%)
+- [C11, **ICSE, CCF A**] **Jingyi Wang**, Guoliang Dong, Jun Sun, Xinyu Wang and Peixin Zhang. *Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing*. 41st International Conference on Software Engineering, Montreal, Canada, May 2019. (109/529, Acceptance rate: 20.6%)
 
-- [J10, **TSE**] **Jingyi Wang**, Jun Sun, Shengchao Qin and Cyrille Jegourel. *Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement*, IEEE Transactions on Software Engineering, 2019.
+- [J10, **TSE, CCF A**] **Jingyi Wang**, Jun Sun, Shengchao Qin and Cyrille Jegourel. *Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement*, IEEE Transactions on Software Engineering, 2019.
 
 ### 2018
 
-- [C9, **DSN**] Cyrille Jegourel, **Jingyi Wang** and Jun Sun. *Importance Sampling of Interval Markov Chains*, 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018. (Acceptance rate: 26.7%)
+- [C9, **DSN, CCF B**] Cyrille Jegourel, **Jingyi Wang** and Jun Sun. *Importance Sampling of Interval Markov Chains*, 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018. (Acceptance rate: 26.7%)
 
-- [C8, **FM**] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)
+- [C8, **FM, CCF B**] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)
 
-- [C7, **ICSE**] Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, **Jingyi Wang**\* and Yun Lin. *Towards Optimal Concolic Testing*, 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018. (Acceptance rate：20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>)
+- [C7, **ICSE, CCF A**] Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, **Jingyi Wang**\* and Yun Lin. *Towards Optimal Concolic Testing*, 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018. (Acceptance rate：20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>)
 
-- [J6, **STTT**] **Jingyi Wang**, Jun Sun, Qixia Yuan, and Jun Pang. *Learning Probabilistic Models for Model Checking: An Evolutionary Approach and an Empirical Study*, International Journal on Software Tools for Technology Transfer, 2018.
+- [J6, **STTT, CCF C**] **Jingyi Wang**, Jun Sun, Qixia Yuan, and Jun Pang. *Learning Probabilistic Models for Model Checking: An Evolutionary Approach and an Empirical Study*, International Journal on Software Tools for Technology Transfer, 2018.
 
 ### 2017
 
-- [C5, **ICFEM**] **Jingyi Wang**, Xiaohong Chen, Jun Sun, Shengchao Qin. *Improving Probability Estimation through Active Probabilistic Model Learning*, 19th International Conference on Formal Engineering Methods, Xi’an, China, Nov 2017.
+- [C5, **ICFEM, CCF C**] **Jingyi Wang**, Xiaohong Chen, Jun Sun, Shengchao Qin. *Improving Probability Estimation through Active Probabilistic Model Learning*, 19th International Conference on Formal Engineering Methods, Xi’an, China, Nov 2017.
 
-- [C4, **ETAPS/FASE**] **Jingyi Wang**, Jun Sun, Qixia Yuan, Jun Pang. *Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study*, 20th International Conference on Fundamental Approaches to Software Engineering, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)
+- [C4, **ETAPS/FASE, CCF B**] **Jingyi Wang**, Jun Sun, Qixia Yuan, Jun Pang. *Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study*, 20th International Conference on Fundamental Approaches to Software Engineering, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)
 
-- [C3, **ICECCS**] Long H. Pham, Jun Sun, Lyly Tran, **Jingyi Wang**, Xin Peng. *Learning Likely Invariants to Explain Why a Program Fails*, 22nd International Conference on Engineering of Complex Computer Systems, Fukuoka, Japan, Nov 2017. (Acceptance rate: 23.3%)
+- [C3, **ICECCS, CCF C**] Long H. Pham, Jun Sun, Lyly Tran, **Jingyi Wang**, Xin Peng. *Learning Likely Invariants to Explain Why a Program Fails*, 22nd International Conference on Engineering of Complex Computer Systems, Fukuoka, Japan, Nov 2017. (Acceptance rate: 23.3%)
 
 ### 2016
 
-- [C2, **ICFEM**] Manman Chen, Tian Huat Tan, Jun Sun, **Jingyi Wang**, Yang Liu, Jing Sun, Jin Song Dong, *Service Adaption with Probabilistic Partial Models*, 18th International Conference on Formal Engineering Methods (ICFEM), Tokyo, Japan, Nov 2016.
+- [C2, **ICFEM, CCF C**] Manman Chen, Tian Huat Tan, Jun Sun, **Jingyi Wang**, Yang Liu, Jing Sun, Jin Song Dong, *Service Adaption with Probabilistic Partial Models*, 18th International Conference on Formal Engineering Methods (ICFEM), Tokyo, Japan, Nov 2016.
 
-- [C1, **FM**] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**. *Towards Concolic Testing for Hybrid Systems*, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.
+- [C1, **FM, CCF B**] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**. *Towards Concolic Testing for Hybrid Systems*, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.
 
 <!-- A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
