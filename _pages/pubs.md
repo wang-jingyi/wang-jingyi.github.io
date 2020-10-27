@@ -15,7 +15,7 @@ permalink: /pubs/
 
 - [C13, **ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea, Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129</font>)
 
-- [C12, **ICECCS, CCF C**] Yizhen Dong, Peixin Zhang, **Jingyi Wang**, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore.
+- [C12, **ICECCS, CCF C**] Yizhen Dong, Peixin Zhang, **Jingyi Wang\***, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore.
 
 ### 2019
 
