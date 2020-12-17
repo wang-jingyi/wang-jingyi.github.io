@@ -9,6 +9,14 @@ permalink: /pubs/
 ###### <font color="#dd0000">* means corresponding author</font>
 *Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized than top-tier journal papers.*
 
+[Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
+
+
+### 2021
+
+- [C15, **ICSE, CCF A**] **Jingyi Wang**, Jialuo Chen, Youcheng Sun, Xingjun Ma, Dongxia Wang, Jun Sun and Peng Cheng. *RobOT: Robustness-Oriented Testing for Deep Learning Systems*. 43rd International Conference on Software Engineering, Madrid, Spain, May 2021. (13x/615, Acceptance rate: 21%)
+
+
 ### 2020
 
 - [C14, **ASE, CCF A**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia, Sep 2020. (92/414, Acceptance rate: 22.5%)
