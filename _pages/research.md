@@ -27,5 +27,7 @@ permalink: /res/
 - [[ICSE 2020](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research), <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>] Proposed a scalable and efficient algorithm which utilized gradient to search for disciminative samples of deep neural networks, which could be used for data augmentation to improve the model fairness.
 - [ASE 2020] Proposed to interprete recurrent neural networks by extracting more tracable, reasonable and transparent models, i.e., probabilistic finite automata. The extracted models can potentially bridge the gap between black-box neural networks and existing model-based analysis methods like testing/attack/adversary detection, predictive analysis and runtime monitoring. 
 - [ICECCS 2020] Conducted an empirical study on the correlation between coverage and robustness for deep neural networks, which is surpringly limited.
+- [ICSE 2021] Proposed a robustness oriented testing framewor for deep learning systems to automatically generate more valuable test cases to improve the model robustness.
+- [TACAS 2021] Proposed a spurious region guided refinement framework to improve the precision of over-approximation based neural network verification approaches.
 
 - Several other works are in submission.

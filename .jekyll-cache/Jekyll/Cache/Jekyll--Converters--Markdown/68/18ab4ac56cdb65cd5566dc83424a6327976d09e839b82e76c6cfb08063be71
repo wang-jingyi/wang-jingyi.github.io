@@ -1,0 +1,172 @@
+I"�)<h6 id="-means-corresponding-author"><font color="#dd0000">* means corresponding author</font></h6>
+<p><em>Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized than top-tier journal papers. (<a href="https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&amp;hl=en">Google Scholar</a>)</em></p>
+
+<h3 id="2021">2021</h3>
+
+<ul>
+  <li>
+    <p>[C16, <strong>ETAPS/TACAS, CCF B</strong>] Pengfei Yang, Renjue Li, Jianlin Li, Cheng-Chao Huang, <strong>Jingyi Wang</strong>, Jun Sun, Bai Xue and Lijun Zhang. <em>Improving Neural Network Verification through Spurious Region Guided Refinement</em>, 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, Luxembourg, Luxembourg (online), Apr 2021.</p>
+  </li>
+  <li>
+    <p>[C15, <strong>ICSE, CCF A</strong>] <strong>Jingyi Wang</strong>, Jialuo Chen, Youcheng Sun, Xingjun Ma, Dongxia Wang, Jun Sun and Peng Cheng. <em>RobOT: Robustness-Oriented Testing for Deep Learning Systems</em>. 43rd International Conference on Software Engineering, Madrid, Spain, May 2021. (13x/615, Acceptance rate: 21%)</p>
+  </li>
+</ul>
+
+<h3 id="2020">2020</h3>
+
+<ul>
+  <li>
+    <p>[C14, <strong>ASE, CCF A</strong>] Guoliang Dong, <strong>Jingyi Wang</strong>*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. <em>Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction</em>. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia, Sep 2020. (92/414, Acceptance rate: 22.5%)</p>
+  </li>
+  <li>
+    <p>[C13, <strong>ICSE, CCF A</strong>] Peixin Zhang, <strong>Jingyi Wang</strong>*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. <em>White-box Fairness Testing through Adversarial Sampling</em>. 42nd International Conference on Software Engineering, Seoul, South Korea, Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129</font>)</p>
+  </li>
+  <li>
+    <p>[C12, <strong>ICECCS, CCF C</strong>] Yizhen Dong, Peixin Zhang, <strong>Jingyi Wang*</strong>, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. <em>An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks</em>. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore.</p>
+  </li>
+</ul>
+
+<h3 id="2019">2019</h3>
+
+<ul>
+  <li>
+    <p>[C11, <strong>ICSE, CCF A</strong>] <strong>Jingyi Wang</strong>, Guoliang Dong, Jun Sun, Xinyu Wang and Peixin Zhang. <em>Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing</em>. 41st International Conference on Software Engineering, Montreal, Canada, May 2019. (109/529, Acceptance rate: 20.6%)</p>
+  </li>
+  <li>
+    <p>[J10, <strong>TSE, CCF A</strong>] <strong>Jingyi Wang</strong>, Jun Sun, Shengchao Qin and Cyrille Jegourel. <em>Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement</em>, IEEE Transactions on Software Engineering, 2019.</p>
+  </li>
+</ul>
+
+<h3 id="2018">2018</h3>
+
+<ul>
+  <li>
+    <p>[C9, <strong>DSN, CCF B</strong>] Cyrille Jegourel, <strong>Jingyi Wang</strong> and Jun Sun. <em>Importance Sampling of Interval Markov Chains</em>, 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018. (Acceptance rate: 26.7%)</p>
+  </li>
+  <li>
+    <p>[C8, <strong>FM, CCF B</strong>] <strong>Jingyi Wang</strong>, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. <em>Towards ‘Verifying’ a Water Treatment System</em>, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)</p>
+  </li>
+  <li>
+    <p>[C7, <strong>ICSE, CCF A</strong>] Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, <strong>Jingyi Wang</strong>* and Yun Lin. <em>Towards Optimal Concolic Testing</em>, 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018. (Acceptance rate：20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>)</p>
+  </li>
+  <li>
+    <p>[J6, <strong>STTT, CCF C</strong>] <strong>Jingyi Wang</strong>, Jun Sun, Qixia Yuan, and Jun Pang. <em>Learning Probabilistic Models for Model Checking: An Evolutionary Approach and an Empirical Study</em>, International Journal on Software Tools for Technology Transfer, 2018.</p>
+  </li>
+</ul>
+
+<h3 id="2017">2017</h3>
+
+<ul>
+  <li>
+    <p>[C5, <strong>ICFEM, CCF C</strong>] <strong>Jingyi Wang</strong>, Xiaohong Chen, Jun Sun, Shengchao Qin. <em>Improving Probability Estimation through Active Probabilistic Model Learning</em>, 19th International Conference on Formal Engineering Methods, Xi’an, China, Nov 2017.</p>
+  </li>
+  <li>
+    <p>[C4, <strong>ETAPS/FASE, CCF B</strong>] <strong>Jingyi Wang</strong>, Jun Sun, Qixia Yuan, Jun Pang. <em>Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study</em>, 20th International Conference on Fundamental Approaches to Software Engineering, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)</p>
+  </li>
+  <li>
+    <p>[C3, <strong>ICECCS, CCF C</strong>] Long H. Pham, Jun Sun, Lyly Tran, <strong>Jingyi Wang</strong>, Xin Peng. <em>Learning Likely Invariants to Explain Why a Program Fails</em>, 22nd International Conference on Engineering of Complex Computer Systems, Fukuoka, Japan, Nov 2017. (Acceptance rate: 23.3%)</p>
+  </li>
+</ul>
+
+<h3 id="2016">2016</h3>
+
+<ul>
+  <li>
+    <p>[C2, <strong>ICFEM, CCF C</strong>] Manman Chen, Tian Huat Tan, Jun Sun, <strong>Jingyi Wang</strong>, Yang Liu, Jing Sun, Jin Song Dong, <em>Service Adaption with Probabilistic Partial Models</em>, 18th International Conference on Formal Engineering Methods (ICFEM), Tokyo, Japan, Nov 2016.</p>
+  </li>
+  <li>
+    <p>[C1, <strong>FM, CCF B</strong>] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, <strong>Jingyi Wang</strong>. <em>Towards Concolic Testing for Hybrid Systems</em>, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.</p>
+  </li>
+</ul>
+
+<!-- A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+
+***
+
+### Headings by default:
+
+# H1 For example
+## H2 For example
+### H3 For example
+#### H4 For example
+##### H5 For example
+###### H6 For example
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gu">## Heading first level</span>
+<span class="gu">### Heading second level</span>
+<span class="gu">#### Heading third level</span></code></pre></figure>
+
+
+***
+
+### Lists
+
+#### Ordered list example:
+
+1. Poutine drinking vinegar bitters.
+2. Coloring book distillery fanny pack.
+3. Venmo biodiesel gentrify enamel pin meditation.
+4. Jean shorts shaman listicle pickled portland.
+5. Salvia mumblecore brunch iPhone migas.
+
+***
+
+#### Unordered list example:
+
+* Bitters semiotics vice thundercats synth.
+* Literally cred narwhal bitters wayfarers.
+* Kale chips chartreuse paleo tbh street art marfa.
+* Mlkshk polaroid sriracha brooklyn.
+* Pug you probably haven't heard of them air plant man bun.
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">1.</span> Order list item 1
+<span class="p">2.</span> Order list item 1
+<span class="p">
+*</span> Unordered list item 1
+<span class="p">*</span> Unordered list item 2</code></pre></figure>
+
+
+***
+
+### Quotes
+
+#### A quote looks like this:
+
+> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+>
+> <cite>George Bernard Shaw</cite>
+
+***
+
+
+
+### Syntax Highlighter
+
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js">  <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">click</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">html, body</span><span class="dl">'</span><span class="p">).</span><span class="nx">stop</span><span class="p">().</span><span class="nx">animate</span><span class="p">({</span> <span class="na">scrollTop</span><span class="p">:</span> <span class="mi">0</span> <span class="p">},</span> <span class="dl">'</span><span class="s1">slow</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">swing</span><span class="dl">'</span><span class="p">);</span>
+  <span class="p">});</span>
+  <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">scroll</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">scrollTop</span><span class="p">()</span> <span class="o">&gt;</span> <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">height</span><span class="p">())</span> <span class="p">{</span>
+      <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="dl">"</span><span class="s2">top-active</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+      <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="dl">"</span><span class="s2">top-active</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">};</span>
+  <span class="p">});</span></code></pre></figure>
+
+
+***
+
+## Videos
+
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+
+***
+
+### Images
+
+![](/images/13.jpg)
+*Streets of New York* -->
+:ET

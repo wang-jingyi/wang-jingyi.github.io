@@ -14,16 +14,18 @@ permalink: /pubs/
 
 ### 2021
 
-- [C15, **ICSE, CCF A**] **Jingyi Wang**, Jialuo Chen, Youcheng Sun, Xingjun Ma, Dongxia Wang, Jun Sun and Peng Cheng. *RobOT: Robustness-Oriented Testing for Deep Learning Systems*. 43rd International Conference on Software Engineering, Madrid, Spain, May 2021. (13x/615, Acceptance rate: 21%)
+- [C16, **ETAPS/TACAS, CCF B**] Pengfei Yang, Renjue Li, Jianlin Li, Cheng-Chao Huang, **Jingyi Wang**, Jun Sun, Bai Xue and Lijun Zhang. *Improving Neural Network Verification through Spurious Region Guided Refinement*, 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, Luxembourg, Luxembourg (online), Apr 2021.
+
+- [C15, **ICSE, CCF A**] **Jingyi Wang**, Jialuo Chen, Youcheng Sun, Xingjun Ma, Dongxia Wang, Jun Sun and Peng Cheng. *RobOT: Robustness-Oriented Testing for Deep Learning Systems*. 43rd International Conference on Software Engineering, Madrid, Spain (online), May 2021. (13x/615, Acceptance rate: 21%)
 
 
 ### 2020
 
-- [C14, **ASE, CCF A**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia, Sep 2020. (92/414, Acceptance rate: 22.5%)
+- [C14, **ASE, CCF A**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia (online), Sep 2020. (92/414, Acceptance rate: 22.5%)
 
-- [C13, **ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea, Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129</font>)
+- [C13, **ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea (online), Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129</font>)
 
-- [C12, **ICECCS, CCF C**] Yizhen Dong, Peixin Zhang, **Jingyi Wang\***, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore.
+- [C12, **ICECCS, CCF C**] Yizhen Dong, Peixin Zhang, **Jingyi Wang\***, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore (online).
 
 ### 2019
 
