@@ -5,7 +5,7 @@ permalink: /about/
 image: images/mon.jpeg
 ---
 
-I am a US-equivalent tenure-track Assistant Professor at College of Control Science and Engineering, Zhejiang University, China.
+I am a tenure-track Assistant Professor at Zhejiang University, Hangzhou, China.
 
 I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018. I obtained my B.E. in information engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
  
@@ -15,16 +15,16 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. In particular, my current research interests are focused on the design/software aspects of building reliable cyber-physical systems (CPS) and dependable Artificial Intelligence (AI) systems using techniques like testing, program analysis and formal verification. I received two ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020), the flagship conference in software engineering.
+I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. My current research interests are focused on the design/software aspects of building reliable cyber-physical systems (CPS) and dependable Artificial Intelligence (AI) systems using techniques like testing, program analysis and formal verification.
 
 *I have PhD and master positions available each year through CSE, ZJU. Feel free to contact me if you have overlapping research interests. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
 
 For ZJU students, check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
 
 
-#### Hobbies
+<!-- #### Hobbies
 
-Badminton, football, hiking, rock climbing, DOTA2, PES, Switch, travel, reading... 
+Badminton, football, hiking, rock climbing, DOTA2, PES, Switch, travel, reading...  -->
 
 
 #### Contact
