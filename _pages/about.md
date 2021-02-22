@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: images/mon.jpeg
+image: images/wl.jpg
 ---
 
 I am a tenure-track Assistant Professor at Zhejiang University, Hangzhou, China.
@@ -15,7 +15,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. My current research interests are focused on the design/software aspects of building reliable cyber-physical systems (CPS) and dependable Artificial Intelligence (AI) systems using techniques like testing, program analysis and formal verification.
+I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. My current research interests are focused on the design/software aspects of building reliable cyber-physical systems (CPS) and trustworthy Artificial Intelligence (AI) systems using techniques like testing, program analysis and formal verification.
 
 *I have PhD and master positions available each year through CSE, ZJU. Feel free to contact me if you have overlapping research interests. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
 
