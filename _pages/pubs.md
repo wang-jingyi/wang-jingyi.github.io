@@ -14,6 +14,8 @@ permalink: /pubs/
 
 ### 2021
 
+- [J18, **IJCIP**] Yifan Jia, **Jingyi Wang**, Christopher M. Poskitt, Jun Sun and Yuqi Chen. *Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems*, International Journal of Critical Infrastructure Protection. (Accepted)
+
 - [C17, **ISSTA, CCF A**] Zhe Zhao, Guangke Chen, **Jingyi Wang**, Yiwei Yang, Fu Song and Jun Sun. *Attack as Defense: Characterizing Adversarial Examples using Robustness*, 30th International Symposium on Software Testing and Analysis (online), July 2021. (51/233, Acceptance rate: 22%)
 
 - [C16, **ETAPS/TACAS, CCF B**] Pengfei Yang, Renjue Li, Jianlin Li, Cheng-Chao Huang, **Jingyi Wang**, Jun Sun, Bai Xue and Lijun Zhang. *Improving Neural Network Verification through Spurious Region Guided Refinement*, 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, Luxembourg, Luxembourg (online), Apr 2021.

@@ -1,10 +1,13 @@
-I"G+<h6 id="-means-corresponding-author"><font color="#dd0000">* means corresponding author</font></h6>
+I"|,<h6 id="-means-corresponding-author"><font color="#dd0000">* means corresponding author</font></h6>
 <!-- *Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized than top-tier journal papers. ([Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en))*
  -->
 
 <h3 id="2021">2021</h3>
 
 <ul>
+  <li>
+    <p>[J18, <strong>IJCIP</strong>] Yifan Jia, <strong>Jingyi Wang</strong>, Christopher M. Poskitt, Jun Sun and Yuqi Chen. <em>Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems</em>, International Journal of Critical Infrastructure Protection. (Accepted)</p>
+  </li>
   <li>
     <p>[C17, <strong>ISSTA, CCF A</strong>] Zhe Zhao, Guangke Chen, <strong>Jingyi Wang</strong>, Yiwei Yang, Fu Song and Jun Sun. <em>Attack as Defense: Characterizing Adversarial Examples using Robustness</em>, 30th International Symposium on Software Testing and Analysis (online), July 2021. (51/233, Acceptance rate: 22%)</p>
   </li>
