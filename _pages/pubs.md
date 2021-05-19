@@ -14,7 +14,7 @@ permalink: /pubs/
 
 ### 2021
 
-- [J18, **IJCIP**] Yifan Jia, **Jingyi Wang**, Christopher M. Poskitt, Jun Sun and Yuqi Chen. *Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems*, International Journal of Critical Infrastructure Protection. (Accepted)
+- [J18, **IJCIP**] Yifan Jia, **Jingyi Wang**, Christopher M. Poskitt, Sudipta Chattopadhyay, Jun Sun and Yuqi Chen. *Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems*, International Journal of Critical Infrastructure Protection. (Accepted)
 
 - [C17, **ISSTA, CCF A**] Zhe Zhao, Guangke Chen, **Jingyi Wang**, Yiwei Yang, Fu Song and Jun Sun. *Attack as Defense: Characterizing Adversarial Examples using Robustness*, 30th International Symposium on Software Testing and Analysis (online), July 2021. (51/233, Acceptance rate: 22%)
 
