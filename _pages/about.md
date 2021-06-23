@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-# image: images/wl.jpg
+image: images/back.jpeg
 ---
 
 I am a US-equivalent tenure-track Assistant Professor at Zhejiang University, Hangzhou, China.
@@ -15,7 +15,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. My current research interests are focused on the design/software aspects of building reliable cyber-physical systems (CPS) and trustworthy Artificial Intelligence (AI) systems using techniques like testing, program analysis and formal verification.
+I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. My current research interests are focused on the design/software aspects of building trustworthy Artificial Intelligence (AI) systems and reliable cyber-physical systems (CPS) using techniques like testing, program analysis and formal verification.
 
 *I have PhD/master/research intern positions available each year through CSE, ZJU. Feel free to contact me if you have overlapping research interests. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
 
@@ -30,7 +30,7 @@ Badminton, football, travel, rock climbing, DOTA2, PES, travel, etc -->
 #### Contact
 
 **[wangjyee *at* gmail *dot* com](mailto:wangjyee@gmail.com)**
-Yuquan Campus, ZJU, Lecture Building 9, Room 307
+Yuquan Campus, ZJU, Lecture Building 9, 307 Lab
 
 <!-- Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
 
