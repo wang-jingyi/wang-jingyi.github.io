@@ -15,9 +15,9 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-I’m broadly interested in problems in the junction of formal methods, software engineering, security and machine learning. My current research interests are focused on the design/software aspects of building trustworthy Artificial Intelligence (AI) systems and reliable cyber-physical systems (CPS) using techniques like testing, program analysis and formal verification.
+I’m broadly interested in problems in the junction of formal methods, software engineering, system security and machine learning. My current research interests are focused on the design/software aspects of building trustworthy Artificial Intelligence (AI) systems and reliable cyber-physical systems (CPS) using techniques like testing, program analysis and formal verification.
 
-*I have PhD/master/research intern positions available each year through CSE, ZJU. Feel free to contact me if you have overlapping research interests. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
+*I have multiple PostDoc/PhD/master/research intern positions available each year through SCSE, ZJU. Feel free to contact me if you are excited about the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
 
 For ZJU students, check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
 
