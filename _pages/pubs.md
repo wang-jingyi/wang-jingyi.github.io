@@ -15,6 +15,9 @@ permalink: /pubs/
 
 ### 2021
 
+
+- [J20, **JCST, CCF B**] Ke Liu, **Jingyi Wang**, Qiang Wei, Zhengyong Zhang, Jun Sun,  Rongkuan Ma, Ruilong Deng. *HRPDF: A Software-Based Heterogeneous Redundant Proactive Defense Framework for Programmable Logic Controller*, Journal of Computer Science and Technology. (Accepted)
+
 - [J19, **TSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Xinyu Wang, Guoliang Dong, Xinggen Wang, Ting Dai and Jin Song Dong. *Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling*, IEEE Transactions on Software Engineering. (Accepted)
 
 - [J18, **IJCIP**] Yifan Jia, **Jingyi Wang**, Christopher M. Poskitt, Sudipta Chattopadhyay, Jun Sun and Yuqi Chen. *Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems*, International Journal of Critical Infrastructure Protection. (Accepted)

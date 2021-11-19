@@ -1,4 +1,4 @@
-I".<h6 id="-means-corresponding-author"><font color="#dd0000">* means corresponding author</font></h6>
+I"W/<h6 id="-means-corresponding-author"><font color="#dd0000">* means corresponding author</font></h6>
 <!-- *Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized than top-tier journal papers.*  -->
 <!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
  -->
@@ -6,6 +6,9 @@
 <h3 id="2021">2021</h3>
 
 <ul>
+  <li>
+    <p>[J20, <strong>JCST, CCF B</strong>] Ke Liu, <strong>Jingyi Wang</strong>, Qiang Wei, Zhengyong Zhang, Jun Sun,  Rongkuan Ma, Ruilong Deng. <em>HRPDF: A Software-Based Heterogeneous Redundant Proactive Defense Framework for Programmable Logic Controller</em>, Journal of Computer Science and Technology. (Accepted)</p>
+  </li>
   <li>
     <p>[J19, <strong>TSE, CCF A</strong>] Peixin Zhang, <strong>Jingyi Wang</strong>*, Jun Sun, Xinyu Wang, Guoliang Dong, Xinggen Wang, Ting Dai and Jin Song Dong. <em>Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling</em>, IEEE Transactions on Software Engineering. (Accepted)</p>
   </li>
