@@ -12,6 +12,11 @@ permalink: /pubs/
  -->
 
 
+### 2022
+
+
+- [C21, **ICSE, CCF A**] Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**, Yue Yu and Jinyin Chen. *NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification*. 44th International Conference on Software Engineering, Pittsburgh, PA, USA, May, 2022. (197/751, Acceptance rate: 26%)
+
 
 ### 2021
 
