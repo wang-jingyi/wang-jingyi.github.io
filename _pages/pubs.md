@@ -6,12 +6,6 @@ permalink: /pubs/
 ---
 
 
-###### <font color="#dd0000">* means corresponding author</font>
-<!-- *Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized than top-tier journal papers.*  -->
-<!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
- -->
-
-
 
 ## Books and Book Articles
 
@@ -19,6 +13,12 @@ permalink: /pubs/
 
 
 ## Refereed Journal and Conference Articles
+
+###### <font color="#dd0000">* means corresponding author</font>
+<!-- *Note that in computer science, peer reviewed top-tier conference papers are equally (if not more) recoganized than top-tier journal papers.*  -->
+<!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
+ -->
+
 
 
 ### 2022
