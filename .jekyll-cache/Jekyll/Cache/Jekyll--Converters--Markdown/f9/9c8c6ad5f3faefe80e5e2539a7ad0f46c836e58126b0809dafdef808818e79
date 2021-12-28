@@ -1,0 +1,104 @@
+I"Q<h2 id="selected-projects">Selected Projects</h2>
+
+<ul>
+  <li><strong>PI</strong>: <em>Testing and Enhancing the Trustworthiness of Deep Learning Systems</em>, NSFC Youth Program, China</li>
+  <li><strong>PI</strong>: <em>Testing Perception System in Autonomous Driving Platforms</em>, Huawei, Singapore</li>
+  <li><strong>Co-PI</strong>: <em>A Testing Platform for Artificial Intelligent Systems in the Cyber Space</em>, Key R&amp;D Program of Zhejiang, China
+&lt;!– <strong>Co-PI</strong>: <em>Fairness Testing of Recommendation Systems</em>, Alibaba, China</li>
+  <li><strong>Co-PI</strong>: <em>Formal Verification of Cloud Network Configurations</em>, Alibaba, China</li>
+  <li><strong>Co-PI</strong>: <em>Formal Semantic Based Equivalence Verification of SQL Optimization</em>, Alibaba, China –&gt;</li>
+</ul>
+
+<!-- ## Selected Reserach -->
+
+<!-- A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+
+***
+
+### Headings by default:
+
+# H1 For example
+## H2 For example
+### H3 For example
+#### H4 For example
+##### H5 For example
+###### H6 For example
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gu">## Heading first level</span>
+<span class="gu">### Heading second level</span>
+<span class="gu">#### Heading third level</span></code></pre></figure>
+
+
+***
+
+### Lists
+
+#### Ordered list example:
+
+1. Poutine drinking vinegar bitters.
+2. Coloring book distillery fanny pack.
+3. Venmo biodiesel gentrify enamel pin meditation.
+4. Jean shorts shaman listicle pickled portland.
+5. Salvia mumblecore brunch iPhone migas.
+
+***
+
+#### Unordered list example:
+
+* Bitters semiotics vice thundercats synth.
+* Literally cred narwhal bitters wayfarers.
+* Kale chips chartreuse paleo tbh street art marfa.
+* Mlkshk polaroid sriracha brooklyn.
+* Pug you probably haven't heard of them air plant man bun.
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">1.</span> Order list item 1
+<span class="p">2.</span> Order list item 1
+<span class="p">
+*</span> Unordered list item 1
+<span class="p">*</span> Unordered list item 2</code></pre></figure>
+
+
+***
+
+### Quotes
+
+#### A quote looks like this:
+
+> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+>
+> <cite>George Bernard Shaw</cite>
+
+***
+
+
+
+### Syntax Highlighter
+
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js">  <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">click</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">html, body</span><span class="dl">'</span><span class="p">).</span><span class="nx">stop</span><span class="p">().</span><span class="nx">animate</span><span class="p">({</span> <span class="na">scrollTop</span><span class="p">:</span> <span class="mi">0</span> <span class="p">},</span> <span class="dl">'</span><span class="s1">slow</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">swing</span><span class="dl">'</span><span class="p">);</span>
+  <span class="p">});</span>
+  <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">scroll</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">scrollTop</span><span class="p">()</span> <span class="o">&gt;</span> <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">height</span><span class="p">())</span> <span class="p">{</span>
+      <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="dl">"</span><span class="s2">top-active</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+      <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">.top</span><span class="dl">'</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="dl">"</span><span class="s2">top-active</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">};</span>
+  <span class="p">});</span></code></pre></figure>
+
+
+***
+
+## Videos
+
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+
+***
+
+### Images
+
+![](/images/13.jpg)
+*Streets of New York* -->
+:ET

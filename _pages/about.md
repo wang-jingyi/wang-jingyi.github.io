@@ -17,7 +17,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 I’m broadly interested in problems in the junction of formal methods, software engineering, system security and machine learning. My current research interests are focused on the design/software aspects of building trustworthy Artificial Intelligence (AI) systems and reliable cyber-physical systems (CPS) using techniques like testing, program analysis and formal verification.
 
-*I have multiple PostDoc/PhD/master/research intern positions available each year through SCSE, ZJU. Feel free to contact me if you are excited about the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
+*I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to join my research group at ZJU. Feel free to contact me if you are interested in the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
 
 For ZJU students, check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
 
@@ -30,7 +30,7 @@ Badminton, football, travel, rock climbing, DOTA2, PES, travel, etc -->
 #### Contact
 
 **[wangjyee *at* gmail *dot* com](mailto:wangjyee@gmail.com)**
-Yuquan Campus, ZJU, Lecture Building 9, 307 Lab
+<!-- Yuquan Campus, ZJU, Lecture Building 9, 307 Lab -->
 
 <!-- Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
 
