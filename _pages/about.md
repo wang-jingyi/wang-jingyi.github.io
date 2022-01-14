@@ -7,6 +7,9 @@ image: images/back.jpeg
 
 I am a US-equivalent tenure-track Assistant Professor at Zhejiang University, Hangzhou, China.
 
+
+#### Experience
+
 I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018. I obtained my B.E. in information engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
  
 
@@ -15,9 +18,11 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-I’m broadly interested in problems in the junction of formal methods, software engineering, system security and machine learning. My current research interests are focused on the design/software aspects of building trustworthy Artificial Intelligence (AI) systems and reliable cyber-physical systems (CPS) using techniques like testing, program analysis and formal verification.
+In general, my research aims to answer the question: *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.*
 
-*I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to join my research group at ZJU. Feel free to contact me if you are interested in the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.*
+#### Vacencies
+
+**I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns with internationally competative packages to join my group at ZJU.** Feel free to drop me an email if you are interested in any of the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.
 
 For ZJU students, check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
 
@@ -29,7 +34,7 @@ Badminton, football, travel, rock climbing, DOTA2, PES, travel, etc -->
 
 #### Contact
 
-**[wangjyee *at* gmail *dot* com](mailto:wangjyee@gmail.com)**
+[wangjyee *at* gmail *dot* com](mailto:wangjyee@gmail.com)
 <!-- Yuquan Campus, ZJU, Lecture Building 9, 307 Lab -->
 
 <!-- Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
