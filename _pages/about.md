@@ -5,7 +5,7 @@ permalink: /about/
 image: images/back.jpeg
 ---
 
-I am a US-equivalent tenure-track Assistant Professor at Zhejiang University, Hangzhou, China.
+I am a US-equivalent tenure-track Assistant Professor leading the [IS2 Lab](http://is2lab.github.io) at Zhejiang University, Hangzhou, China.
 
 
 #### Experience
@@ -18,13 +18,13 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research aims to answer the question: *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.*
+In general, my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving, industrial control systems, and recommendation systems, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.*
 
 #### Vacencies
 
-**I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns with internationally competative packages to join my group at ZJU.** Feel free to drop me an email if you are interested in any of the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.
+**I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns with competitive packages to join my group at ZJU.** Feel free to drop me an email with CV if you are interested in any of the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.
 
-For ZJU students, check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
+For ZJU students, kindly check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
 
 
 <!-- #### Hobbies
