@@ -13,7 +13,7 @@ permalink: /res/
 - **PI**: *Testing Perception System in Autonomous Driving Platforms*, Huawei, Singapore
 - **Co-PI**: *A Testing Platform for Artificial Intelligent Systems in the Cyber Space*, Key R&D Program of Zhejiang, China
 
-
+*Please refer to our lab website [here](https://is2lab.github.io/res/) for more details.*
 
 <!-- ## Selected Reserach -->
 
