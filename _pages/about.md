@@ -22,14 +22,14 @@ In general, my research concerns *how to better design, implement and analyze sy
 
 #### Vacencies
 
-**I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns with competitive packages to join my group at ZJU.** Feel free to drop me an email with CV if you are interested in any of the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.
+*I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns with competitive packages to join my group at ZJU.* Feel free to drop me an email with CV if you are interested in any of the above research topics. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research.
 
 For ZJU students, kindly check out [my *Google Calendar*](https://calendar.google.com/calendar/embed?src=qkh51dmm82eftcjm349nq3lkr8%40group.calendar.google.com&ctz=Asia%2FSingapore) if you wish to have a talk.
 
 
-<!-- #### Hobbies
+#### Hobbies
 
-Badminton, football, travel, rock climbing, DOTA2, PES, travel, etc --> 
+Badminton, football, rock climbing, DOTA2, PES, etc 
 
 
 #### Contact

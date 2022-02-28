@@ -9,9 +9,10 @@ permalink: /res/
 
 ## Selected Projects
 
-- **PI**: *Testing and Enhancing the Trustworthiness of Deep Learning Systems*, NSFC Youth Program, China
-- **PI**: *Testing Perception System in Autonomous Driving Platforms*, Huawei, Singapore
-- **Co-PI**: *A Testing Platform for Artificial Intelligent Systems in the Cyber Space*, Key R&D Program of Zhejiang, China
+- **PI**: *Testing and Enhancing the Trustworthiness of Deep Learning Systems*, NSFC Program for Young Scientist, China
+- **PI**: *Testing the Perception System of Autonomous Driving Platforms*, Huawei, Singapore
+- **Co-PI**: *Equivalence Checking of Database Query Optimizations*, Alibaba, China
+- **Co-PI**: *A Testing Platform for Artificial Intelligent Systems in the Cyber Space*, the Key R&D Program of Zhejiang, China
 
 *Please refer to our lab website [here](https://is2lab.github.io/res/) for more details.*
 
