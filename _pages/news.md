@@ -7,7 +7,7 @@ permalink: /news/
 
 
 - [2022/03] Gave a keynote talk at 1st International Conference on Linking Software Engineering, Artificial Intelligence and Security, Singapore, 2022.
-- [2022/01] One paper seleted as *Spotlight Paper* by FITEE.
+- [2022/01] One paper selected as *Spotlight Paper* by FITEE.
 - [2022/01] One paper accepted by IEEE S&P 2022.
 - [2021/12] One paper accepted by ICSE 2022.
 - [2021/04] One paper accepted by ISSTA 2021.
