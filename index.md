@@ -18,7 +18,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains.</u>
+In general, my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains to improve the system reliability and security.</u>
 
 #### Vacencies
 
