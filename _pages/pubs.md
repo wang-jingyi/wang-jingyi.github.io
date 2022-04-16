@@ -32,6 +32,10 @@ permalink: /pubs/
 - [**ICSE, CCF A**] Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**, Yue Yu and Jinyin Chen. *NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification*. 44th International Conference on Software Engineering, Pittsburgh, PA, USA, May, 2022. (197/751, Acceptance rate: 26%)
 
 
+- [**ASE-J, CCF B**] Mengdi Zhang, Jun Sun and **Jingyi Wang**. *Which neural network makes more explainable decisions? An approach towards measuring explainability*. Automated Software Engineering, 2022.
+
+- [**TASE, CCF C**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong. *Repairing Adversarial Texts through Perturbation*. 16th International Symposium on Theoretical Aspects of Software Engineering, Cluj-Napoca, Romania, July, 2022.
+
 - [**FITEE**] Rongkuan Ma, Hao Zheng, **Jingyi Wang**, Mufeng Wang, Qiang Wei, Qingxian Wang. *Automatic Protocol Reverse-engineering for Industrial Control Systems with Dynamic Taint Analysis*. Frontiers of Information Technology & Electronic Engineering, 2022. (<font color="#dd0000">Spotlight Paper</font>)
 
 ### 2021

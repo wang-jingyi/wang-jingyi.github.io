@@ -5,10 +5,10 @@ permalink: /news/
 <!-- image: images/12.jpg -->
 ---
 
-
+- [2022/03] One paper accepted by ASE Journal.
 - [2022/03] Gave a keynote talk at the 1st International Conference on Linking Software Engineering, Artificial Intelligence and Security, Singapore, 2022.
 - [2022/01] One paper selected as *Spotlight Paper* by FITEE.
-- [2022/01] One paper accepted by IEEE S&P 2022.
+- [2022/01] One paper accepted by Oakland 2022.
 - [2021/12] One paper accepted by ICSE 2022.
 - [2021/04] One paper accepted by ISSTA 2021.
 - [2021/03] Our ICSE 2020 work on fairness testing of deep learning models has been selected as <font color="#dd0000">ACM SIGSOFT Research Highlights</font>.
