@@ -5,6 +5,7 @@ permalink: /news/
 <!-- image: images/12.jpg -->
 ---
 
+- [2022/06] Gave two invited talks at the Trustworthy AI seminar of CodeWisdom Group, Fudan University and the Spatio Temporal Computing Lab, Zhejiang University. 
 - [2022/03] One paper accepted by ASE Journal.
 - [2022/03] Gave a keynote talk at the 1st International Conference on Linking Software Engineering, Artificial Intelligence and Security, Singapore, 2022.
 - [2022/01] One paper selected as *Spotlight Paper* by FITEE.
