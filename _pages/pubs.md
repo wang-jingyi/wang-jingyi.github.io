@@ -36,7 +36,9 @@ permalink: /pubs/
 
 - [**TASE, CCF C**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong. *Repairing Adversarial Texts through Perturbation*. 16th International Symposium on Theoretical Aspects of Software Engineering, Cluj-Napoca, Romania, July, 2022.
 
-- [**FITEE**] Rongkuan Ma, Hao Zheng, **Jingyi Wang**, Mufeng Wang, Qiang Wei, Qingxian Wang. *Automatic Protocol Reverse-engineering for Industrial Control Systems with Dynamic Taint Analysis*. Frontiers of Information Technology & Electronic Engineering, 2022. (<font color="#dd0000">Spotlight Paper</font>)
+- [**FITEE**] Rongkuan Ma, Hao Zheng, **Jingyi Wang**, Mufeng Wang, Qiang Wei and Qingxian Wang. *Automatic Protocol Reverse-engineering for Industrial Control Systems with Dynamic Taint Analysis*. Frontiers of Information Technology & Electronic Engineering, 2022. (<font color="#dd0000">Spotlight Paper</font>)
+
+- [**IoT**] Yangyang Geng, Yuqi Chen, Rongkuan Ma, Qiang Wei, Jie Pan, **Jingyi Wang**, Peng Cheng and Qingxian Wang. *Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check*. IEEE Internet of Things Journal, 2022.
 
 ### 2021
 
