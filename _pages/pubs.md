@@ -23,14 +23,12 @@ permalink: /pubs/
 
 ### 2022
 
-
-
-
 - [**IEEE S&P, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, Xingjun Ma, Bo Li and Dawn Song. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 43rd IEEE Symposium on Security and Privacy, Oakland, USA, May 2022.
 
 
 - [**ICSE, CCF A**] Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**, Yue Yu and Jinyin Chen. *NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification*. 44th International Conference on Software Engineering, Pittsburgh, PA, USA, May, 2022. (197/751, Acceptance rate: 26%)
 
+- [**TOSEM, CCF A**] Jialuo Chen, Jingyi Wang\*, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng. *QuoTe: Quality-oriented Testing for Deep Learning Systems*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
 - [**ASE-J, CCF B**] Mengdi Zhang, Jun Sun and **Jingyi Wang**. *Which neural network makes more explainable decisions? An approach towards measuring explainability*. Automated Software Engineering, 2022.
 
@@ -58,7 +56,7 @@ permalink: /pubs/
 
 ### 2020
 
-- [**ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea (online), Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award 10/129, ACM SIGSOFT Research Highlights.</font>)
+- [**ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea (online), Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award, ACM SIGSOFT Research Highlights.</font>)
 
 
 - [**ASE, CCF A**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia (online), Sep 2020. (92/414, Acceptance rate: 22.5%)
