@@ -5,7 +5,7 @@ permalink: /pubs/
 <!-- image: images/12.jpg -->
 ---
 
-
+<!-- *Please refer to our lab website [here](https://is2lab.github.io/publications/) for more details.* -->
 
 ## Books and Book Articles
 
@@ -20,15 +20,22 @@ permalink: /pubs/
  -->
 
 
+### 2023
+
+- [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*, 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
+
+- [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**\*, Peng Cheng and Xingjun Ma. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
+
+- [**中文CCF A**] 周涛，甘燃，徐东伟，**王竟亦**，宣琦. *图像对抗样本检测综述*. 软件学报. （已接收）
+
 
 ### 2022
 
-- [**IEEE S&P, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, Xingjun Ma, Bo Li and Dawn Song. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 43rd IEEE Symposium on Security and Privacy, Oakland, USA, May 2022.
-
-
-- [**ICSE, CCF A**] Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**, Yue Yu and Jinyin Chen. *NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification*. 44th International Conference on Software Engineering, Pittsburgh, PA, USA, May, 2022. (197/751, Acceptance rate: 26%)
+- [**S&P, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, Xingjun Ma, Bo Li and Dawn Song. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 43rd IEEE Symposium on Security and Privacy, Oakland, USA, May 2022.
 
 - [**TOSEM, CCF A**] Jialuo Chen, Jingyi Wang\*, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng. *QuoTe: Quality-oriented Testing for Deep Learning Systems*. ACM Transactions on Software Engineering and Methodology. (Accepted)
+
+- [**ICSE, CCF A**] Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**, Yue Yu and Jinyin Chen. *NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification*. 44th International Conference on Software Engineering, Pittsburgh, PA, USA, May, 2022. (197/751, Acceptance rate: 26%)
 
 - [**ASE-J, CCF B**] Mengdi Zhang, Jun Sun and **Jingyi Wang**. *Which neural network makes more explainable decisions? An approach towards measuring explainability*. Automated Software Engineering, 2022.
 
@@ -36,7 +43,7 @@ permalink: /pubs/
 
 - [**FITEE**] Rongkuan Ma, Hao Zheng, **Jingyi Wang**, Mufeng Wang, Qiang Wei and Qingxian Wang. *Automatic Protocol Reverse-engineering for Industrial Control Systems with Dynamic Taint Analysis*. Frontiers of Information Technology & Electronic Engineering, 2022. (<font color="#dd0000">Spotlight Paper</font>)
 
-- [**IoT**] Yangyang Geng, Yuqi Chen, Rongkuan Ma, Qiang Wei, Jie Pan, **Jingyi Wang**, Peng Cheng and Qingxian Wang. *Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check*. IEEE Internet of Things Journal, 2022.
+- [**IoT**] Yangyang Geng, Yuqi Chen, Rongkuan Ma, Qiang Wei, Jie Pan, **Jingyi Wang**, Peng Cheng and Qingxian Wang. *Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check*. IEEE Internet of Things Journal. (Accepted)
 
 ### 2021
 
@@ -68,13 +75,13 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] **Jingyi Wang**, Guoliang Dong, Jun Sun, Xinyu Wang and Peixin Zhang. *Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing*. 41st International Conference on Software Engineering, Montreal, Canada, May 2019. (109/529, Acceptance rate: 20.6%)
 
-- [**TSE, CCF A**] **Jingyi Wang**, Jun Sun, Shengchao Qin and Cyrille Jegourel. *Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement*, IEEE Transactions on Software Engineering, 2019.
+- [**TSE, CCF A**] **Jingyi Wang**, Jun Sun, Shengchao Qin and Cyrille Jegourel. *Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement*, IEEE Transactions on Software Engineering. (Accepted)
 
 ### 2018
 
-- [**ICSE, CCF A**] Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, **Jingyi Wang**\* and Yun Lin. *Towards Optimal Concolic Testing*, 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018. (Acceptance rate：20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>)
+- [**FM, CCF A**] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)
 
-- [**FM, CCF B**] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)
+- [**ICSE, CCF A**] Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, **Jingyi Wang**\* and Yun Lin. *Towards Optimal Concolic Testing*, 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018. (Acceptance rate：20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>)
 
 - [**DSN, CCF B**] Cyrille Jegourel, **Jingyi Wang** and Jun Sun. *Importance Sampling of Interval Markov Chains*, 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018. (Acceptance rate: 26.7%)
 
@@ -90,7 +97,7 @@ permalink: /pubs/
 
 ### 2016
 
-- [**FM, CCF B**] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**. *Towards Concolic Testing for Hybrid Systems*, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.
+- [**FM, CCF A**] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**. *Towards Concolic Testing for Hybrid Systems*, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.
 
 - [**ICFEM, CCF C**] Manman Chen, Tian Huat Tan, Jun Sun, **Jingyi Wang**, Yang Liu, Jing Sun, Jin Song Dong, *Service Adaption with Probabilistic Partial Models*, 18th International Conference on Formal Engineering Methods (ICFEM), Tokyo, Japan, Nov 2016.
 
