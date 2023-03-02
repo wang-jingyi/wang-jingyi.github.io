@@ -17,10 +17,10 @@ permalink: /service/
 #### Reviewer
 
 - IEEE Transactions on Software Engineering
-- IEEE Tranactions on Dependable and Secure Computing
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Tranactions on Realibility
-- IEEE Tranactions on Network Science and Engineering
+- IEEE Transactions on Reliability
+- IEEE Transactions on Network Science and Engineering
 - Information Fusion
 - Science of Computer Programming
 - Information and Software Technology
@@ -33,7 +33,7 @@ permalink: /service/
 - 北京大学Applied Mathematics Seminar
 - CCF形式化方法专委会可信AI系列报告
 - International Joint Conference On Theoretical Computer Science – Frontier of Algorithmic Wisdom 2022
-- (Keynote) The 1st International Conference on linking Software Engineering, Aritificial Intelligence and Security
+- (Keynote) The 1st International Conference on linking Software Engineering, Artificial Intelligence and Security
 - 复旦大学CodeWisdom可信AI系列论坛
 - 中国软件大会ChinaSoft 2021 优秀青年学者论坛 
 - 中国软件大会ChinaSoft 2020 新兴软件安全论坛 ­
