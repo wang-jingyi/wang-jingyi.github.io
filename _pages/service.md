@@ -29,6 +29,7 @@ permalink: /service/
 
 
 #### Talks
+- OPPO&西安交通大学 泛终端安全技术研讨会
 - 中国软件大会ChinaSoft 2022 CCF-华为胡杨林基金形式化方法专项论坛
 - 北京大学Applied Mathematics Seminar
 - CCF形式化方法专委会可信AI系列报告
