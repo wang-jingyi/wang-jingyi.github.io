@@ -24,6 +24,8 @@ permalink: /pubs/
 
 - [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*, 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
 
+- [**TOSEM, CCF A**] Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun. *TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination*. ACM Transactions on Software Engineering and Methodology. (Accepted)
+
 - [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**\*, Peng Cheng and Xingjun Ma. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
 
 - [**中文CCF A**] 周涛，甘燃，徐东伟，**王竟亦**，宣琦. *图像对抗样本检测综述*. 软件学报. （已接收）
