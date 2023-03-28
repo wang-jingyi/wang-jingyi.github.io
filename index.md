@@ -38,9 +38,9 @@ Feel free to drop me an email with CV if you find any of the above research topi
 
 #### Hobbies
 
-I play badminton regularly;
-I love to play DOTA2 and PES when I have the time;
-I love football and am a fan of Leo Messi, GOAT!
+- I play badminton regularly;
+- I love to play DOTA2 and PES when I have the time;
+- I love football and am a fan of Leo Messi, GOAT!
 
 #### Contact
 
