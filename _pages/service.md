@@ -8,7 +8,7 @@ permalink: /service/
 
 #### Program Committee Member
 
-- 2023: ICSE/SCORE, ATVA, SiMLA
+- 2023: ICSE/SCORE, ATVA, SETTA, SiMLA
 - 2022: InternetWare, SEAIS, SiMLA
 - 2021: 2 Tracks of ChinaSoft
 - 2020 and before: InternetWare 2020, ChinaSoft 2020, APSEC 2020, InternetWare 2019, ICFEM 2019
@@ -28,7 +28,7 @@ permalink: /service/
 - Frontier of Computer Science, AVOCS 2015/2017, APSEC 2016, TASE 2016, Internetware 2017, ICOST 2018, ICFEM 2018/2019, PRDC 2018, TASE 2019, FM 2019, ATVA 2020, ISSRE 2021/2022, 软件学报等 
 
 
-#### Talks
+#### Selected Talks
 - OPPO&西安交通大学 泛终端安全技术研讨会
 - 中国软件大会ChinaSoft 2022 CCF-华为胡杨林基金形式化方法专项论坛
 - 北京大学Applied Mathematics Seminar

@@ -22,7 +22,9 @@ permalink: /pubs/
 
 ### 2023
 
-- [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*, 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
+- [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security (CCS), Copenhagen, Denmark, Nov 2023.
+
+- [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*. 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
 
 - [**TOSEM, CCF A**] Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun. *TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
@@ -35,7 +37,7 @@ permalink: /pubs/
 
 - [**S&P, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, Xingjun Ma, Bo Li and Dawn Song. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 43rd IEEE Symposium on Security and Privacy, Oakland, USA, May 2022.
 
-- [**TOSEM, CCF A**] Jialuo Chen, Jingyi Wang\*, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng. *QuoTe: Quality-oriented Testing for Deep Learning Systems*. ACM Transactions on Software Engineering and Methodology. (Accepted)
+- [**TOSEM, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng. *QuoTe: Quality-oriented Testing for Deep Learning Systems*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
 - [**ICSE, CCF A**] Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**, Yue Yu and Jinyin Chen. *NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification*. 44th International Conference on Software Engineering, Pittsburgh, PA, USA, May, 2022. (197/751, Acceptance rate: 26%)
 
