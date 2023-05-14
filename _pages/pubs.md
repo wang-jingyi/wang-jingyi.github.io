@@ -22,13 +22,13 @@ permalink: /pubs/
 
 ### 2023
 
-- [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security (CCS), Copenhagen, Denmark, Nov 2023.
+- [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security, Copenhagen, Denmark, Nov 2023.
 
 - [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*. 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
 
 - [**TOSEM, CCF A**] Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun. *TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
-- [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**\*, Peng Cheng and Xingjun Ma. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
+- [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**\*, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
 
 - [**中文CCF A**] 周涛，甘燃，徐东伟，**王竟亦**，宣琦. *图像对抗样本检测综述*. 软件学报. （已接收）
 

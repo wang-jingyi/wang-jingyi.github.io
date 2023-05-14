@@ -23,10 +23,10 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 #### Research Interest
 
 In general, my research aims to build more trustworthy systems or software with the help of formal methods or software engineering techniques. Currently, I am particularly interested in the following research topics:
-- Testing, verification and repair of practical artificial intelligence (AI) systems;
-- Verification of concurrent reactive systems, OS kernels;
-- AI-assisted formal modelling and verification of security protocols;
-- Other related topics like fuzzing, symbolic execution, etc.
+- Testing, verification and repair of artificial intelligence (AI) systems;
+- Verification of concurrent reactive systems, e.g., OS kernels and industrial control systems;
+- AI-assisted modeling and verification of security protocols;
+- Other related topics like fuzzing, symbolic execution, runtime monitoring, etc.
 
 Collaborations are warmly welcome from both academia or industry!
 
