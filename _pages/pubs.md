@@ -30,6 +30,10 @@ permalink: /pubs/
 
 - [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**\*, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
 
+- [**CONFEST/FMICS**] Huan Sun, Ziyu Mao, **Jingyi Wang**\*, Ziyan Zhao, Wenhai Wang. *Applying Rely-guarantee Reasoning on Concurrent Memory Management and Mailbox in μC/OS-II: A Case Study*. 28th International Conference on Formal Methods for Industrial Critical Systems, part of CONFEST 2023, Antwerp, Belgium, Sep, 2023. 
+
+- [**ICICS**] Weipeng Jiang, Chao Shen, Chenhao Lin, Jingyi Wang, Jun Sun and Xuanqi Gao. *Black-Box Fairness Testing with Shadow Models*. 25th International Conference on Information and Communications Security, Tianjin, China, November, 2023. 
+
 - [**中文CCF A**] 周涛，甘燃，徐东伟，**王竟亦**，宣琦. *图像对抗样本检测综述*. 软件学报. （已接收）
 
 
@@ -58,7 +62,7 @@ permalink: /pubs/
 
 - [**ISSTA, CCF A**] Zhe Zhao, Guangke Chen, **Jingyi Wang**, Yiwei Yang, Fu Song and Jun Sun. *Attack as Defense: Characterizing Adversarial Examples using Robustness*, 30th International Symposium on Software Testing and Analysis (online), July 2021. (51/233, Acceptance rate: 22%)
 
-- [**ETAPS/TACAS, CCF B**] Pengfei Yang, Renjue Li, Jianlin Li, Cheng-Chao Huang, **Jingyi Wang**, Jun Sun, Bai Xue and Lijun Zhang. *Improving Neural Network Verification through Spurious Region Guided Refinement*, 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, Luxembourg, Luxembourg (online), Apr 2021.
+- [**ETAPS/TACAS, CCF B**] Pengfei Yang, Renjue Li, Jianlin Li, Cheng-Chao Huang, **Jingyi Wang**, Jun Sun, Bai Xue and Lijun Zhang. *Improving Neural Network Verification through Spurious Region Guided Refinement*, 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, part of ETAPS 2021, Luxembourg, Luxembourg (online), Apr 2021.
 
 - [**JCST, CCF B**] Ke Liu, **Jingyi Wang**, Qiang Wei, Zhengyong Zhang, Jun Sun,  Rongkuan Ma, Ruilong Deng. *HRPDF: A Software-Based Heterogeneous Redundant Proactive Defense Framework for Programmable Logic Controller*, Journal of Computer Science and Technology. (Accepted)
 
@@ -93,7 +97,7 @@ permalink: /pubs/
 
 ### 2017
 
-- [**ETAPS/FASE, CCF B**] **Jingyi Wang**, Jun Sun, Qixia Yuan, Jun Pang. *Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study*, 20th International Conference on Fundamental Approaches to Software Engineering, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)
+- [**ETAPS/FASE, CCF B**] **Jingyi Wang**, Jun Sun, Qixia Yuan, Jun Pang. *Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study*, 20th International Conference on Fundamental Approaches to Software Engineering, part of ETAPS 2017, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)
 
 - [**ICFEM, CCF C**] **Jingyi Wang**, Xiaohong Chen, Jun Sun, Shengchao Qin. *Improving Probability Estimation through Active Probabilistic Model Learning*, 19th International Conference on Formal Engineering Methods, Xi’an, China, Nov 2017.
 

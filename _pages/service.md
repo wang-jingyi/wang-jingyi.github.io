@@ -29,17 +29,19 @@ permalink: /service/
 
 
 #### Selected Talks
-- OPPO&西安交通大学 泛终端安全技术研讨会
+
+- CCF形式化方法专委会可信人工智能系列研讨会-华师大 2023
+- OPPO&西安交通大学 泛终端安全技术研讨会 2023
 - 中国软件大会ChinaSoft 2022 CCF-华为胡杨林基金形式化方法专项论坛
 - 北京大学Applied Mathematics Seminar
-- CCF形式化方法专委会可信AI系列报告
+- CCF形式化方法专委会可信人工智能系列报告 2022
 - International Joint Conference On Theoretical Computer Science – Frontier of Algorithmic Wisdom 2022
-- (Keynote) The 1st International Conference on linking Software Engineering, Artificial Intelligence and Security
-- 复旦大学CodeWisdom可信AI系列论坛
+- (Keynote) The 1st International Conference on linking Software Engineering, Artificial Intelligence and Security 2022
+- 复旦大学CodeWisdom可信人工智能系列论坛
 - 中国软件大会ChinaSoft 2021 优秀青年学者论坛 
 - 中国软件大会ChinaSoft 2020 新兴软件安全论坛 ­
 - TedX Hangzhou
-- 华为AI安全论坛 2020
+- 华为人工智能安全论坛 2020
 - 浙江工业大学青年科学家论坛
 - Conference presentations: ICSE 2021/2019, FLOC/FM 2018, ETAPS/FASE 2017, ICFEM 2017/2016
 - Volunteers: FM 2014
