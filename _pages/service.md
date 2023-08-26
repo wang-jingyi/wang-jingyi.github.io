@@ -30,9 +30,11 @@ permalink: /service/
 
 #### Selected Talks
 
+- 华为形式化方法研讨会 2023
 - CCF形式化方法专委会可信人工智能系列研讨会-华师大 2023
 - OPPO&西安交通大学 泛终端安全技术研讨会 2023
-- 中国软件大会ChinaSoft 2022 CCF-华为胡杨林基金形式化方法专项论坛
+- 中国软件大会ChinaSoft 2022
+- CCF-华为胡杨林基金形式化方法专项论坛
 - 北京大学Applied Mathematics Seminar
 - CCF形式化方法专委会可信人工智能系列报告 2022
 - International Joint Conference On Theoretical Computer Science – Frontier of Algorithmic Wisdom 2022

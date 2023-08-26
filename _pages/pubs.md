@@ -19,10 +19,13 @@ permalink: /pubs/
 <!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
  -->
 
+### 2024
+
+- [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024. (First round accepted)
 
 ### 2023
 
-- [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security, Copenhagen, Denmark, Nov 2023.
+- [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security, Copenhagen, Denmark, Nov, 2023.
 
 - [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*. 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
 
@@ -47,11 +50,11 @@ permalink: /pubs/
 
 - [**ASE-J, CCF B**] Mengdi Zhang, Jun Sun and **Jingyi Wang**. *Which neural network makes more explainable decisions? An approach towards measuring explainability*. Automated Software Engineering, 2022.
 
-- [**TASE, CCF C**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong. *Repairing Adversarial Texts through Perturbation*. 16th International Symposium on Theoretical Aspects of Software Engineering, Cluj-Napoca, Romania, July, 2022.
-
 - [**FITEE**] Rongkuan Ma, Hao Zheng, **Jingyi Wang**, Mufeng Wang, Qiang Wei and Qingxian Wang. *Automatic Protocol Reverse-engineering for Industrial Control Systems with Dynamic Taint Analysis*. Frontiers of Information Technology & Electronic Engineering, 2022. (<font color="#dd0000">Spotlight Paper</font>)
 
-- [**IoT**] Yangyang Geng, Yuqi Chen, Rongkuan Ma, Qiang Wei, Jie Pan, **Jingyi Wang**, Peng Cheng and Qingxian Wang. *Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check*. IEEE Internet of Things Journal. (Accepted)
+- [**IoT-J**] Yangyang Geng, Yuqi Chen, Rongkuan Ma, Qiang Wei, Jie Pan, **Jingyi Wang**, Peng Cheng and Qingxian Wang. *Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check*. IEEE Internet of Things Journal. (Accepted)
+
+- [**TASE, CCF C**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong. *Repairing Adversarial Texts through Perturbation*. 16th International Symposium on Theoretical Aspects of Software Engineering, Cluj-Napoca, Romania, July, 2022.
 
 ### 2021
 
