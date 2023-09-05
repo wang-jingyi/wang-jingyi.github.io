@@ -31,9 +31,9 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun. *TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
-- [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**\*, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
-
 - [**CONFEST/FMICS**] Huan Sun, Ziyu Mao, **Jingyi Wang**\*, Ziyan Zhao, Wenhai Wang. *Applying Rely-guarantee Reasoning on Concurrent Memory Management and Mailbox in μC/OS-II: A Case Study*. 28th International Conference on Formal Methods for Industrial Critical Systems, part of CONFEST 2023, Antwerp, Belgium, Sep, 2023. 
+
+- [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
 
 - [**ICICS**] Weipeng Jiang, Chao Shen, Chenhao Lin, Jingyi Wang, Jun Sun and Xuanqi Gao. *Black-Box Fairness Testing with Shadow Models*. 25th International Conference on Information and Communications Security, Tianjin, China, November, 2023. 
 

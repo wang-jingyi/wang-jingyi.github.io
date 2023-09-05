@@ -17,6 +17,7 @@ permalink: /service/
 #### Reviewer
 
 - IEEE Transactions on Software Engineering
+- ACM Transactions on Software Engineering Methodolgy
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Reliability
@@ -30,7 +31,8 @@ permalink: /service/
 
 #### Selected Talks
 
-- 华为形式化方法研讨会 2023
+- CNCC云网融合中的网络形式化方法前沿技术论坛 2023
+- 华为香港形式化方法研讨会 2023
 - CCF形式化方法专委会可信人工智能系列研讨会-华师大 2023
 - OPPO&西安交通大学 泛终端安全技术研讨会 2023
 - 中国软件大会ChinaSoft 2022
