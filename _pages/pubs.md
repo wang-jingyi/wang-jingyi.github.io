@@ -27,17 +27,15 @@ permalink: /pubs/
 
 - [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security, Copenhagen, Denmark, Nov, 2023.
 
-- [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*. 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
-
 - [**TSE, CCF A**] Kun Wang, **Jingyi Wang**\*, Christopher M. Poskitt, Xiangxiang Chen, Jun Sun, and Peng Cheng. *K-ST: A Formal Executable Semantics of the Structured Text Language for PLCs*. IEEE Transactions on Software Engineering. (Accepted)
+
+- [**ISSTA, CCF A**] Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang and Hui Xue. *FairRec: Fairness Testing for Deep Recommender Systems*. 32nd International Symposium on Software Testing and Analysis, Seattle, USA, July 2023. (First round accepted 20/159, acceptance rate: 12.6%)
 
 - [**TOSEM, CCF A**] Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun. *TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
 - [**CONFEST/FMICS**] Huan Sun, Ziyu Mao, **Jingyi Wang**\*, Ziyan Zhao, Wenhai Wang. *Applying Rely-guarantee Reasoning on Concurrent Memory Management and Mailbox in μC/OS-II: A Case Study*. 28th International Conference on Formal Methods for Industrial Critical Systems, part of CONFEST 2023, Antwerp, Belgium, Sep, 2023. 
 
 - [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
-
-- [**ICICS**] Weipeng Jiang, Chao Shen, Chenhao Lin, Jingyi Wang, Jun Sun and Xuanqi Gao. *Black-Box Fairness Testing with Shadow Models*. 25th International Conference on Information and Communications Security, Tianjin, China, November, 2023. 
 
 - [**中文CCF A**] 周涛，甘燃，徐东伟，**王竟亦**，宣琦. *图像对抗样本检测综述*. 软件学报. （已接收）
 
