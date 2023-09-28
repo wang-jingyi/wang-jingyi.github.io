@@ -21,7 +21,7 @@ permalink: /pubs/
 
 ### 2024
 
-- [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024. (First round accepted)
+- [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024.
 
 ### 2023
 
@@ -34,6 +34,8 @@ permalink: /pubs/
 - [**TOSEM, CCF A**] Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun. *TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
 - [**CONFEST/FMICS**] Huan Sun, Ziyu Mao, **Jingyi Wang**\*, Ziyan Zhao, Wenhai Wang. *Applying Rely-guarantee Reasoning on Concurrent Memory Management and Mailbox in μC/OS-II: A Case Study*. 28th International Conference on Formal Methods for Industrial Critical Systems, part of CONFEST 2023, Antwerp, Belgium, Sep, 2023. 
+
+- [**Black Hat Europe**] Wenya Wang, Xingwei Lin, **Jingyi Wang**, Wang Gao, Dawu Gu. *HODOR: Reducing Attack Surface on Node.js via System Call Limitation*. Black Hat Europe, London, United Kingdom, Dec, 2023.
 
 - [**ICSE Demo**] Jialuo Chen, Youcheng Sun, **Jingyi Wang**, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering, Demostractions track, Melbourne, Australia, May, 2023.
 
