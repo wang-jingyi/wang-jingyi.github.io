@@ -22,7 +22,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research aims to build more trustworthy systems or software with the help of formal methods or software engineering techniques. Currently, I am particularly interested in the following research topics:
+In general, my research aims to *build more trustworthy intelligent systems or software with the help of formal methods or software engineering techniques*. Currently, I am particularly interested in the following research topics:
 - Testing, verification and repair of artificial intelligence (AI) systems;
 - Verification of concurrent reactive systems, e.g., OS kernels and industrial control systems;
 - AI-assisted modeling and verification of security protocols;
@@ -35,8 +35,7 @@ Collaborations are warmly welcome from both academia or industry!
 #### Vacancies
 
 <font color="#dd0000">
-I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU.
-</font> Feel free to drop me an email with CV if you are interested and find any of the above research topics interesting. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
+*I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU.* </font> Feel free to drop me an email with CV if you are interested and find any of the above research topics interesting. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
 
 
 #### Hobbies

@@ -23,6 +23,9 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024.
 
+- [**RA-L**] Yifan Jia, Christopher M. Poskitt, Peixin Zhang, **Jingyi Wang**, Jun Sun, Sudipta Chattopadhyay. *Robust and Fast DNN Model Training for Trustworthy Robots.* IEEE Robotics and Automation Letters. (Accepted)
+
+
 ### 2023
 
 - [**CCS, CCF A**] Wenya Wang, Xingwei Lin, **Jingyi Wang**\*, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang. *HODOR: Shrinking Attack Surface on Node.js via System Call Limitation*. 30th ACM Conference on Computer and Communications Security, Copenhagen, Denmark, Nov, 2023.
