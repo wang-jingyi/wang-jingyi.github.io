@@ -35,7 +35,8 @@ Collaborations are warmly welcome from both academia or industry!
 #### Vacancies
 
 <font color="#dd0000">
-*I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU.* </font> Feel free to drop me an email with CV if you are interested and find any of the above research topics interesting. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
+I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU. </font>
+Feel free to drop me an email with CV if you are interested and find any of the above research topics interesting. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
 
 
 #### Hobbies
