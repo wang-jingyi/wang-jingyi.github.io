@@ -79,23 +79,17 @@ permalink: /pubs/
 - [**IJCIP**] Yifan Jia, **Jingyi Wang**, Christopher M. Poskitt, Sudipta Chattopadhyay, Jun Sun and Yuqi Chen. *Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems*, International Journal of Critical Infrastructure Protection. (Accepted)
 
 
-### 2020
+### 2020 and Before
 
 - [**ICSE, CCF A**] Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *White-box Fairness Testing through Adversarial Sampling*. 42nd International Conference on Software Engineering, Seoul, South Korea (online), Oct 2020. (129/617, Acceptance rate: 20.9%, <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award, ACM SIGSOFT Research Highlights.</font>)
 
-
 - [**ASE, CCF A**] Guoliang Dong, **Jingyi Wang**\*, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and Jin Song Dong. *Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction*. 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Australia (online), Sep 2020. (92/414, Acceptance rate: 22.5%)
 
-
 - [**ICECCS, CCF C**] Yizhen Dong, Peixin Zhang, **Jingyi Wang\***, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li Wang, Jin Song Dong and Ting Dai. *An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks*. 25th International Conference on Engineering of Complex Computer Systems, October 2020, Singapore (online).
-
-### 2019
 
 - [**ICSE, CCF A**] **Jingyi Wang**, Guoliang Dong, Jun Sun, Xinyu Wang and Peixin Zhang. *Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing*. 41st International Conference on Software Engineering, Montreal, Canada, May 2019. (109/529, Acceptance rate: 20.6%)
 
 - [**TSE, CCF A**] **Jingyi Wang**, Jun Sun, Shengchao Qin and Cyrille Jegourel. *Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement*, IEEE Transactions on Software Engineering. (Accepted)
-
-### 2018
 
 - [**FM, CCF A**] **Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu. *Towards ‘Verifying’ a Water Treatment System*, 22nd International Symposium on Formal Methods, Oxford, UK, July 2018. (Acceptance rate: 28%)
 
@@ -105,19 +99,11 @@ permalink: /pubs/
 
 - [**STTT, CCF C**] **Jingyi Wang**, Jun Sun, Qixia Yuan, and Jun Pang. *Learning Probabilistic Models for Model Checking: An Evolutionary Approach and an Empirical Study*, International Journal on Software Tools for Technology Transfer, 2018.
 
-### 2017
-
 - [**ETAPS/FASE, CCF B**] **Jingyi Wang**, Jun Sun, Qixia Yuan, Jun Pang. *Should We Learn Probabilistic Models for Model Checking? A New approach and an Empirical Study*, 20th International Conference on Fundamental Approaches to Software Engineering, part of ETAPS 2017, Uppsala, Sweden, Apr 2017. (Acceptance rate: 27%)
 
 - [**ICFEM, CCF C**] **Jingyi Wang**, Xiaohong Chen, Jun Sun, Shengchao Qin. *Improving Probability Estimation through Active Probabilistic Model Learning*, 19th International Conference on Formal Engineering Methods, Xi’an, China, Nov 2017.
 
-- [**ICECCS, CCF C**] Long H. Pham, Jun Sun, Lyly Tran, **Jingyi Wang**, Xin Peng. *Learning Likely Invariants to Explain Why a Program Fails*, 22nd International Conference on Engineering of Complex Computer Systems, Fukuoka, Japan, Nov 2017. (Acceptance rate: 23.3%)
-
-### 2016
-
 - [**FM, CCF A**] Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**. *Towards Concolic Testing for Hybrid Systems*, 21st International Symposium on Formal Methods, Cyprus, Nov 2016.
-
-- [**ICFEM, CCF C**] Manman Chen, Tian Huat Tan, Jun Sun, **Jingyi Wang**, Yang Liu, Jing Sun, Jin Song Dong, *Service Adaption with Probabilistic Partial Models*, 18th International Conference on Formal Engineering Methods (ICFEM), Tokyo, Japan, Nov 2016.
 
 
 
