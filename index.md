@@ -22,8 +22,8 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research aims to *build more safe and secure intelligent systems or software with the help of formal methods or software engineering techniques*. Currently, I am particularly interested in the following research topics:
-- Testing, verification and repair of artificial intelligence (AI) systems;
+In general, my research goal is to *develop novel formal methods or software engineering methodologies towards building more dependable intelligent systems or software*. Currently, I am particularly interested in the following research topics lying in the intersection of formal methods, artificial intelligence (AI) and security:
+- Testing, verification and repair of AI or AI-enabled systems;
 - Verification of concurrent reactive systems, e.g., OS kernels and industrial control systems;
 - AI-assisted modeling and verification of security protocols;
 - Other related topics like fuzzing, symbolic execution, runtime monitoring, etc.
@@ -32,11 +32,14 @@ Collaborations are warmly welcome from both academia or industry!
 
 <!-- my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains to improve the system reliability and security.</u> -->
 
+<!-- ##### Awards
+I was very fortunate to receive two [*ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020)*](https://www.sigsoft.org/awards/distinguishedPaperAward.html). The ICSE 2020 paper is also selected as [*ACM SIGSOFT Research Highlights*](https://www.sigsoft.org/resources/highlights.html).
+ -->
 #### Vacancies
 
 <font color="#dd0000">
 I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU. </font>
-Feel free to drop me an email with CV if you are interested and find any of the above research topics interesting. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
+Feel free to drop me an email with CV if you are interested. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
 
 
 #### Hobbies

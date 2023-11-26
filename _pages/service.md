@@ -20,6 +20,7 @@ permalink: /service/
 - IEEE Transactions on Software Engineering
 - ACM Transactions on Software Engineering Methodolgy
 - IEEE Transactions on Dependable and Secure Computing
+- IEEE/CAA Journal of Automatica Sinica
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Reliability
 - IEEE Transactions on Network Science and Engineering
