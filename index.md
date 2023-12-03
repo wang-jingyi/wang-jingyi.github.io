@@ -5,7 +5,7 @@ permalink: /
 image: images/back.jpeg
 ---
 
-I am a US-equivalent tenure-track Assistant Professor leading the [IS2 Lab](http://is2lab.github.io) at [School of Control Science and Engineering](http://www.cse.zju.edu.cn) and [School of Cyber Science and Engineering](https://icsr.zju.edu.cn/icsren/), [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China.
+I am a US-equivalent tenure-track Assistant Professor leading the [IS2 (Intelligent System Security) Lab](http://is2lab.github.io) at [School of Control Science and Engineering](http://www.cse.zju.edu.cn) & [School of Cyber Science and Technology](https://icsr.zju.edu.cn/icsren/), [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China.
 
 
 #### Experience
@@ -26,7 +26,7 @@ In general, my research goal is to *develop novel formal methods or software eng
 - Testing, verification and repair of AI or AI-based systems, e.g., autonomous cars;
 - Verification of concurrent reactive systems, e.g., OS kernels and industrial control systems;
 - AI-assisted modeling and verification of security protocols;
-- Other related topics like fuzzing, symbolic execution, runtime monitoring, etc.
+- Other related topics like fuzzing, symbolic execution, runtime verification, etc.
 
 Collaborations are warmly welcome from both academia or industry!
 
