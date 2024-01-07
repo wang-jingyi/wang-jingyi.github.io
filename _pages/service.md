@@ -8,7 +8,7 @@ permalink: /service/
 
 #### Program Committee Member
 - 2025: ICSE
-- 2024: TASE, ANT, ACNS/SiMLA
+- 2024: ISSTA, TASE, ANT, ACNS/SiMLA
 - 2023: ICSE/SCORE, ATVA, ChinaSoft/FMAC, SETTA, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
 - 2021: 2 Tracks of ChinaSoft
