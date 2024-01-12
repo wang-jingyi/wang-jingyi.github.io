@@ -66,10 +66,13 @@
 <loc>http://localhost:4000/service/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/vac/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/work/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/backup.html</loc>
-<lastmod>2023-08-02T13:55:17+08:00</lastmod>
+<lastmod>2023-11-17T11:15:22+08:00</lastmod>
 </url>
 </urlset>

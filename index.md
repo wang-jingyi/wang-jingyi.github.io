@@ -35,12 +35,12 @@ Collaborations are warmly welcome from both academia or industry!
 <!-- ##### Awards
 I was very fortunate to receive two [*ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020)*](https://www.sigsoft.org/awards/distinguishedPaperAward.html). The ICSE 2020 paper is also selected as [*ACM SIGSOFT Research Highlights*](https://www.sigsoft.org/resources/highlights.html).
  -->
-#### Vacancies
+<!-- #### Vacancies -->
 
-<font color="#dd0000">
+<!-- <font color="#dd0000">
 I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU. </font>
 Feel free to drop me an email with CV if you are interested. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
-
+ -->
 
 #### Hobbies
 
