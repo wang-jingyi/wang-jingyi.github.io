@@ -22,12 +22,14 @@ permalink: /service/
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE/CAA Journal of Automatica Sinica
 - IEEE Transactions on Neural Networks and Learning Systems
+- Computer & Security
 - IEEE Transactions on Reliability
 - IEEE Transactions on Network Science and Engineering
 - Information Fusion
 - Science of Computer Programming
 - Information and Software Technology
 - Formal Aspects of Computing
+- Empirical Software Engineering
 - Frontier of Computer Science, AVOCS 2015/2017, APSEC 2016, TASE 2016, Internetware 2017, ICOST 2018, ICFEM 2018/2019, PRDC 2018, TASE 2019, FM 2019, ATVA 2020, ISSRE 2021/2022, 软件学报等 
 
 
