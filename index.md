@@ -22,7 +22,7 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research goal is to *develop novel formal methods or software engineering methodologies towards building more dependable intelligent systems or software*. Currently, I am particularly interested in the following research topics lying in the intersection of formal methods, artificial intelligence (AI) and security:
+In general, my research goal is to *develop novel formal methods or software engineering methodologies towards building more trustworthy intelligent systems or software*. Currently, I am particularly interested in the following research topics in the intersection of formal methods, artificial intelligence (AI) and security:
 - Testing, verification and repair of AI or AI-based systems, e.g., large language models, autonomous cars;
 - Verification of concurrent reactive systems, e.g., OS kernels and industrial control systems;
 - AI-assisted modeling and verification of security protocols;
@@ -32,9 +32,9 @@ Collaborations are warmly welcome from both academia or industry!
 
 <!-- my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains to improve the system reliability and security.</u> -->
 
-<!-- ##### Awards
-I was very fortunate to receive two [*ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020)*](https://www.sigsoft.org/awards/distinguishedPaperAward.html). The ICSE 2020 paper is also selected as [*ACM SIGSOFT Research Highlights*](https://www.sigsoft.org/resources/highlights.html).
- -->
+##### Awards
+I was very fortunate to receive two [*ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020)*](https://www.sigsoft.org/awards/distinguishedPaperAward.html). The ICSE 2020 paper on fairness testing of deep neural networks is also selected as [*ACM SIGSOFT Research Highlights*](https://www.sigsoft.org/resources/highlights.html).
+
 <!-- #### Vacancies -->
 
 <!-- <font color="#dd0000">
@@ -45,7 +45,7 @@ Feel free to drop me an email with CV if you are interested. Preferred PhD candi
 #### Hobbies
 
 - I play badminton regularly;
-- I love to play DOTA2 and PES when I have the time;
+- I love to play DOTA2 and PES when I have the time.
 
 #### Contact
 

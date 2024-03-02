@@ -19,9 +19,18 @@ permalink: /pubs/
 <!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
  -->
 
+
+### Preprint
+
+- [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit](https://superagi.com/agi-leap-summit/))
+
+
 ### 2024
 
 - [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024.
+
+- [**ISSTA, CCF A**] Jialuo Chen, **Jingyi Wang**, Youcheng Sun, Peng Cheng and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024. (First round accepted 42/471, acceptance rate: 8.9%)
+
 
 - [**TSE, CCF A**] Shunkai Zhu, **Jingyi Wang**\*, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and Peng Cheng. *Better Pay Attention Whilst Fuzzing*. IEEE Transactions on Software Engineering. (Accepted)
 
