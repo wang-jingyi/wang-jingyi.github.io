@@ -22,7 +22,7 @@ permalink: /pubs/
 
 ### Preprint
 
-- [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit](https://superagi.com/agi-leap-summit/))
+- [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Paper link](https://arxiv.org/abs/2311.12785),[Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
 
 ### 2024
@@ -36,7 +36,8 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] Zhe Zhao, Guangke Chen, Tong Liu, Taishan Li, Fu Song, **Jingyi Wang** and Jun Sun. *Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples*, ACM Transactions on Software Engineering and Methodology. (Accepted)
 
-- [**RA-L**] Yifan Jia, Christopher M. Poskitt, Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay. *Robust and Fast DNN Model Training for Trustworthy Robots.* IEEE Robotics and Automation Letters. (Accepted)
+- [**RA-L**] Yifan Jia, Christopher M. Poskitt, Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay. *Boosting Adversarial Training in Safety-critical
+Systems through Boundary Data Selection.* IEEE Robotics and Automation Letters. (Accepted)
 
 
 ### 2023

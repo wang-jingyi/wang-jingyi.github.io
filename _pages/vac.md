@@ -16,6 +16,6 @@ Feel free to drop me an email with CV if you are interested. Preferred PhD candi
 
 
 
-Currently, *<font color="#dd0000">I am hiring multiple research assistants to work with the team on AI testing, verification and repair, especially for large language models or systems.</font>
+Currently, *<font color="#dd0000">I am hiring multiple research assistants to work with the team on AI testing, verification and repair, especially for large language models (LLMs) or LLM-based systems.</font>
 The salary is attractive and selected candidates will be recommended for a master or PhD program (either in ZJU or collaborative labs overseas).* Please email me with CV asap if you are interested.
 
