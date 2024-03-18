@@ -33,7 +33,7 @@ permalink: /pubs/
 
 - [**TSE, CCF A**] Shunkai Zhu, **Jingyi Wang**\*, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and Peng Cheng. *Better Pay Attention Whilst Fuzzing*. IEEE Transactions on Software Engineering. (Accepted)
 
-- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Shouling Ji, Bo Li, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted)
+- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted)
 
 - [**TOSEM, CCF A**] Zhe Zhao, Guangke Chen, Tong Liu, Taishan Li, Fu Song, **Jingyi Wang** and Jun Sun. *Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples*, ACM Transactions on Software Engineering and Methodology. (Accepted)
 
