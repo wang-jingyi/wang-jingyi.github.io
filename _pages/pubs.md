@@ -31,8 +31,9 @@ permalink: /pubs/
 
 - [**ISSTA, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Youcheng Sun, Peng Cheng and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024. (First round accepted 42/471, acceptance rate: 8.9%)
 
-
 - [**TSE, CCF A**] Shunkai Zhu, **Jingyi Wang**\*, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and Peng Cheng. *Better Pay Attention Whilst Fuzzing*. IEEE Transactions on Software Engineering. (Accepted)
+
+- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Shouling Ji, Bo Li, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted)
 
 - [**TOSEM, CCF A**] Zhe Zhao, Guangke Chen, Tong Liu, Taishan Li, Fu Song, **Jingyi Wang** and Jun Sun. *Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples*, ACM Transactions on Software Engineering and Methodology. (Accepted)
 
