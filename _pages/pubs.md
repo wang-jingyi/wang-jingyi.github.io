@@ -27,7 +27,7 @@ permalink: /pubs/
 
 ### 2024
 
-- [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024.
+- [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024. (234/1049, acceptance rate: 22%)
 
 - [**ISSTA, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Youcheng Sun, Peng Cheng and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024. (First round accepted 42/471, acceptance rate: 8.9%)
 
