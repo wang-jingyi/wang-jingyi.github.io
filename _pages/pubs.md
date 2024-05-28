@@ -22,6 +22,8 @@ permalink: /pubs/
 
 ### Preprint
 
+- [**Arxiv**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Hui Xue, Wenhai Wang, Kui Ren and Jingyi Wang. *S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Lanuguage Models.* arXiv:2405.14191, 2024. ([Paper link](https://www.arxiv.org/abs/2405.14191), [Github link](https://github.com/IS2Lab/S-Eval), [HuggingFace Leaderboard Link](https://huggingface.co/spaces/IS2Lab/S-Eval))
+
 - [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Paper link](https://arxiv.org/abs/2311.12785),[Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
 
