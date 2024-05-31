@@ -39,6 +39,7 @@ permalink: /service/
 #### Selected Talks
 
 - CCF形式化方法专委会南方电网网络空间安全实验室联合实验室 2024
+- CCF软件工程专委会青年学者论坛第二期 2024
 - CNCC云网融合中的网络形式化方法前沿技术论坛 2023
 - 华为香港形式化方法研讨会 2023
 - CCF形式化方法专委会可信人工智能系列研讨会-华师大 2023
@@ -46,7 +47,7 @@ permalink: /service/
 - 中国软件大会ChinaSoft 2022
 - CCF-华为胡杨林基金形式化方法专项论坛
 - 北京大学Applied Mathematics Seminar
-- CCF形式化方法专委会可信人工智能系列报告 2022
+- CCF形式化方法专委会可信人工智能系列研讨会 2022
 - International Joint Conference On Theoretical Computer Science – Frontier of Algorithmic Wisdom 2022
 - (Keynote) The 1st International Conference on linking Software Engineering, Artificial Intelligence and Security 2022
 - 复旦大学CodeWisdom可信人工智能系列论坛
@@ -55,5 +56,5 @@ permalink: /service/
 - TedX Hangzhou
 - 华为人工智能安全论坛 2020
 - 浙江工业大学青年科学家论坛
-- Conference presentations: ICSE 2021/2019, FLOC/FM 2018, ETAPS/FASE 2017, ICFEM 2017/2016
+- Conference oral presentations: ICSE 2021/2019, FLOC/FM 2018, ETAPS/FASE 2017, ICFEM 2017/2016
 - Volunteers: FM 2014

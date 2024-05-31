@@ -23,9 +23,10 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 #### Research Interest
 
 In general, my research goal is to *develop novel formal methods or software engineering methodologies towards building more trustworthy intelligent systems or software*. Currently, I am particularly interested in the following research topics in the intersection of formal methods, software engineering, artificial intelligence (AI) and safety/security:
-- Testing, verification and repair of AI or AI-based systems, e.g., large language models, deep neural networks, autonomous cars;
-- Verification of concurrent (reactive) systems, e.g., OS kernels and industrial control systems;
-- AI-assisted modeling and verification of security protocols;
+- Quality assurance (testing, verification and repair, etc) of AI or AI-based systems, e.g., large language models (LLMs), deep neural networks, autonomous cars;
+- Safety and security of LLMs or LLM-based systems;
+- Verification of concurrent (reactive) systems, e.g., OS kernels and distributed control systems;
+- Verification of security protocols;
 - Other related topics like fuzzing, symbolic execution, runtime verification, etc.
 
 Collaborations are warmly welcome from both academia or industry!
