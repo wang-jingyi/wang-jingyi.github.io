@@ -31,7 +31,11 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024. (234/1049, acceptance rate: 22%)
 
+- [**ISSTA, CCF A**] Xiangshan Gao, Jialuo Chen, Jingyi Wang\*, Jie Shi, Peng Cheng and Jiming Chen. *TeDA: A Testing Framework for Data Usage Auditing in Deep Learning Model Development*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024.
+
 - [**ISSTA, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Youcheng Sun, Peng Cheng and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024. (First round accepted 42/471, acceptance rate: 8.9%)
+
+- [**ISSTA, CCF A**] Zuohui Chen, Jun Zhou, Youcheng Sun, Jingyi Wang\*, Qi Xuan and Xiaoniu Yang. *Interpretability based Neural Network Repair*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024. 
 
 - [**TSE, CCF A**] Shunkai Zhu, **Jingyi Wang**\*, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and Peng Cheng. *Better Pay Attention Whilst Fuzzing*. IEEE Transactions on Software Engineering. (Accepted)
 
