@@ -37,7 +37,7 @@ permalink: /pubs/
 
 - [**ISSTA, CCF A**] Zuohui Chen, Jun Zhou, Youcheng Sun, **Jingyi Wang**\*, Qi Xuan and Xiaoniu Yang. *Interpretability based Neural Network Repair*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024. 
 
-- [**ASE, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen and Peng Cheng. *FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection*. 39th IEEE/ACM International Conference on Automated Software Engineering, Sacramento, California, United States, Sep 2024.
+- [**ASE, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen and Peng Cheng. *FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection*. 39th IEEE/ACM International Conference on Automated Software Engineering, Sacramento, California, United States, Oct 2024.
 
 - [**TSE, CCF A**] Shunkai Zhu, **Jingyi Wang**\*, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and Peng Cheng. *Better Pay Attention Whilst Fuzzing*. IEEE Transactions on Software Engineering. (Accepted)
 
