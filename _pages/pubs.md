@@ -29,6 +29,8 @@ permalink: /pubs/
 
 ### 2024
 
+- [**TOSEM, CCF A**] Xiangxiang Chen, Xingwei Lin, **Jingyi Wang**\*, Jun Sun, Jiashui Wang and Wenhai Wang. *Scuzer: A Scheduling Optimization Fuzzer for TVM*. ACM Transactions on Software Engineering and Methodology. (Accepted)
+
 - [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024. (234/1049, acceptance rate: 22%)
 
 - [**ISSTA, CCF A**] Xiangshan Gao, Jialuo Chen, **Jingyi Wang**\*, Jie Shi, Peng Cheng and Jiming Chen. *TeDA: A Testing Framework for Data Usage Auditing in Deep Learning Model Development*. 33rd International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024.
