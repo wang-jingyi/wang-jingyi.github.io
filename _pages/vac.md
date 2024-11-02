@@ -12,7 +12,7 @@ permalink: /vac/
 <!-- <font color="#dd0000"> -->
 *I am always looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU. 
 <!-- </font> -->
-Feel free to drop me an email with CV if you are interested. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 10-6201, if you wish to have a talk.*
+Feel free to drop me an email with CV if you are interested. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please check out my [calendar](https://calendar.google.com/calendar/u/0?cid=cWtoNTFkbW04MmVmdGNqbTM0OW5xM2xrcjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) and make an appointment if you wish to have a talk.*
 
 
 

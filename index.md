@@ -14,7 +14,7 @@ I am a US-equivalent tenure-track Assistant Professor leading the [IS2 (Intellig
 - April 2019 - June 2020, Research Fellow, National University of Singapore, Supervisor: Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/)
 - April 2018 - April 2019, Research Fellow, Singapore University of Technology and Design, Supervisor: Prof. [Sun Jun](https://sunjun.site/) -->
 
-I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at the pillar of [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018. I obtained my B.E. in Information Engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
+I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at the pillar of [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. under supervision of Prof. [Sun Jun](https://sunjun.site/) in March 2018. I obtained my B.E. in Information Engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
  
 
 <!-- <img align="right" src="images/me2.jpeg" />  -->
@@ -22,12 +22,11 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research goal is to *develop rigorous engineering methodologies towards building more trustworthy intelligent systems or software*. Currently, I am particularly interested in the following research topics in the intersection of formal methods, software engineering, artificial intelligence (AI) and security:
-- Testing, verification and repair of AI or AI-based systems, e.g., deep neural networks, large language models (LLMs);
+In general, my research goal is to *develop rigorous software engineering methodologies towards building more trustworthy systems*. I am particularly interested in formal methods applied to system security and trustworthy AI, including:
+- SE4AI, e.g., testing, verification and repair of AI or AI-based systems, e.g., deep neural networks, large language models (LLMs);
 - AI safety and fairness, e.g., for LLMs or LLM-based systems/applications;
 - Verification of concurrent (reactive) systems, e.g., OS kernels and distributed control systems;
-- Verification of security protocols;
-- Other related topics like fuzzing, symbolic execution, runtime verification, etc.
+- Verification of security protocols.
 
 Collaborations are warmly welcome from both academia or industry!
 
