@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Program Committee Member
-- 2025: ACM CCS, ICSE, ISSTA
+- 2025: ACM CCS, ICSE, ISSTA, WWW
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA, EAI MOBIMEDIA
 - 2023: ICSE/SCORE, ATVA, ChinaSoft/FMAC, SETTA, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
@@ -38,6 +38,7 @@ permalink: /service/
 
 #### Selected Talks
 
+- 华为
 - 中国软件大会 可信泛在智能软件系统论坛 2024
 - 中国开源大会 可信大模型评测与开源技术论坛 2024  
 - 华为智能时代下的形式化验证技术研讨会 2024
