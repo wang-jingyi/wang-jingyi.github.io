@@ -35,9 +35,10 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] Ziyu Mao, **Jingyi Wang**\*, Jun Sun, Shengchao Qin and Jiawen Xiong. *LLM-aided Automatic Modelling for Security Protocol Verification*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
+- [**ICSE, CCF A**] Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei Huang and Lijun Zhang. *Patch Synthesis for Property Repair of Deep Neural Networks*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
+
 - [**WWW, CCF A**] Xinyao Xu, Ziyu Mao, Jianzhong Su, Xingwei Lin, David Basin, Jun Sun and **Jingyi Wang**\*. *Quantitative Runtime Monitoring of Ethereum Transaction Attacks*. The Web Conference, Sydney, Australia, Apr, 2025. (409/2062, acceptance rate: 19.8%)
 
-- [**ICSE, CCF A**] Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei Huang, and Lijun Zhang. *Patch Synthesis for Property Repair of Deep Neural Networks*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
 
 

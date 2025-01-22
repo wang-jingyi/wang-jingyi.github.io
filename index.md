@@ -22,12 +22,12 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research goal is to *develop novel software engineering methodologies towards building more trustworthy AI and more secure systems*. I am particularly interested in formal methods applied to security and software engineering for AI, covering the following research topics:
-- Testing, verification and repair of AI or AI-based systems, e.g., deep neural networks, large language models (LLMs);
-- AI safety and fairness, e.g., for LLMs or LLM-based systems/applications;
-- Verification of security protocols;
-- Verification of concurrent (reactive) systems, e.g., OS kernels and distributed control systems;
-- Other related topics like fuzzing, symbolic execution, runtime verification, etc.
+In general, my research goal is to *develop rigorous engineering methodologies with practical relevance towards building more trustworthy AI and more secure systems*. I am particularly interested in software engineering for AI and formal methods applied to security, covering the following research topics:
+- Testing, verification and repair of deep learning models/systems, e.g., deep neural networks (DNNs, including large language models) (see [ICSE 2020](https://dl.acm.org/doi/10.1145/3377811.3380331), [ICSE 2021](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00038), [TACAS 2021](https://link.springer.com/chapter/10.1007/978-3-030-72016-2_21) and [ICSE 2024](https://dl.acm.org/doi/10.1145/3597503.3623332), etc);
+- AI safety, security and fairness, e.g., for DNNs or DNN-based systems/applications (see [S\&P 2022](https://ieeexplore.ieee.org/document/9833747), [TDSC 2024](https://ieeexplore.ieee.org/document/10480645) and [ISSTA 2024](https://dl.acm.org/doi/10.1145/3650212.3680375), etc);
+- Formal design and analysis of security protocols (see [ICSE 2025](), etc); 
+- Formal analysis of system security (see [TSE 2018](https://ieeexplore.ieee.org/document/8576657), [FM 2018](https://link.springer.com/chapter/10.1007/978-3-319-95582-7_5), [CCS 2023](https://dl.acm.org/doi/abs/10.1145/3576915.3616609), [WWW 2025](), etc);
+- Other related topics like fuzzing, symbolic execution, concolic testing, runtime verification, etc (see [FM 2016](https://link.springer.com/chapter/10.1007/978-3-319-48989-6_28), [ICSE 2018](https://www.computer.org/csdl/proceedings-article/icse/2018/563801a291/13l5NXW7OuL), [TOSEM 2024](https://dl.acm.org/doi/10.1145/3705308), etc).
 
 Collaborations are warmly welcome from both academia or industry!
 
