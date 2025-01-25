@@ -2,7 +2,7 @@
 layout: page
 # title: About
 permalink: /
-image: images/newback.jpg
+image: images/back.jpeg
 ---
 
 I am a US-equivalent tenure-track Assistant Professor leading the [IS2 (Intelligent System Security) Lab](http://is2lab.github.io) at [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China.
