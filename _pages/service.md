@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Program Committee Member
-- 2025: ACM CCS, ICSE, ISSTA
+- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, MEMOCODE
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA, EAI MOBIMEDIA
 - 2023: ICSE/SCORE, ATVA, ChinaSoft/FMAC, SETTA, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
@@ -38,10 +38,9 @@ permalink: /service/
 
 #### Selected Talks
 
-- CCF中国软件大会 可信泛在智能软件系统论坛 2024
-- CCF中国开源大会 可信大模型评测与开源技术 2024 
-- 第十二届网络空间智慧搜索暨未来数据高峰论坛 人工智能安全分论坛 2024
-- 智能视觉产业发展大会 机器视觉感知和通信安全专题 2024
+- 华为应用安全论坛 2024
+- 中国软件大会 可信泛在智能软件系统论坛 2024
+- 中国开源大会 可信大模型评测与开源技术论坛 2024  
 - 华为智能时代下的形式化验证技术研讨会 2024
 - CCF形式化方法专委会走进南方电网网络空间安全联合实验室 2024
 - CCF软件工程专委会青年学者论坛第二期 2024
