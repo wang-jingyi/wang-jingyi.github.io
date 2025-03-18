@@ -7,9 +7,9 @@ permalink: /service/
 
 
 #### Program Committee Member
-- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, MEMOCODE
-- 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA, EAI MOBIMEDIA
-- 2023: ICSE/SCORE, ATVA, ChinaSoft/FMAC, SETTA, ACNS/SiMLA
+- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ChinaSoft/FMAC
+- 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
+- 2023: ATVA, SETTA, ChinaSoft/FMAC, ICSE/SCORE, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
 - 2021: 2 Tracks of ChinaSoft
 - 2020 and before: InternetWare 2020, ChinaSoft 2020, APSEC 2020, InternetWare 2019, ICFEM 2019
