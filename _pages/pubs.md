@@ -25,8 +25,6 @@ permalink: /pubs/
 - [**Arxiv**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Jingyi Wang, Qiang Liu, Peiyu Liu, Wenhai Wang. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* arXiv:2410.14209, 2024. ([Paper link](https://arxiv.org/abs/2410.14209))
 
 
-- [**Arxiv**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Hui Xue, Wenhai Wang, Kui Ren and Jingyi Wang. *S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Lanuguage Models.* arXiv:2405.14191, 2024. ([Paper link](https://www.arxiv.org/abs/2405.14191), [Github link](https://github.com/IS2Lab/S-Eval), [HuggingFace Leaderboard Link](https://huggingface.co/spaces/IS2Lab/S-Eval))
-
 - [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
 
@@ -36,6 +34,8 @@ permalink: /pubs/
 - [**ICSE, CCF A**] Ziyu Mao, **Jingyi Wang**\*, Jun Sun, Shengchao Qin and Jiawen Xiong. *LLM-aided Automatic Modelling for Security Protocol Verification*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
 - [**WWW, CCF A**] Xinyao Xu, Ziyu Mao, Jianzhong Su, Xingwei Lin, David Basin, Jun Sun and **Jingyi Wang**\*. *Quantitative Runtime Monitoring of Ethereum Transaction Attacks*. The Web Conference, Sydney, Australia, Apr, 2025. (409/2062, acceptance rate: 19.8%)
+
+- [**ISSTA, CCF A**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Hui Xue, Wenhai Wang, Kui Ren and Jingyi Wang. *S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Lanuguage Models.* 34th International Symposium on Software Testing and Analysis, Trondheim, Norway, Jun 2025. (107/550, acceptance rate: 19.4%, [Paper link](https://www.arxiv.org/abs/2405.14191), [Github link](https://github.com/IS2Lab/S-Eval), [HuggingFace Leaderboard Link](https://huggingface.co/spaces/IS2Lab/S-Eval))
 
 - [**ICSE, CCF A**] Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei Huang and Lijun Zhang. *Patch Synthesis for Property Repair of Deep Neural Networks*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 

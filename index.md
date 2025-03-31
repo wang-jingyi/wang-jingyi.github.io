@@ -22,11 +22,10 @@ I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~
 
 #### Research Interest
 
-In general, my research goal is to *develop rigorous engineering methodologies with practical relevance towards building more trustworthy AI and more secure systems*. I am particularly interested in software engineering for AI and formal methods applied to security, covering the following research topics:
+In general, my research goal is to *build more trustworthy AI and more secure systems with practical relevance*. I am particularly interested in software engineering for AI and formal methods applied to security, covering the following research topics:
 - Testing, verification and repair of AI models/systems, e.g., deep neural networks (DNNs, including large language models) (see [ICSE 2019](https://ieeexplore.ieee.org/abstract/document/8812047), [ICSE 2020](https://dl.acm.org/doi/10.1145/3377811.3380331), [ICSE 2021](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00038), [TACAS 2021](https://link.springer.com/chapter/10.1007/978-3-030-72016-2_21), [ICSE 2024](https://dl.acm.org/doi/10.1145/3597503.3623332) and [ISSTA 2024](https://dl.acm.org/doi/10.1145/3650212.3652132), etc);
 - AI safety, security and fairness, e.g., for DNNs or DNN-based systems/applications (see [S&P 2022](https://ieeexplore.ieee.org/document/9833747), [ISSTA 2024](https://dl.acm.org/doi/10.1145/3650212.3680375), and [TDSC 2024](https://ieeexplore.ieee.org/document/10480645), etc);
-- Formal analysis of system security (see [TSE 2021](https://ieeexplore.ieee.org/document/8576657), [CCS 2023](https://dl.acm.org/doi/abs/10.1145/3576915.3616609), [WWW 2025](), etc);
-- Formal design and analysis of security protocols (see [ICSE 2025](), etc); 
+- Formal aspects of security (see [TSE 2021](https://ieeexplore.ieee.org/document/8576657), [CCS 2023](https://dl.acm.org/doi/abs/10.1145/3576915.3616609), [ICSE 2025](), [WWW 2025](), etc);
 
 
 Collaborations are warmly welcome from both academia or industry!
