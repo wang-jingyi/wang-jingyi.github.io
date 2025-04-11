@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Program Committee Member
-- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ChinaSoft/FMAC
+- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
 - 2023: ATVA, SETTA, ChinaSoft/FMAC, ICSE/SCORE, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
@@ -49,8 +49,7 @@ permalink: /service/
 - CCF形式化方法专委会可信人工智能系列研讨会-华师大 2023
 - OPPO&西安交通大学 泛终端安全技术研讨会 2023
 - 中国软件大会ChinaSoft 2022
-- CCF-华为胡杨林基金形式化方法专项论坛
-- 北京大学Applied Mathematics Seminar
+- 北京大学Applied Mathematics Seminar 2022
 - CCF形式化方法专委会可信人工智能系列研讨会 2022
 - International Joint Conference On Theoretical Computer Science – Frontier of Algorithmic Wisdom 2022
 - (Keynote) The 1st International Conference on linking Software Engineering, Artificial Intelligence and Security 2022
