@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Program Committee Member
-- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC
+- 2025: ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
 - 2023: ATVA, SETTA, ChinaSoft/FMAC, ICSE/SCORE, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
@@ -36,7 +36,7 @@ permalink: /service/
 - Frontier of Computer Science, AVOCS 2015/2017, APSEC 2016, TASE 2016, Internetware 2017, ICOST 2018, ICFEM 2018/2019, PRDC 2018, TASE 2019, FM 2019, ATVA 2020, ISSRE 2021/2022, 软件学报等 
 
 
-#### Selected Talks
+#### Selected Invited Talks
 
 - 华为应用安全论坛 2024
 - 中国软件大会 可信泛在智能软件系统论坛 2024

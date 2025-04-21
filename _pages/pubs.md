@@ -39,7 +39,7 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei Huang and Lijun Zhang. *Patch Synthesis for Property Repair of Deep Neural Networks*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
-
+- [**TSE, CCF A**] Shunkai Zhu, Jun Sun, **Jingyi Wang**\*, Xingwei Lin, and Peng Cheng. *OPTSE: Towards Optimal Symbolic Execution*. IEEE Transactions on Software Engineering. (Accepted)
 
 
 
