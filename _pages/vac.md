@@ -7,15 +7,14 @@ permalink: /vac/
 
 
 
-#### Vacancies
+#### Prospective Students
+I always welcome applications from self-motivated students from various background to push the boundary of engineering trustworthy AI models/applications/systems and provable secure systems. In particular, our group encourages high-quality and cutting-edge research with theoretical depth or practical impact to the broad audiences like formal methods, software engineering, AI/ML and security. 
 
-<!-- <font color="#dd0000"> -->
-*I am always looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU. 
-<!-- </font> -->
-Feel free to drop me an email with CV if you are interested. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 10-6201, if you wish to have a talk.*
+**Prerequisites.** An ideal candidate should have a strong background in mathematics, logic, programming, and more importantly love doing research. 
 
 
 
-<!-- Currently, *<font color="#dd0000">I am hiring multiple research assistants to work with the team on AI testing, verification and repair, especially for large language models (LLMs) or LLM-based systems.</font>
-The salary is attractive and selected candidates will be recommended for a master or PhD program (either in ZJU or collaborative labs overseas).* Please email me with CV asap if you are interested. -->
+#### Research Positions
+
+I am always looking for self-motivated PostDoc/research assistants/research interns to work with me at ZJU. Feel free to drop me an email with CV if you are interested. 
 
