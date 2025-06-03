@@ -43,6 +43,9 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] Shunkai Zhu, Jun Sun, **Jingyi Wang**\*, Zhenbang Chen, and Peng Cheng. *Integrating Path Selection for Symbolic Execution and Variable Selection for Constraint Solving.* ACM Transactions on Software Engineering and Methodology. (Accepted)
 
+- [**TNNLS**] Xiaokun Luan, Xiyue Zhang, **Jingyi Wang**, and Meng Sun. Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection. IEEE Transactions on Neural Networks and Learning Systems. (Accepted)
+
+
 
 
 ### 2024
@@ -65,11 +68,11 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] Zhe Zhao, Guangke Chen, Tong Liu, Taishan Li, Fu Song, **Jingyi Wang** and Jun Sun. *Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples*, ACM Transactions on Software Engineering and Methodology. (Accepted)
 
-- [**CPSS**] Zichen Wang, **Jingyi Wang**\*, Fu Song, Kun Wang, Hongyi Pu and Peng Cheng. *K-RAPID: A Formal Executable Semantics of the RAPID Robot Programming Language*, the 10th ACM Cyber-Physical 
-System Security Workshop, held in conjunction with ACM AsiaCCS'24 Singapore, July 2024. 
-
 - [**RA-L**] Yifan Jia, Christopher M. Poskitt, Peixin Zhang, **Jingyi Wang**\*, Jun Sun, Sudipta Chattopadhyay. *Boosting Adversarial Training in Safety-critical
 Systems through Boundary Data Selection.* IEEE Robotics and Automation Letters. (Accepted)
+
+- [**CPSS**] Zichen Wang, **Jingyi Wang**\*, Fu Song, Kun Wang, Hongyi Pu and Peng Cheng. *K-RAPID: A Formal Executable Semantics of the RAPID Robot Programming Language*, the 10th ACM Cyber-Physical 
+System Security Workshop, held in conjunction with ACM AsiaCCS'24 Singapore, July 2024. 
 
 
 ### 2023
