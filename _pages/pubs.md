@@ -43,7 +43,7 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] Shunkai Zhu, Jun Sun, **Jingyi Wang**\*, Zhenbang Chen, and Peng Cheng. *Integrating Path Selection for Symbolic Execution and Variable Selection for Constraint Solving.* ACM Transactions on Software Engineering and Methodology. (Accepted)
 
-- [**TNNLS**] Xiaokun Luan, Xiyue Zhang, **Jingyi Wang**, and Meng Sun. Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection. IEEE Transactions on Neural Networks and Learning Systems. (Accepted)
+- [**TNNLS**] Xiaokun Luan, Xiyue Zhang, **Jingyi Wang**, and Meng Sun. *Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection.* IEEE Transactions on Neural Networks and Learning Systems. (Accepted)
 
 
 
