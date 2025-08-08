@@ -31,6 +31,8 @@ permalink: /pubs/
 
 ### 2025
 
+- [**CCS, CCF A**] Jianan Ma, **Jingyi Wang**\*, Qi Xuan and Zhen Wang. Provable Repair of Deep Neural Network Defects through Pre-image Synthesis and Property Refinement. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
+
 - [**ICSE, CCF A**] Ziyu Mao, **Jingyi Wang**\*, Jun Sun, Shengchao Qin and Jiawen Xiong. *LLM-aided Automatic Modelling for Security Protocol Verification*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
 - [**ICSE, CCF A**] Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei Huang and Lijun Zhang. *Patch Synthesis for Property Repair of Deep Neural Networks*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
@@ -38,6 +40,8 @@ permalink: /pubs/
 - [**WWW, CCF A**] Xinyao Xu, Ziyu Mao, Jianzhong Su, Xingwei Lin, David Basin, Jun Sun and **Jingyi Wang**\*. *Quantitative Runtime Monitoring of Ethereum Transaction Attacks*. The Web Conference, Sydney, Australia, Apr, 2025. (409/2062, acceptance rate: 19.8%)
 
 - [**ISSTA, CCF A**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Hui Xue, Wenhai Wang, Kui Ren and Jingyi Wang. *S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Lanuguage Models.* 34th International Symposium on Software Testing and Analysis, Trondheim, Norway, Jun 2025. (107/550, acceptance rate: 19.4%, [Paper link](https://www.arxiv.org/abs/2405.14191), [Github link](https://github.com/IS2Lab/S-Eval), [HuggingFace Leaderboard Link](https://huggingface.co/spaces/IS2Lab/S-Eval))
+
+- [**TDSC, CCF A**] Xiangshan Gao, **Jingyi Wang**, Zhikun Zhang, Jialuo Chen, Peng Cheng and Jiming Chen. A2E: Black-box Anti-adversarial Example based Watermarking to Verify Federated Unlearning, IEEE Transactions on Dependable and Secure Computing. (Accepted)
 
 - [**TSE, CCF A**] Shunkai Zhu, Jun Sun, **Jingyi Wang**\*, Xingwei Lin, and Peng Cheng. *OPTSE: Towards Optimal Symbolic Execution*. IEEE Transactions on Software Engineering. (Accepted)
 
