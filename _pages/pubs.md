@@ -54,6 +54,8 @@ permalink: /pubs/
 
 ### 2024
 
+- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted, <font color="#dd0000">Best Paper Award Runner-up Year 2024.</font>))
+
 - [**TOSEM, CCF A**] Xiangxiang Chen, Xingwei Lin, **Jingyi Wang**\*, Jun Sun, Jiashui Wang and Wenhai Wang. *Scuzer: A Scheduling Optimization Fuzzer for TVM*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
 - [**ICSE, CCF A**] Jianan Ma, Pengfei Yang, **Jingyi Wang**\*, Youcheng Sun, Chengchao Huang and Zhen Wang. *VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks*. 46th International Conference on Software Engineering, Lisbon, Portugal, Apr, 2024. (234/1049, acceptance rate: 22%)
@@ -67,8 +69,6 @@ permalink: /pubs/
 - [**ASE, CCF A**] Jialuo Chen, **Jingyi Wang**\*, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen and Peng Cheng. *FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection*. 39th IEEE/ACM International Conference on Automated Software Engineering, Sacramento, California, United States, Oct 2024.
 
 - [**TSE, CCF A**] Shunkai Zhu, **Jingyi Wang**\*, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and Peng Cheng. *Better Pay Attention Whilst Fuzzing*. IEEE Transactions on Software Engineering. (Accepted)
-
-- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted)
 
 - [**TOSEM, CCF A**] Zhe Zhao, Guangke Chen, Tong Liu, Taishan Li, Fu Song, **Jingyi Wang** and Jun Sun. *Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples*, ACM Transactions on Software Engineering and Methodology. (Accepted)
 
