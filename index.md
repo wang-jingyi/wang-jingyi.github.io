@@ -33,6 +33,11 @@ Collaborations are warmly welcome from both academia or industry!
 <!-- my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains to improve the system reliability and security.</u> -->
 
 ##### Awards
+- ACM SIGSOFT Distinguished Paper Award ICSE 2018
+- ACM SIGSOFT Distinguished Paper Award ICSE 2020
+- IEEE TDSC Best Paper Award Runner-up 2024
+
+
 I was very fortunate to receive two [*ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020)*](https://www.sigsoft.org/awards/distinguishedPaperAward.html). The ICSE 2020 paper on fairness testing of deep neural networks is also selected as [*ACM SIGSOFT Research Highlights*](https://www.sigsoft.org/resources/highlights.html).
 
 <!-- #### Vacancies -->
