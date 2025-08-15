@@ -29,9 +29,17 @@ permalink: /pubs/
 - [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
 
+### 2026
+
+- [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantilization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
+
+
+
 ### 2025
 
-- [**CCS, CCF A**] Jianan Ma, **Jingyi Wang**\*, Qi Xuan and Zhen Wang. Provable Repair of Deep Neural Network Defects through Pre-image Synthesis and Property Refinement. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
+- [**CCS, CCF A**] Huan Sun, David Sanan, **Jingyi Wang**\*, Yongwang Zhao, Jun Sun and Wenhai Wang. *Generalized Security-Preserving Refinement for Concurrent Systems*. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
+
+- [**CCS, CCF A**] Jianan Ma, **Jingyi Wang**\*, Qi Xuan and Zhen Wang. *Provable Repair of Deep Neural Network Defects through Pre-image Synthesis and Property Refinement*. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
 
 - [**ICSE, CCF A**] Ziyu Mao, **Jingyi Wang**\*, Jun Sun, Shengchao Qin and Jiawen Xiong. *LLM-aided Automatic Modelling for Security Protocol Verification*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
