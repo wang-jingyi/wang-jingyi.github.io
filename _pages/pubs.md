@@ -62,7 +62,7 @@ permalink: /pubs/
 
 ### 2024
 
-- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted, <font color="#dd0000">Best Paper Award Runner-up Year 2024.</font>))
+- [**TDSC, CCF A**] Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng and Jiming Chen. *VERIFI: Towards Verifiable Federated Unlearning*, IEEE Transactions on Dependable and Secure Computing. (Accepted, <font color="#dd0000">Best Paper Award Runner-up Year 2024.</font>)
 
 - [**TOSEM, CCF A**] Xiangxiang Chen, Xingwei Lin, **Jingyi Wang**\*, Jun Sun, Jiashui Wang and Wenhai Wang. *Scuzer: A Scheduling Optimization Fuzzer for TVM*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
