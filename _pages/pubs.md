@@ -57,9 +57,9 @@ permalink: /pubs/
 
 - [**TNNLS**] Xiaokun Luan, Xiyue Zhang, **Jingyi Wang**, and Meng Sun. *Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection.* IEEE Transactions on Neural Networks and Learning Systems. (Accepted)
 
-- [**CAC**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Peixin Zhang. *PRUNE: A Patching Based Repair Framework for Certifiable Unlearning of Neural Networks*. The China Automation Conference, Harbin, China, Nov, 2025.
+- [**CAC**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Peixin Zhang. *PRUNE: A Patching Based Repair Framework for Certifiable Unlearning of Neural Networks*. The China Automation Conference, Harbin, China, Sep, 2025.
 
-- [**CAC**] Weifang Zhang, Xiaohan Yuan, Xuran Li, and **Jingyi Wang**\*. *Fault Localization and Repair for Neural Network based Object Detection*. The China Automation Conference, Harbin, China, Nov, 2025.
+- [**CAC**] Weifang Zhang, Xiaohan Yuan, Xuran Li, and **Jingyi Wang**\*. *Fault Localization and Repair for Neural Network based Object Detection*. The China Automation Conference, Harbin, China, Sep, 2025.
 
 - [**CAC**] 马晓霖, **王竟亦**\*, 王文海. *面向基于国密算法的工业安全协议形式化验证*. 中国自动化大会, 哈尔滨, 2025.
 
