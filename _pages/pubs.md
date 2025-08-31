@@ -55,9 +55,11 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] Shunkai Zhu, Jun Sun, **Jingyi Wang**\*, Zhenbang Chen, and Peng Cheng. *Integrating Path Selection for Symbolic Execution and Variable Selection for Constraint Solving.* ACM Transactions on Software Engineering and Methodology. (Accepted)
 
+- [**IST, CCF B**] Xiaoxia Liu, **Jingyi Wang**\*, Hsiao-Ying Lin, Chengfang Fang, Jie Shi, Xiaodong Zhang, Wenhai Wang. *Semantic-aware Testing for Object Detection Systems*. Information and Software Technology, 2025. (Accepted)
+
 - [**TNNLS**] Xiaokun Luan, Xiyue Zhang, **Jingyi Wang**, and Meng Sun. *Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection.* IEEE Transactions on Neural Networks and Learning Systems. (Accepted)
 
-<!-- - [**CAC**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Peixin Zhang. *PRUNE: A Patching Based Repair Framework for Certifiable Unlearning of Neural Networks*. The China Automation Conference, Harbin, China, Sep, 2025. -->
+- [**CAC**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Peixin Zhang. *PRUNE: A Patching Based Repair Framework for Certifiable Unlearning of Neural Networks*. The China Automation Conference, Harbin, China, Sep, 2025.
 
 - [**CAC**] Weifang Zhang, Xiaohan Yuan, Xuran Li, and **Jingyi Wang**\*. *Fault Localization and Repair for Neural Network based Object Detection*. The China Automation Conference, Harbin, China, Sep, 2025.
 
