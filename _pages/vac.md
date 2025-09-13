@@ -8,7 +8,7 @@ permalink: /vac/
 
 
 #### Prospective Students
-I am always looking for self-motivated students from various background to work with me on pushing the boundary of formal methods or software engineering towards building more trustworthy AI and more secure systems. Our group encourages high-quality research with theoretical depth or practical impact to the broad audiences like formal methods, software engineering, AI/ML and security.  
+I am always looking for self-motivated students from various background to work with me on pushing the boundary of formal methods and software engineering towards building more trustworthy AI and more secure systems. Our group encourages high-quality research with theoretical depth or practical impact to the broad audiences like formal methods, software engineering, AI/ML and security.  
 
 **Prerequisites.** An ideal PhD candidate should have a strong background in mathematics, logic, programming, and more importantly love doing research. 
 
@@ -16,5 +16,5 @@ I am always looking for self-motivated students from various background to work 
 
 #### Research Positions
 
-If you are interested in a research position (PostDoc/research assistant/research intern) in our group, feel free to drop me an email with CV. 
+If you are interested in a position (PostDoc/research assistant/research intern) in our group, feel free to drop me an email with CV. 
 
