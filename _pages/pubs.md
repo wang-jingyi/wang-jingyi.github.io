@@ -43,6 +43,8 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] Ziyu Mao, **Jingyi Wang**\*, Jun Sun, Shengchao Qin and Jiawen Xiong. *LLM-aided Automatic Modelling for Security Protocol Verification*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
 
+- [**ASE, CCF A**] Jianan Ma, **Jingyi Wang**\*, Qi Xuan and Zhen Wang. *Provable Repair of Deep Neural Network Defects through Pre-image Synthesis and Property Refinement.* The 40th IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.
+
 - [**ASE, CCF A**] Ziyu Mao, Xiaolin Ma, Lin Huang, Huan Yang, Wu Zhang, Weichao Sun, Yongtao Wang, Jingling Xue and **Jingyi Wang**\*. *Securing Millions of Decentralized Identities in Alipay Super App with End-to-End Formal Verification*. Industry Showcase Track of 40th IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.
 
 - [**WWW, CCF A**] Xinyao Xu, Ziyu Mao, Jianzhong Su, Xingwei Lin, David Basin, Jun Sun and **Jingyi Wang**\*. *Quantitative Runtime Monitoring of Ethereum Transaction Attacks*. The Web Conference, Sydney, Australia, Apr, 2025. (409/2062, acceptance rate: 19.8%)
