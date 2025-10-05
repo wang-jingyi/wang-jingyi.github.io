@@ -22,8 +22,6 @@ permalink: /pubs/
 
 ### Preprint
 
-- [**Arxiv**] Xiaoxia Liu, Peng Di, Cong Li, Jun Sun, and **Jingyi Wang**\*. *Efficient Function Orchestration for Large Language Models*. arXiv:2504.14872, 2025. ([Paper link](https://arxiv.org/abs/2504.14872))
-
 - [**Arxiv**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Xiaoxia Liu, Jingyi Wang, Qiang Liu, Peiyu Liu, Wenhai Wang. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* arXiv:2410.14209, 2024. ([Paper link](https://arxiv.org/abs/2410.14209))
 
 - [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
@@ -36,6 +34,9 @@ permalink: /pubs/
 
 
 ### 2025
+
+- [**TSE, CCF A**] Xiaoxia Liu, Peng Di, Cong Li, Jun Sun, and **Jingyi Wang**\*. *Efficient Function Orchestration for Large Language Models*. arXiv:2504.14872, 2025. ([Paper link](https://arxiv.org/abs/2504.14872))
+
 
 - [**CCS, CCF A**] Huan Sun, David Sanan, **Jingyi Wang**\*, Yongwang Zhao, Jun Sun and Wenhai Wang. *Generalized Security-Preserving Refinement for Concurrent Systems*. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
 
