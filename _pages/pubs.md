@@ -35,9 +35,6 @@ permalink: /pubs/
 
 ### 2025
 
-- [**TSE, CCF A**] Xiaoxia Liu, Peng Di, Cong Li, Jun Sun, and **Jingyi Wang**\*. *Efficient Function Orchestration for Large Language Models*. arXiv:2504.14872, 2025. ([Paper link](https://arxiv.org/abs/2504.14872))
-
-
 - [**CCS, CCF A**] Huan Sun, David Sanan, **Jingyi Wang**\*, Yongwang Zhao, Jun Sun and Wenhai Wang. *Generalized Security-Preserving Refinement for Concurrent Systems*. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
 
 - [**CCS, CCF A**] Jianan Ma, **Jingyi Wang**\*, Qi Xuan and Zhen Wang. *Provable Repair of Deep Neural Network Defects through Pre-image Synthesis and Property Refinement*. The 32nd ACM Conference on Computer and Communications Security, Taipei, China, Oct, 2025.
@@ -53,6 +50,8 @@ permalink: /pubs/
 - [**ISSTA, CCF A**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Hui Xue, Wenhai Wang, Kui Ren and Jingyi Wang. *S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Lanuguage Models.* 34th International Symposium on Software Testing and Analysis, Trondheim, Norway, Jun 2025. (107/550, acceptance rate: 19.4%, [Paper link](https://www.arxiv.org/abs/2405.14191), [Github link](https://github.com/IS2Lab/S-Eval), [HuggingFace Leaderboard Link](https://huggingface.co/spaces/IS2Lab/S-Eval))
 
 - [**ICSE, CCF A**] Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei Huang and Lijun Zhang. *Patch Synthesis for Property Repair of Deep Neural Networks*. 47th International Conference on Software Engineering, Ottawa, Canada, Apr, 2025. (245/1150, acceptance rate: 21.3%)
+
+- [**TSE, CCF A**] Xiaoxia Liu, Peng Di, Cong Li, Jun Sun, and **Jingyi Wang**\*. *Efficient Function Orchestration for Large Language Models*. IEEE Transactions on Software Engineering. (Accepted, [Paper link](https://arxiv.org/abs/2504.14872))
 
 - [**TDSC, CCF A**] Xiangshan Gao, **Jingyi Wang**, Zhikun Zhang, Jialuo Chen, Peng Cheng and Jiming Chen. A2E: Black-box Anti-adversarial Example based Watermarking to Verify Federated Unlearning, IEEE Transactions on Dependable and Secure Computing. (Accepted)
 
