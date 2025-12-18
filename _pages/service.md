@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Technical Program Committee
-- 2026: ACM CCS, SAC (SVT Track Co-chair), AAAI 
+- 2026: ACM CCS, SAC (Track Co-chair of SVT), ASE, AAAI 
 - 2025: ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
 - 2023: ATVA, SETTA, ChinaSoft/FMAC, ICSE/SCORE, ACNS/SiMLA

@@ -9,6 +9,9 @@ permalink: /pubs/
 
 ## Books and Book Articles
 
+
+- Étienne André, **Jingyi Wang**, Naijun Zhan: Formal Methods and Software Engineering - 26th International Conference on Formal Engineering Methods, ICFEM 2025, Hangzhou, China, November 10-13, 2025, Proceedings. Lecture Notes in Computer Science 16229, Springer 2026, ISBN 978-981-95-4212-3.
+
 - Lei Bu, Liqian Chen, Yunwei Dong, Xiaowei Huang, Jianlin Li, Qin Li, Wanwei Liu, Wenjian Ruan, Fu Song, Youcheng Sun, **Jingyi Wang**, Min Wu, Zhiwu Xu, Bai Xue, Pengfei Yang, Xinping Yi, Lijun Zhang and Min Zhang. *Research Progress and Trends on Formal Verification of Artificial Intelligence Systems.*  CCF 2019-2020 Progress Report on Chinese Computer Science and Technology. China Machine Press, pages 491-539, 2020.
 
 
@@ -31,6 +34,7 @@ permalink: /pubs/
 
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantilization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
 
+- [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted)
 
 
 ### 2025
