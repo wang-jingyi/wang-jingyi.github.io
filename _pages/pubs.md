@@ -34,6 +34,10 @@ permalink: /pubs/
 
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantilization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
 
+- [**JoS, CCF A**] Huan Sun,  **Jingyi Wang**\*, and Wenhai Wang. *Hybrid Refinement Logic*. Journal of Software. (Accepted)
+
+- [**JoS, CCF A**] Cheng Wen, Zhi Ma, Junjie Hu, **Jingyi Wang**, Jie Su, Zhiwu Xu, Dugang Liu, Cong Tian, Shengchao Qin and Mengfei Yang. *A Review on Software Formal Verification Empowered by Large Language Models*. Journal of Software. (Accepted)
+
 - [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted)
 
 
