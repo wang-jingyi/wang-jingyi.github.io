@@ -27,18 +27,22 @@ permalink: /pubs/
 
 - [**Arxiv**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Xiaoxia Liu, Jingyi Wang, Qiang Liu, Peiyu Liu, Wenhai Wang. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* arXiv:2410.14209, 2024. ([Paper link](https://arxiv.org/abs/2410.14209))
 
-- [**Arxiv**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. arXiv:2311.12785, 2023. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
-
 
 ### 2026
 
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantilization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
 
+
+- [**CSUR, CCF A**] Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
+
+- [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted)
+
+
 - [**JoS, CCF A**] Huan Sun,  **Jingyi Wang**\*, and Wenhai Wang. *Hybrid Refinement Logic*. Journal of Software. (Accepted)
+
 
 - [**JoS, CCF A**] Cheng Wen, Zhi Ma, Junjie Hu, **Jingyi Wang**, Jie Su, Zhiwu Xu, Dugang Liu, Cong Tian, Shengchao Qin and Mengfei Yang. *A Review on Software Formal Verification Empowered by Large Language Models*. Journal of Software. (Accepted)
 
-- [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted)
 
 
 ### 2025

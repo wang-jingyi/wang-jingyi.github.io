@@ -7,8 +7,8 @@ permalink: /service/
 
 
 #### Technical Program Committee
-- 2026: ACM CCS, SAC (Track Co-chair of SVT), ASE, AAAI 
-- 2025: ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC
+- 2026: ACM CCS, ASE, AAAI, SAC (Track Co-chair of SVT) 
+- 2025: ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC, ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair)
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
 - 2023: ATVA, SETTA, ChinaSoft/FMAC, ICSE/SCORE, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
@@ -39,6 +39,9 @@ permalink: /service/
 
 #### Selected Invited Talks
 
+- IEEE CRESS 内生安全基础理论与应用分论坛 2025
+- 华师大 工业协议安全验证、安全与测试分析研讨会 2025
+- 中国软件大会 顶会顶刊论坛 2025
 - 阿里云“向上生长”技术分享系列 2025
 - 华师大 高可信软件智能化工程前沿论坛 2025
 - 华为应用安全论坛 2024
