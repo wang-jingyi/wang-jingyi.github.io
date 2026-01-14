@@ -30,7 +30,10 @@ permalink: /pubs/
 
 ### 2026
 
-- [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantilization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
+- [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
+
+
+- [**WWW, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Jin Song Dong, Wenhai Wang, and **Jingyi Wang**\*. *LLMQuA: Practical Backdoor Injection on Large Language Model Quantization*. The Web Conference, Dubai, UAE, Apr 2026.
 
 
 - [**CSUR, CCF A**] Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
