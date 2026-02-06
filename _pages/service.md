@@ -7,8 +7,9 @@ permalink: /service/
 
 
 #### Technical Program Committee
+- 2027: ICSE
 - 2026: ACM CCS, ASE, AAAI, SAC (Track Co-chair of SVT) 
-- 2025: ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC, ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair)
+- 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC, Large Model Safety Workshop (PC Co-chair)
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
 - 2023: ATVA, SETTA, ChinaSoft/FMAC, ICSE/SCORE, ACNS/SiMLA
 - 2022: InternetWare, SEAIS, ACNS/SiMLA
