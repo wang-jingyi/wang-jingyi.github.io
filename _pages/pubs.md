@@ -33,11 +33,11 @@ permalink: /pubs/
 
 - [**JoS, CCF A**] Huan Sun,  **Jingyi Wang**\*, and Wenhai Wang. *Hybrid Refinement Logic*. Journal of Software. (Accepted)
 
-- [**TSE, CCF A**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Xiaoxia Liu, **Jingyi Wang**, Qiang Liu, Peiyu Liu, Wenhai Wang. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* IEEE Transaction on Software Engineering. (Accepted, [arXiv link](https://arxiv.org/abs/2410.14209), [Github link](https://github.com/Luoji-zju/Agents4PLC_release))
-
-- [**CSUR, CCF A**] Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
+- [**TSE, CCF A**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Qiang Liu, Xiaoxia Liu, Peiyu Liu, Wenhai Wang, **Jingyi Wang**. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* IEEE Transaction on Software Engineering. (Accepted, [arXiv link](https://arxiv.org/abs/2410.14209), [Github link](https://github.com/Luoji-zju/Agents4PLC_release))
 
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
+
+- [**CSUR, CCF A**] Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
 - [**WWW, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Jin Song Dong, Wenhai Wang, and **Jingyi Wang**\*. *LLMQuA: Practical Backdoor Injection on Large Language Model Quantization*. The Web Conference, Dubai, UAE, Apr 2026.
 
