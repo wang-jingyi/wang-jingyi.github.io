@@ -33,7 +33,7 @@ permalink: /pubs/
 
 - [**JoS, CCF A**] Huan Sun,  **Jingyi Wang**\*, and Wenhai Wang. *Hybrid Refinement Logic*. Journal of Software. (Accepted)
 
-- [**TSE, CCF A**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Qiang Liu, Xiaoxia Liu, Peiyu Liu, Wenhai Wang, **Jingyi Wang**. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* IEEE Transaction on Software Engineering. (Accepted, [arXiv link](https://arxiv.org/abs/2410.14209), [Github link](https://github.com/Luoji-zju/Agents4PLC_release))
+- [**TSE, CCF A**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Xiaoxia Liu, Qiang Liu, Peiyu Liu, Wenhai Wang, **Jingyi Wang**. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* IEEE Transaction on Software Engineering. (Accepted, [arXiv link](https://arxiv.org/abs/2410.14209), [Github link](https://github.com/Luoji-zju/Agents4PLC_release))
 
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
 
