@@ -35,6 +35,8 @@ permalink: /pubs/
 
 - [**TSE, CCF A**] Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Xiaoxia Liu, Qiang Liu, Peiyu Liu, Wenhai Wang, **Jingyi Wang**. *Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents.* IEEE Transaction on Software Engineering. (Accepted, [arXiv link](https://arxiv.org/abs/2410.14209), [Github link](https://github.com/Luoji-zju/Agents4PLC_release))
 
+- [**TOSEM, CCF A**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Jialuo Chen, Hui Xue, Wenhai Wang, Kui Ren and **Jingyi Wang**. *S-Eval: Towards Automated Safety Evaluation with Enhancement for Large Language Models.* ACM Transactions on Software Engineering and Methodology. (Accepted)
+
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
 
 - [**CSUR, CCF A**] Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
