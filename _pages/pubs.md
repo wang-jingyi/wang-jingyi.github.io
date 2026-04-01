@@ -41,11 +41,13 @@ permalink: /pubs/
 
 - [**CSUR, CCF A**] Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
+- [**JoS, CCF A**] Cheng Wen, Zhi Ma, Junjie Hu, **Jingyi Wang**, Jie Su, Zhiwu Xu, Dugang Liu, Cong Tian, Shengchao Qin and Mengfei Yang. *A Review on Software Formal Verification Empowered by Large Language Models*. Journal of Software. (Accepted)
+
 - [**WWW, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Jin Song Dong, Wenhai Wang, and **Jingyi Wang**\*. *LLMQuA: Practical Backdoor Injection on Large Language Model Quantization*. The Web Conference, Dubai, UAE, Apr 2026.
 
 - [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted)
 
-- [**JoS, CCF A**] Cheng Wen, Zhi Ma, Junjie Hu, **Jingyi Wang**, Jie Su, Zhiwu Xu, Dugang Liu, Cong Tian, Shengchao Qin and Mengfei Yang. *A Review on Software Formal Verification Empowered by Large Language Models*. Journal of Software. (Accepted)
+- [**Neural Networks**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Peixin Zhang. *PRUNE: A Patching Based Repair Framework for Certifiable and Privacy-Robust Unlearning of Neural Networks*. Neural Networks. (Accepted)
 
 
 
