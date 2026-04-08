@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Technical Program Committee
-- 2027: ICSE
+- 2027: ICSE, FSE
 - 2026: SETTA (PC Co-chair), ACM CCS, ASE, AAAI, SAC (Track Co-chair of SVT) 
 - 2025: ICFEM (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC, Large Model Safety Workshop (PC Co-chair)
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
