@@ -7,7 +7,7 @@ permalink: /service/
 
 
 #### Technical Program Committee (Chair)
-- 2027: SAC (Track Co-chair of SVT), ICSE, FSE
+- 2027: SAC (Track Co-chair of SVT), ICSE, FSE, USENIX Security
 - 2026: SETTA (PC Co-chair), SAC (Track Co-chair of SVT), ACM CCS, ASE, AAAI
 - 2025: ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC
 - 2024: ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
