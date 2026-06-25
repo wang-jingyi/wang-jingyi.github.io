@@ -33,7 +33,7 @@ permalink: /pubs/
 
 - [**JoS, CCF A**] Huan Sun,  **Jingyi Wang**\*, and Wenhai Wang. *Hybrid Refinement Logic*. Journal of Software. (Accepted)
 
-- [**ASE, CCF A**] Hao Bu, Lin Huang, Tao Wei, **Jingyi Wang**\*. *Sound and Efficient Statistical Model Checking for Probabilities and Bounded Rewards.* The 41st IEEE/ACM International Conference on Automated Software Engineering, Munich, Germany, Oct 2026.
+- [**ASE, CCF A**] Hao Bu, Lin Huang, Tao Wei, and **Jingyi Wang**\*. *Sound and Efficient Statistical Model Checking for Probabilities and Bounded Rewards.* The 41st IEEE/ACM International Conference on Automated Software Engineering, Munich, Germany, Oct 2026.
 
 - [**NDSS, CCF A**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang**\*. *Rounding-Guided Backdoor Injection in Deep Learning Model Quantization*. The Network and Distributed System Security (NDSS) Symposium, San Diego, California, Feb 2026.
 
