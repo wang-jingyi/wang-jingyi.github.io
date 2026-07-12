@@ -46,6 +46,10 @@ permalink: /pubs/
 
 - [**CSUR, CCF A**] Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang. *Prompting Frameworks for Large Language Models: A Survey*. ACM Computing Survey. ([Paper link](https://arxiv.org/abs/2311.12785), [Github link](https://github.com/lxx0628/Prompting-Framework-Survey), Media Coverage: [AGI Summit, Best Paper Award](https://superagi.com/agi-leap-summit/))
 
+
+- [**ISSRE, CCF B**] Yitong Li, Huan Sun, Wenhai Wang and **Jingyi Wang**\*. *Synthesis of Sensor Deception Attacks against Security for Timed Supervisory Control Systems*. The 37th IEEE International Symposium on Software Reliability Engineering, Cyprus, October 2026.
+
+
 - [**JoS, CCF A**] Cheng Wen, Zhi Ma, Junjie Hu, **Jingyi Wang**, Jie Su, Zhiwu Xu, Dugang Liu, Cong Tian, Shengchao Qin and Mengfei Yang. *A Review on Software Formal Verification Empowered by Large Language Models*. Journal of Software. (Accepted)
 
 - [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted)
