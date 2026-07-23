@@ -25,3 +25,33 @@ layout: default
 		</div>
 	</div>
 </div>
+
+
+{% if page.math %}
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  startup: {
+    pageReady: function () {
+      // kramdown emits <script type="math/tex">; MathJax 3 doesn't read those
+      document.querySelectorAll('script[type^="math/tex"]').forEach(function (node) {
+        var display = /mode=display/.test(node.type);
+        var span = document.createElement('span');
+        span.textContent = display ? '\\[' + node.textContent + '\\]'
+                                   : '\\(' + node.textContent + '\\)';
+        node.parentNode.replaceChild(span, node);
+      });
+      return MathJax.startup.defaultPageReady();
+    }
+  }
+};
+</script>
+<script async id="MathJax-script"
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
