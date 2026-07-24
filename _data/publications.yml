@@ -1,0 +1,614 @@
+# Publications for wang-jingyi.github.io
+#
+# Add a paper by copying an entry and editing it. Newest first is tidiest,
+# but the site groups and sorts by year on its own, so order does not matter.
+#
+#   year     required, a number
+#   venue    short label shown in the badge, e.g. ICSE, TSE, NDSS
+#   tier     optional, e.g. CCF A
+#   theme    one of: fm, se4ai, ai4se   (see _data/themes.yml)
+#   title    the paper title
+#   authors  full author list; wrap your own name in ** ** to bold it,
+#            and keep the * for corresponding authorship
+#   note     optional line for venue detail, acceptance rate, awards
+#   links    optional list of {name, url}
+
+- year: 2026
+  venue: JoS
+  theme: fm
+  title: Hybrid Refinement Logic
+  authors: Huan Sun, **Jingyi Wang***, and Wenhai Wang
+  tier: CCF A
+  note: Journal of Software (accepted)
+- year: 2026
+  venue: ASE
+  theme: fm
+  title: Sound and Efficient Statistical Model Checking for Probabilities and Bounded Rewards
+  authors: Hao Bu, Lin Huang, Tao Wei, and **Jingyi Wang***
+  tier: CCF A
+  note: 41st IEEE/ACM International Conference on Automated Software Engineering, Munich, Oct 2026
+- year: 2026
+  venue: NDSS
+  theme: se4ai
+  title: Rounding-Guided Backdoor Injection in Deep Learning Model Quantization
+  authors: Xiangxiang Chen, Peixin Zhang, Jun Sun, Wenhai Wang, and **Jingyi Wang***
+  tier: CCF A
+  note: Network and Distributed System Security Symposium, San Diego, Feb 2026
+  links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2510.09647
+- year: 2026
+  venue: WWW
+  theme: se4ai
+  title: 'LLMQuA: Practical Backdoor Injection on Large Language Model Quantization'
+  authors: Xiangxiang Chen, Peixin Zhang, Jun Sun, Jin Song Dong, Wenhai Wang, and **Jingyi Wang***
+  tier: CCF A
+  note: The Web Conference, Dubai, Apr 2026
+- year: 2026
+  venue: TSE
+  theme: ai4se
+  title: 'Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control
+    Systems using LLM-based Agents'
+  authors: Zihan Liu, Ruinan Zeng, Dongxia Wang, Gengyun Peng, Xiaoxia Liu, Qiang Liu, Peiyu Liu, Wenhai
+    Wang, **Jingyi Wang**
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
+  links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2410.14209
+  - name: code
+    url: https://github.com/Luoji-zju/Agents4PLC_release
+- year: 2026
+  venue: TOSEM
+  theme: se4ai
+  title: 'S-Eval: Towards Automated Safety Evaluation with Enhancement for Large Language Models'
+  authors: Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Jialuo Chen,
+    Hui Xue, Wenhai Wang, Kui Ren and **Jingyi Wang**
+  tier: CCF A
+  note: ACM Transactions on Software Engineering and Methodology (accepted)
+- year: 2026
+  venue: CSUR
+  theme: ai4se
+  title: 'Prompting Frameworks for Large Language Models: A Survey'
+  authors: Xiaoxia Liu, **Jingyi Wang**, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia
+    Wang
+  tier: CCF A
+  note: ACM Computing Surveys
+  links:
+  - name: paper
+    url: https://arxiv.org/abs/2311.12785
+  - name: code
+    url: https://github.com/lxx0628/Prompting-Framework-Survey
+  - name: AGI Summit best paper award
+    url: https://superagi.com/agi-leap-summit/
+- year: 2026
+  venue: ISSRE
+  theme: fm
+  title: Synthesis of Sensor Deception Attacks against Security for Timed Supervisory Control Systems
+  authors: Yitong Li, Huan Sun, Wenhai Wang and **Jingyi Wang***
+  tier: CCF B
+  note: 37th IEEE International Symposium on Software Reliability Engineering, Cyprus, Oct 2026
+- year: 2026
+  venue: JoS
+  theme: ai4se
+  title: A Review on Software Formal Verification Empowered by Large Language Models
+  authors: Cheng Wen, Zhi Ma, Junjie Hu, **Jingyi Wang**, Jie Su, Zhiwu Xu, Dugang Liu, Cong Tian, Shengchao
+    Qin and Mengfei Yang
+  tier: CCF A
+  note: Journal of Software (accepted)
+- year: 2026
+  venue: ESWA
+  theme: se4ai
+  title: 'A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability'
+  authors: Xuran Li, **Jingyi Wang***, Xiaohan Yuan and Wenhai Wang
+  note: Expert Systems with Applications (accepted)
+- year: 2026
+  venue: Neural Networks
+  theme: se4ai
+  title: 'PRUNE: A Patching Based Repair Framework for Certifiable and Privacy-Robust Unlearning of Neural
+    Networks'
+  authors: Xuran Li, **Jingyi Wang***, Xiaohan Yuan and Peixin Zhang
+  note: Neural Networks (accepted)
+- year: 2025
+  venue: CCS
+  theme: fm
+  title: Generalized Security-Preserving Refinement for Concurrent Systems
+  authors: Huan Sun, David Sanan, **Jingyi Wang***, Yongwang Zhao, Jun Sun and Wenhai Wang
+  tier: CCF A
+  note: 32nd ACM Conference on Computer and Communications Security, Taipei, Oct 2025
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3719027.3765138
+- year: 2025
+  venue: CCS
+  theme: se4ai
+  title: Provable Repair of Deep Neural Network Defects through Pre-image Synthesis and Property Refinement
+  authors: Jianan Ma, **Jingyi Wang***, Qi Xuan and Zhen Wang
+  tier: CCF A
+  note: 32nd ACM Conference on Computer and Communications Security, Taipei, Oct 2025
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3719027.3765057
+- year: 2025
+  venue: ICSE
+  theme: ai4se
+  title: LLM-aided Automatic Modelling for Security Protocol Verification
+  authors: Ziyu Mao, **Jingyi Wang***, Jun Sun, Shengchao Qin and Jiawen Xiong
+  tier: CCF A
+  note: 47th International Conference on Software Engineering, Ottawa, Apr 2025 (21.3% acceptance)
+  links:
+  - name: paper
+    url: https://www.computer.org/csdl/proceedings-article/icse/2025/056900a734/251mHfUjxMk
+- year: 2025
+  venue: ASE
+  theme: se4ai
+  title: Provable Fairness Repair for Deep Neural Networks
+  authors: Jianan Ma, **Jingyi Wang***, Qi Xuan and Zhen Wang
+  tier: CCF A
+  note: 40th IEEE/ACM International Conference on Automated Software Engineering, Seoul, Nov 2025
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/11334285
+- year: 2025
+  venue: ASE Industry
+  theme: fm
+  title: Securing Millions of Decentralized Identities in Alipay Super App with End-to-End Formal Verification
+  authors: Ziyu Mao, Xiaolin Ma, Lin Huang, Huan Yang, Wu Zhang, Weichao Sun, Yongtao Wang, Jingling Xue
+    and **Jingyi Wang***
+  tier: CCF A
+  note: Industry showcase track, 40th IEEE/ACM International Conference on Automated Software Engineering,
+    Seoul, Nov 2025
+- year: 2025
+  venue: WWW
+  theme: fm
+  title: Quantitative Runtime Monitoring of Ethereum Transaction Attacks
+  authors: Xinyao Xu, Ziyu Mao, Jianzhong Su, Xingwei Lin, David Basin, Jun Sun and **Jingyi Wang***
+  tier: CCF A
+  note: The Web Conference, Sydney, Apr 2025 (19.8% acceptance)
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/abs/10.1145/3696410.3714682
+- year: 2025
+  venue: ISSTA
+  theme: se4ai
+  title: 'S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Language
+    Models'
+  authors: Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, Hui Xue,
+    Wenhai Wang, Kui Ren and **Jingyi Wang**
+  tier: CCF A
+  note: 34th International Symposium on Software Testing and Analysis, Trondheim, Jun 2025 (19.4% acceptance)
+  links:
+  - name: paper
+    url: https://www.arxiv.org/abs/2405.14191
+  - name: code
+    url: https://github.com/IS2Lab/S-Eval
+  - name: leaderboard
+    url: https://huggingface.co/spaces/IS2Lab/S-Eval
+- year: 2025
+  venue: ICSE
+  theme: se4ai
+  title: Patch Synthesis for Property Repair of Deep Neural Networks
+  authors: Zhiming Chi, Jianan Ma, Pengfei Yang, Cheng-Chao Huang, Renjue Li, **Jingyi Wang**, Xiaowei
+    Huang and Lijun Zhang
+  tier: CCF A
+  note: 47th International Conference on Software Engineering, Ottawa, Apr 2025 (21.3% acceptance)
+- year: 2025
+  venue: TSE
+  theme: ai4se
+  title: Efficient Function Orchestration for Large Language Models
+  authors: Xiaoxia Liu, Peng Di, Cong Li, Jun Sun, and **Jingyi Wang***
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
+  links:
+  - name: paper
+    url: https://arxiv.org/abs/2504.14872
+- year: 2025
+  venue: TDSC
+  theme: se4ai
+  title: 'A2E: Black-box Anti-adversarial Example based Watermarking to Verify Federated Unlearning'
+  authors: Xiangshan Gao, **Jingyi Wang**, Zhikun Zhang, Jialuo Chen, Peng Cheng and Jiming Chen
+  tier: CCF A
+  note: IEEE Transactions on Dependable and Secure Computing (accepted)
+- year: 2025
+  venue: TSE
+  theme: fm
+  title: 'OPTSE: Towards Optimal Symbolic Execution'
+  authors: Shunkai Zhu, Jun Sun, **Jingyi Wang***, Xingwei Lin, and Peng Cheng
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
+- year: 2025
+  venue: TOSEM
+  theme: fm
+  title: Integrating Path Selection for Symbolic Execution and Variable Selection for Constraint Solving
+  authors: Shunkai Zhu, Jun Sun, **Jingyi Wang***, Zhenbang Chen, and Peng Cheng
+  tier: CCF A
+  note: ACM Transactions on Software Engineering and Methodology (accepted)
+- year: 2025
+  venue: IST
+  theme: se4ai
+  title: Semantic-aware Testing for Object Detection Systems
+  authors: Xiaoxia Liu, **Jingyi Wang***, Hsiao-Ying Lin, Chengfang Fang, Jie Shi, Xiaodong Zhang, Wenhai
+    Wang
+  tier: CCF B
+  note: Information and Software Technology, 2025
+- year: 2025
+  venue: TNNLS
+  theme: se4ai
+  title: Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection
+  authors: Xiaokun Luan, Xiyue Zhang, **Jingyi Wang**, and Meng Sun
+  note: IEEE Transactions on Neural Networks and Learning Systems (accepted)
+- year: 2025
+  venue: CAC
+  theme: se4ai
+  title: 'PRUNE: A Patching Based Repair Framework for Certifiable Unlearning of Neural Networks'
+  authors: Xuran Li, **Jingyi Wang***, Xiaohan Yuan and Peixin Zhang
+  note: China Automation Conference, Harbin, Sep 2025
+- year: 2025
+  venue: CAC
+  theme: se4ai
+  title: Fault Localization and Repair for Neural Network based Object Detection
+  authors: Weifang Zhang, Xiaohan Yuan, Xuran Li, and **Jingyi Wang***
+  note: China Automation Conference, Harbin, Sep 2025
+- year: 2025
+  venue: CAC
+  theme: fm
+  title: 面向基于国密算法的工业安全协议形式化验证
+  authors: 马晓霖, **王竟亦***, 王文海
+  note: 中国自动化大会, 哈尔滨, 2025
+- year: 2024
+  venue: TDSC
+  theme: se4ai
+  title: 'VERIFI: Towards Verifiable Federated Unlearning'
+  authors: Xiangshan Gao, Xingjun Ma, **Jingyi Wang**, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng and
+    Jiming Chen
+  tier: CCF A
+  note: IEEE Transactions on Dependable and Secure Computing · best paper award runner-up 2024
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/10480645
+- year: 2024
+  venue: TOSEM
+  theme: se4ai
+  title: 'Scuzer: A Scheduling Optimization Fuzzer for TVM'
+  authors: Xiangxiang Chen, Xingwei Lin, **Jingyi Wang***, Jun Sun, Jiashui Wang and Wenhai Wang
+  tier: CCF A
+  note: ACM Transactions on Software Engineering and Methodology (accepted)
+- year: 2024
+  venue: ICSE
+  theme: se4ai
+  title: 'VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks'
+  authors: Jianan Ma, Pengfei Yang, **Jingyi Wang***, Youcheng Sun, Chengchao Huang and Zhen Wang
+  tier: CCF A
+  note: 46th International Conference on Software Engineering, Lisbon, Apr 2024 (22% acceptance)
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3597503.3623332
+- year: 2024
+  venue: ISSTA
+  theme: se4ai
+  title: 'TeDA: A Testing Framework for Data Usage Auditing in Deep Learning Model Development'
+  authors: Xiangshan Gao, Jialuo Chen, **Jingyi Wang***, Jie Shi, Peng Cheng and Jiming Chen
+  tier: CCF A
+  note: 33rd International Symposium on Software Testing and Analysis, Vienna, Sep 2024 (20.6% acceptance)
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3650212.3652132
+- year: 2024
+  venue: ISSTA
+  theme: se4ai
+  title: Isolation-based Debugging for Neural Networks
+  authors: Jialuo Chen, **Jingyi Wang***, Youcheng Sun, Peng Cheng and Jiming Chen
+  tier: CCF A
+  note: 33rd International Symposium on Software Testing and Analysis, Vienna, Sep 2024 (20.6% acceptance)
+- year: 2024
+  venue: ISSTA
+  theme: se4ai
+  title: Interpretability based Neural Network Repair
+  authors: Zuohui Chen, Jun Zhou, Youcheng Sun, **Jingyi Wang***, Qi Xuan and Xiaoniu Yang
+  tier: CCF A
+  note: 33rd International Symposium on Software Testing and Analysis, Vienna, Sep 2024 (20.6% acceptance)
+- year: 2024
+  venue: ASE
+  theme: se4ai
+  title: 'FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature
+    Selection'
+  authors: Jialuo Chen, **Jingyi Wang***, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen and
+    Peng Cheng
+  tier: CCF A
+  note: 39th IEEE/ACM International Conference on Automated Software Engineering, Sacramento, Oct 2024
+- year: 2024
+  venue: TSE
+  theme: fm
+  title: Better Pay Attention Whilst Fuzzing
+  authors: Shunkai Zhu, **Jingyi Wang***, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and
+    Peng Cheng
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
+- year: 2024
+  venue: TOSEM
+  theme: se4ai
+  title: 'Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples'
+  authors: Zhe Zhao, Guangke Chen, Tong Liu, Taishan Li, Fu Song, **Jingyi Wang** and Jun Sun
+  tier: CCF A
+  note: ACM Transactions on Software Engineering and Methodology (accepted)
+- year: 2024
+  venue: RA-L
+  theme: se4ai
+  title: Boosting Adversarial Training in Safety-critical Systems through Boundary Data Selection
+  authors: Yifan Jia, Christopher M. Poskitt, Peixin Zhang, **Jingyi Wang***, Jun Sun, Sudipta Chattopadhyay
+  note: IEEE Robotics and Automation Letters (accepted)
+- year: 2024
+  venue: CPSS
+  theme: fm
+  title: 'K-RAPID: A Formal Executable Semantics of the RAPID Robot Programming Language'
+  authors: Zichen Wang, **Jingyi Wang***, Fu Song, Kun Wang, Hongyi Pu and Peng Cheng
+  note: 10th ACM Cyber-Physical System Security Workshop at AsiaCCS, Singapore, Jul 2024
+- year: 2023
+  venue: CCS
+  theme: se4ai
+  title: 'HODOR: Shrinking Attack Surface on Node.js via System Call Limitation'
+  authors: Wenya Wang, Xingwei Lin, **Jingyi Wang***, Wang Gao, Dawu Gu, Wei Lv, and Jiashui Wang
+  tier: CCF A
+  note: 30th ACM Conference on Computer and Communications Security, Copenhagen, Nov 2023
+- year: 2023
+  venue: TSE
+  theme: fm
+  title: 'K-ST: A Formal Executable Semantics of the Structured Text Language for PLCs'
+  authors: Kun Wang, **Jingyi Wang***, Christopher M. Poskitt, Xiangxiang Chen, Jun Sun, and Peng Cheng
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
+- year: 2023
+  venue: ISSTA
+  theme: se4ai
+  title: 'FairRec: Fairness Testing for Deep Recommender Systems'
+  authors: Huizhong Guo, Jinfeng Li, **Jingyi Wang**, Xiangyu Liu, Dongxia Wang, Zehong Hu, Rong Zhang
+    and Hui Xue
+  tier: CCF A
+  note: 32nd International Symposium on Software Testing and Analysis, Seattle, Jul 2023 (first round
+    12.6% acceptance)
+- year: 2023
+  venue: TOSEM
+  theme: se4ai
+  title: 'TestSGD: Interpretable Testing of Neural Networks Against Subtle Group Discrimination'
+  authors: Mengdi Zhang, Jun Sun, **Jingyi Wang** and Bing Sun
+  tier: CCF A
+  note: ACM Transactions on Software Engineering and Methodology (accepted)
+- year: 2023
+  venue: FMICS
+  theme: fm
+  title: 'Applying Rely-guarantee Reasoning on Concurrent Memory Management and Mailbox in μC/OS-II: A
+    Case Study'
+  authors: Huan Sun, Ziyu Mao, **Jingyi Wang***, Ziyan Zhao, Wenhai Wang
+  note: 28th International Conference on Formal Methods for Industrial Critical Systems, CONFEST 2023,
+    Antwerp, Sep 2023
+- year: 2023
+  venue: Black Hat EU
+  theme: se4ai
+  title: 'HODOR: Reducing Attack Surface on Node.js via System Call Limitation'
+  authors: Wenya Wang, Xingwei Lin, **Jingyi Wang**, Wang Gao, Dawu Gu
+  note: Black Hat Europe, London, Dec 2023
+- year: 2023
+  venue: ICSE Demo
+  theme: se4ai
+  title: 'DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models'
+  authors: Jialuo Chen, Youcheng Sun, **Jingyi Wang**, Peng Cheng and Xingjun Ma
+  note: 45th International Conference on Software Engineering, demonstrations track, Melbourne, May 2023
+- year: 2023
+  venue: 软件学报
+  theme: se4ai
+  title: 图像对抗样本检测综述
+  authors: 周涛, 甘燃, 徐东伟, **王竟亦**, 宣琦
+  tier: CCF A 中文
+  note: 软件学报（已接收）
+- year: 2022
+  venue: S&P
+  theme: se4ai
+  title: Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models
+  authors: Jialuo Chen, **Jingyi Wang***, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, Xingjun
+    Ma, Bo Li and Dawn Song
+  tier: CCF A
+  note: 43rd IEEE Symposium on Security and Privacy, Oakland, May 2022
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/9833747
+- year: 2022
+  venue: TOSEM
+  theme: se4ai
+  title: 'QuoTe: Quality-oriented Testing for Deep Learning Systems'
+  authors: Jialuo Chen, **Jingyi Wang***, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng
+  tier: CCF A
+  note: ACM Transactions on Software Engineering and Methodology (accepted)
+- year: 2022
+  venue: ICSE
+  theme: se4ai
+  title: 'NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification'
+  authors: Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, **Jingyi Wang**,
+    Yue Yu and Jinyin Chen
+  tier: CCF A
+  note: 44th International Conference on Software Engineering, Pittsburgh, May 2022 (26% acceptance)
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3510003.3510123
+- year: 2022
+  venue: ASE-J
+  theme: se4ai
+  title: Which Neural Network Makes More Explainable Decisions? An Approach Towards Measuring Explainability
+  authors: Mengdi Zhang, Jun Sun and **Jingyi Wang**
+  tier: CCF B
+  note: Automated Software Engineering, 2022
+- year: 2022
+  venue: FITEE
+  theme: se4ai
+  title: Automatic Protocol Reverse-engineering for Industrial Control Systems with Dynamic Taint Analysis
+  authors: Rongkuan Ma, Hao Zheng, **Jingyi Wang**, Mufeng Wang, Qiang Wei and Qingxian Wang
+  note: Frontiers of Information Technology &amp; Electronic Engineering, 2022 (spotlight paper)
+- year: 2022
+  venue: IoT-J
+  theme: se4ai
+  title: Defending Cyber-physical Systems through Reverse Engineering Based Memory Sanity Check
+  authors: Yangyang Geng, Yuqi Chen, Rongkuan Ma, Qiang Wei, Jie Pan, **Jingyi Wang**, Peng Cheng and
+    Qingxian Wang
+  note: IEEE Internet of Things Journal (accepted)
+- year: 2022
+  venue: TASE
+  theme: se4ai
+  title: Repairing Adversarial Texts through Perturbation
+  authors: Guoliang Dong, **Jingyi Wang***, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie
+    Shi and Jin Song Dong
+  tier: CCF C
+  note: 16th International Symposium on Theoretical Aspects of Software Engineering, Cluj-Napoca, Jul
+    2022
+- year: 2021
+  venue: ICSE
+  theme: se4ai
+  title: 'RobOT: Robustness-Oriented Testing for Deep Learning Systems'
+  authors: '**Jingyi Wang**, Jialuo Chen, Youcheng Sun, Xingjun Ma, Dongxia Wang, Jun Sun and Peng Cheng'
+  tier: CCF A
+  note: 43rd International Conference on Software Engineering, Madrid, May 2021 (22% acceptance)
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1109/ICSE43902.2021.00038
+- year: 2021
+  venue: TSE
+  theme: se4ai
+  title: Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling
+  authors: Peixin Zhang, **Jingyi Wang***, Jun Sun, Xinyu Wang, Guoliang Dong, Xinggen Wang, Ting Dai
+    and Jin Song Dong
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/8576657
+- year: 2021
+  venue: ISSTA
+  theme: se4ai
+  title: 'Attack as Defense: Characterizing Adversarial Examples using Robustness'
+  authors: Zhe Zhao, Guangke Chen, **Jingyi Wang**, Yiwei Yang, Fu Song and Jun Sun
+  tier: CCF A
+  note: 30th International Symposium on Software Testing and Analysis, Jul 2021 (22% acceptance)
+- year: 2021
+  venue: TACAS
+  theme: se4ai
+  title: Improving Neural Network Verification through Spurious Region Guided Refinement
+  authors: Pengfei Yang, Renjue Li, Jianlin Li, Cheng-Chao Huang, **Jingyi Wang**, Jun Sun, Bai Xue and
+    Lijun Zhang
+  tier: CCF B
+  note: 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems,
+    ETAPS 2021, Luxembourg, Apr 2021
+  links:
+  - name: paper
+    url: https://link.springer.com/chapter/10.1007/978-3-030-72016-2_21
+- year: 2021
+  venue: JCST
+  theme: se4ai
+  title: 'HRPDF: A Software-Based Heterogeneous Redundant Proactive Defense Framework for Programmable
+    Logic Controller'
+  authors: Ke Liu, **Jingyi Wang**, Qiang Wei, Zhengyong Zhang, Jun Sun, Rongkuan Ma, Ruilong Deng
+  tier: CCF B
+  note: Journal of Computer Science and Technology (accepted)
+- year: 2021
+  venue: IJCIP
+  theme: se4ai
+  title: Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems
+  authors: Yifan Jia, **Jingyi Wang**, Christopher M. Poskitt, Sudipta Chattopadhyay, Jun Sun and Yuqi
+    Chen
+  note: International Journal of Critical Infrastructure Protection (accepted)
+- year: 2020
+  venue: ICSE
+  theme: se4ai
+  title: White-box Fairness Testing through Adversarial Sampling
+  authors: Peixin Zhang, **Jingyi Wang***, Jun Sun, Guoliang Dong, Xinyu Wang, Ting Dai, Xingen Wang and
+    Jin Song Dong
+  tier: CCF A
+  note: 42nd International Conference on Software Engineering, Seoul, Oct 2020 (20.9% acceptance) · ACM
+    SIGSOFT distinguished paper award · ACM SIGSOFT research highlights
+  links:
+  - name: paper
+    url: https://dl.acm.org/doi/10.1145/3377811.3380331
+- year: 2020
+  venue: ASE
+  theme: se4ai
+  title: Towards Interpreting Recurrent Neural Network through Probabilistic Abstraction
+  authors: Guoliang Dong, **Jingyi Wang***, Jun Sun, Yang Zhang, Xinyu Wang, Ting Dai, Xingen Wang and
+    Jin Song Dong
+  tier: CCF A
+  note: 35th IEEE/ACM International Conference on Automated Software Engineering, Melbourne, Sep 2020
+    (22.5% acceptance)
+- year: 2020
+  venue: ICECCS
+  theme: se4ai
+  title: An Empirical Study on the Correlation between Coverage and Robustness for Deep Neural Networks
+  authors: Yizhen Dong, Peixin Zhang, **Jingyi Wang***, Shuang Liu, Jun Sun, Jianye Hao, Xinyu Wang, Li
+    Wang, Jin Song Dong and Ting Dai
+  tier: CCF C
+  note: 25th International Conference on Engineering of Complex Computer Systems, Singapore, Oct 2020
+- year: 2019
+  venue: ICSE
+  theme: se4ai
+  title: Adversarial Sample Detection for Deep Neural Networks through Model Mutation Testing
+  authors: '**Jingyi Wang**, Guoliang Dong, Jun Sun, Xinyu Wang and Peixin Zhang'
+  tier: CCF A
+  note: 41st International Conference on Software Engineering, Montreal, May 2019 (20.6% acceptance)
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/abstract/document/8812047
+- year: 2018
+  venue: TSE
+  theme: fm
+  title: Automatically 'Verifying' Discrete-Time Complex Systems through Learning, Abstraction and Refinement
+  authors: '**Jingyi Wang**, Jun Sun, Shengchao Qin and Cyrille Jegourel'
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
+- year: 2018
+  venue: FM
+  theme: fm
+  title: Towards 'Verifying' a Water Treatment System
+  authors: '**Jingyi Wang**, Jun Sun, Yifan Jia, Shengchao Qin and Zhiwu Xu'
+  tier: CCF A
+  note: 22nd International Symposium on Formal Methods, Oxford, Jul 2018 (28% acceptance)
+- year: 2018
+  venue: ICSE
+  theme: fm
+  title: Towards Optimal Concolic Testing
+  authors: Xinyu Wang, Jun Sun, Zhenbang Chen, Peixin Zhang, **Jingyi Wang*** and Yun Lin
+  tier: CCF A
+  note: 40th International Conference on Software Engineering, Gothenburg, May 2018 (20.9% acceptance)
+    · ACM SIGSOFT distinguished paper award
+- year: 2018
+  venue: DSN
+  theme: fm
+  title: Importance Sampling of Interval Markov Chains
+  authors: Cyrille Jegourel, **Jingyi Wang** and Jun Sun
+  tier: CCF B
+  note: 48th International Conference on Dependable Systems and Networks, Luxembourg, Nov 2018 (26.7%
+    acceptance)
+- year: 2018
+  venue: STTT
+  theme: fm
+  title: 'Learning Probabilistic Models for Model Checking: An Evolutionary Approach and an Empirical
+    Study'
+  authors: '**Jingyi Wang**, Jun Sun, Qixia Yuan, and Jun Pang'
+  tier: CCF C
+  note: International Journal on Software Tools for Technology Transfer, 2018
+- year: 2017
+  venue: FASE
+  theme: fm
+  title: Should We Learn Probabilistic Models for Model Checking? A New Approach and an Empirical Study
+  authors: '**Jingyi Wang**, Jun Sun, Qixia Yuan, Jun Pang'
+  tier: CCF B
+  note: 20th International Conference on Fundamental Approaches to Software Engineering, ETAPS 2017, Uppsala,
+    Apr 2017 (27% acceptance)
+- year: 2017
+  venue: ICFEM
+  theme: fm
+  title: Improving Probability Estimation through Active Probabilistic Model Learning
+  authors: '**Jingyi Wang**, Xiaohong Chen, Jun Sun, Shengchao Qin'
+  tier: CCF C
+  note: 19th International Conference on Formal Engineering Methods, Xi'an, Nov 2017
+- year: 2016
+  venue: FM
+  theme: fm
+  title: Towards Concolic Testing for Hybrid Systems
+  authors: Pingfan Kong, Yi Li, Xiaohong Chen, Jun Sun, Meng Sun, **Jingyi Wang**
+  tier: CCF A
+  note: 21st International Symposium on Formal Methods, Cyprus, Nov 2016

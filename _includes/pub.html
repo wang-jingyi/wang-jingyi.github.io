@@ -1,0 +1,13 @@
+      {% assign th = site.data.themes | where: "id", include.p.theme | first %}
+      <li class="pub" data-theme="{{ include.p.theme }}">
+        <div class="pub-meta">
+          <span class="venue">{{ include.venue | default: include.p.venue }}</span>
+          {% if include.p.tier %}<span class="tier">{{ include.p.tier }}</span>{% endif %}
+          <span class="theme-pill">{{ th.tag }}</span>
+        </div>
+        <p class="pub-title">{{ include.p.title }}</p>
+        <p class="pub-authors">{{ include.p.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+        {% if include.p.note or include.p.links %}
+        <p class="pub-extra">{{ include.p.note }}{% if include.p.note and include.p.links %} · {% endif %}{% for l in include.p.links %}<a href="{{ l.url }}">{{ l.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+        {% endif %}
+      </li>

@@ -1,0 +1,14 @@
+# Books and edited volumes. Same fields as publications.yml, minus year.
+
+- theme: fm
+  title: Formal Methods and Software Engineering — 26th International Conference on Formal Engineering
+    Methods, ICFEM 2025
+  authors: Étienne André, **Jingyi Wang**, Naijun Zhan
+  note: Lecture Notes in Computer Science 16229, Springer 2026, ISBN 978-981-95-4212-3
+- theme: se4ai
+  title: Research Progress and Trends on Formal Verification of Artificial Intelligence Systems
+  authors: Lei Bu, Liqian Chen, Yunwei Dong, Xiaowei Huang, Jianlin Li, Qin Li, Wanwei Liu, Wenjian Ruan,
+    Fu Song, Youcheng Sun, **Jingyi Wang**, Min Wu, Zhiwu Xu, Bai Xue, Pengfei Yang, Xinping Yi, Lijun
+    Zhang and Min Zhang
+  note: CCF 2019–2020 Progress Report on Chinese Computer Science and Technology, China Machine Press,
+    pages 491–539, 2020

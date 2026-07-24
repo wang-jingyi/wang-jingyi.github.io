@@ -1,104 +1,114 @@
-# Reked is a minimal and responsive blog theme for Jekyll. It is focused on the content, speed, simplicity
+# wang-jingyi.github.io
 
-### Features
+A Jekyll site. GitHub Pages builds Jekyll for you, so there is no CI to set up
+and nothing to install: **edit a file, commit, push, and the site rebuilds in
+about a minute.** You can do all of it in the GitHub web editor from a phone
+if you want.
 
-* 100% responsive and clean theme
-* Optimized for mobile devices
-* Minimal design
-* Valid HTML5 code
-* Post sharing
-* Image Zoom
-* MailChimp Form Widget
-* Supports Disqus Comments
-* Supports Google Analytics
-* Ionicons
-* Google Fonts
+## Where things live
 
-* * *
+```
+_config.yml              your name, role, photo, contact links, nav
+_data/publications.yml   every paper
+_data/books.yml          books and edited volumes
+_data/themes.yml         the research themes
+index.md                 home page
+service.md               service and talks
+vac.md                   openings
+pubs.html                generated from the data files — you never edit this
+_layouts/, _includes/    the templates
+assets/style.css         all styling
+assets/photo.jpg         your photo
+```
 
-### Demo
+Prose lives in markdown. Anything that repeats with the same shape — papers,
+themes — lives in a data file instead, because a list of fields is easier to
+append to than a wall of HTML, and it lets one paper appear correctly in the
+list, the filter and the counts without you touching three places.
 
-Check the theme in action [Demo](https://reked.netlify.com/)
+## Adding a paper
 
-The main page would look like this:
+Open `_data/publications.yml` and add an entry. Order does not matter; the
+site groups and sorts by year itself.
 
-![Main page preview](https://github.com/artemsheludko/reked/blob/master/images/reked-preview.jpg?raw=true)
+```yaml
+- year: 2026
+  venue: ICSE
+  tier: CCF A
+  theme: se4ai
+  title: The title of the paper
+  authors: Some Coauthor, **Jingyi Wang***, and Another Coauthor
+  note: 48th International Conference on Software Engineering, Apr 2026
+  links:
+    - name: paper
+      url: https://example.com/paper
+    - name: code
+      url: https://github.com/example/repo
+```
 
-* * *
+Only `year`, `venue`, `theme`, `title` and `authors` are required. Wrap your
+own name in `**` to bold it. `theme` must be one of the ids in
+`_data/themes.yml` — currently `fm`, `se4ai` or `ai4se`.
 
-### Deployment
+A new year needs nothing special. Add a 2027 paper and a 2027 heading appears.
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+## Changing the research themes
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+Edit `_data/themes.yml`. Renaming a theme updates the home page, the openings
+page and the filter buttons together. To add a fourth theme, give it an `id`,
+`tag`, `filter`, `name` and `blurb`, then start putting that id in papers'
+`theme:` fields.
 
-## Stackbit
+To split SE4AI back out into a separate safety theme later, add the theme here
+and change `theme: se4ai` to the new id on the papers that belong to it.
 
-This theme is ready to import into Stackbit. It can be deployed to Netlify and you can connect any headless CMS including Forestry, NetlifyCMS, DatoCMS, Sanity or Contentful.
+## Editing the prose pages
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/artemsheludko/reked)
+`index.md`, `service.md` and `vac.md` are ordinary markdown. Two conventions
+beyond plain markdown are worth knowing, both standard kramdown:
 
-* * *
+A two-column year row is a definition list — the term becomes the left
+column:
 
-### Posts
+```markdown
+2026
+: ICFEM (PC co-chair), ACM CCS, ASE
+```
 
-To create a new post, you can create a new markdown file inside the \_posts directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
+A class can be attached to the block above it with `{: .class}`. The site uses
+`{: .lede}` for an opening paragraph, `{: .note}` for small grey text, and
+`{: .plain}` for a list with hairline rules instead of bullets.
 
-      ---
-      layout: post
-      title: "Welcome to Jekyll!"
-      date: 2018-08-23 16:04:00 +0300
-      image: 03.jpg
-      tags: Jekyll
-      ---
+## Your photo
 
+Replace `assets/photo.jpg`, keeping the filename. Square, 400×400 px or
+larger. It is cropped to a circle in CSS. To use a different filename, point
+`photo:` in `_config.yml` at it.
 
-You can set the tags and the post image.
+## Contact and social links
 
-Add post images to **/images/** directory.
+`profile_links` in `_config.yml`. Google Scholar, DBLP and GitHub entries are
+there, commented out — uncomment and fill in your ids.
 
-For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
+## Colours and type
 
-* * *
+The `:root` block at the top of `assets/style.css`. `--accent` is the deep
+teal on links and theme tags; change that one value to re-tint the site. Dark
+mode is defined just below and follows the reader's system setting.
 
-### Disqus Comments
+## Previewing locally (optional)
 
-Reked Theme comes with Disqus comments enabled.
+Not required — pushing is a fine way to preview. But if you want a local loop:
 
-Open `_config.yml` file, and change the `mr-brown` value on line 30 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
+```
+bundle install
+bundle exec jekyll serve
+```
 
-      Comment Section (Disqus)
-      disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+then open http://localhost:4000. The `Gemfile` pins the same versions GitHub
+Pages runs.
 
+## One thing to watch
 
-That’s all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide).
-
-And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
-
-* * *
-
-### Google Analytics
-
-To integrate Google Analytics, open `_config.yml`, and add your Google Analytics identifier.
-
-    # Google Analytics
-    google-analytics: \# Add your identifier. For example UA-99631805-1
-
-
-* * *
-
-### Update favicon
-
-You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
-
-* * *
-
-### License
-
-Mit License
-
-* * *
-
-### Support
-
-If you’d like to support me so I can continue to provide free content and themes you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+Do not add a `.nojekyll` file to this repository. It tells GitHub Pages to
+skip the Jekyll build, which would serve these markdown files as raw text.

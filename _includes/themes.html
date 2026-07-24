@@ -1,0 +1,17 @@
+<div class="themes">
+  {% for t in site.data.themes %}
+  {% if include.linked == false %}
+  <div class="theme">
+    <span class="theme-tag">{{ t.tag }}</span>
+    <h3>{{ t.name }}</h3>
+    <p>{{ t.blurb }}</p>
+  </div>
+  {% else %}
+  <a class="theme" href="{{ '/pubs/' | relative_url }}?theme={{ t.id }}">
+    <span class="theme-tag">{{ t.tag }}</span>
+    <h3>{{ t.name }}</h3>
+    <p>{{ t.blurb }}</p>
+  </a>
+  {% endif %}
+  {% endfor %}
+</div>

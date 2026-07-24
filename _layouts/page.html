@@ -1,57 +1,8 @@
 ---
 layout: default
 ---
-<!-- <div class="container">
-	<div class="row">
-		<div class="col col-12">
-			<h1 class="page__title wow fadeInUp">{{ page.title | escape }}</h1>
-		</div>
-	</div>
-</div> -->
-
-<div class="container">
-	<div class="row">
-		<div class="col col-12">
-			<!-- begin page -->
-			<article class="page wow fadeInUp" data-wow-delay=".2s">
-				{% if page.image %}	
-					<div class="page-image" style="background-image: url('{{ page.image | relative_url }}')"></div>
-				{% endif %}
-				<div class="page__content">
-					{{ content }}
-				</div>
-			</article>
-			<!-- end page -->
-		</div>
-	</div>
+<p class="eyebrow">{{ page.title }}</p>
+{% if page.lede %}<p class="lede" style="margin-bottom:36px;">{{ page.lede | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{% endif %}
+<div class="prose">
+{{ content }}
 </div>
-
-
-{% if page.math %}
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']]
-  },
-  options: {
-    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-  },
-  startup: {
-    pageReady: function () {
-      // kramdown emits <script type="math/tex">; MathJax 3 doesn't read those
-      document.querySelectorAll('script[type^="math/tex"]').forEach(function (node) {
-        var display = /mode=display/.test(node.type);
-        var span = document.createElement('span');
-        span.textContent = display ? '\\[' + node.textContent + '\\]'
-                                   : '\\(' + node.textContent + '\\)';
-        node.parentNode.replaceChild(span, node);
-      });
-      return MathJax.startup.defaultPageReady();
-    }
-  }
-};
-</script>
-<script async id="MathJax-script"
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-{% endif %}

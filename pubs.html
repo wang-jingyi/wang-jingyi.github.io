@@ -1,0 +1,80 @@
+---
+layout: default
+permalink: /pubs/
+title: Publications
+description: Publications of Jingyi Wang, grouped by research theme and year.
+---
+{% comment %}
+This page is generated from _data/publications.yml and _data/books.yml.
+You should not need to edit it — add papers to the data files instead.
+{% endcomment %}
+
+<section>
+  <p class="eyebrow">Publications</p>
+  <p class="lede" style="margin-bottom:24px;">An asterisk marks corresponding authorship. Filter by research theme below.</p>
+
+  <div class="filters" role="group" aria-label="Filter publications by research theme">
+    <button class="filter" type="button" data-filter="all" aria-pressed="true">All</button>
+    {% for t in site.data.themes %}
+    <button class="filter" type="button" data-filter="{{ t.id }}" aria-pressed="false">{{ t.filter | default: t.tag }}</button>
+    {% endfor %}
+  </div>
+  <p class="result-count" id="count" role="status"></p>
+
+  {% if site.data.books and site.data.books.size > 0 %}
+  <div class="year-block">
+    <h2>Books and book chapters</h2>
+    <ul class="pubs">
+      {% for p in site.data.books %}{% include pub.html p=p venue="Book" %}{% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% assign groups = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+  {% for g in groups %}
+  <div class="year-block">
+    <h2>{{ g.name }}</h2>
+    <ul class="pubs">
+      {% for p in g.items %}{% include pub.html p=p %}{% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+
+</section>
+
+<script>
+(function () {
+  var valid = [{% for t in site.data.themes %}'{{ t.id }}'{% unless forloop.last %}, {% endunless %}{% endfor %}];
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.filter'));
+  var pubs = Array.prototype.slice.call(document.querySelectorAll('.pub'));
+  var blocks = Array.prototype.slice.call(document.querySelectorAll('.year-block'));
+  var count = document.getElementById('count');
+  var total = pubs.length;
+
+  function apply(theme) {
+    var shown = 0;
+    pubs.forEach(function (p) {
+      var match = theme === 'all' || p.getAttribute('data-theme') === theme;
+      p.hidden = !match;
+      if (match) shown++;
+    });
+    blocks.forEach(function (b) {
+      b.hidden = !b.querySelector('.pub:not([hidden])');
+    });
+    buttons.forEach(function (b) {
+      b.setAttribute('aria-pressed', b.getAttribute('data-filter') === theme ? 'true' : 'false');
+    });
+    count.textContent = theme === 'all'
+      ? total + ' publications'
+      : shown + ' of ' + total + ' publications';
+    history.replaceState(null, '', theme === 'all' ? location.pathname : location.pathname + '?theme=' + theme);
+  }
+
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () { apply(b.getAttribute('data-filter')); });
+  });
+
+  var initial = new URLSearchParams(location.search).get('theme');
+  apply(valid.indexOf(initial) > -1 ? initial : 'all');
+})();
+</script>
