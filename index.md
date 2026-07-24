@@ -2,9 +2,7 @@
 layout: home
 ---
 
-I develop new theories and practice towards establishing formal trust for
-complex intelligent systems — whether they are built from software, AI, or
-control. Collaborations from academia and industry are warmly welcome.
+I am interested in developing new theories and practice towards establishing formal trust for complex intelligent systems built from software or AI or control. Collaborations from academia and industry are warmly welcome.
 {: .lede}
 
 ## Research themes

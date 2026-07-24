@@ -8,13 +8,13 @@ description: Program committee service, journal reviewing and invited talks by J
 ## Program committees
 
 2027
-: ICSE, FSE
+: SAC (Track Co-chair of SVT), ICSE, FSE, USENIX Security, AAAI
 
 2026
-: SETTA (PC co-chair), ACM CCS, ASE, AAAI, SAC (track co-chair, SVT)
+: SETTA (PC Co-chair), SAC (Track Co-chair of SVT), ACM CCS, ASE, ISSRE, AAAI, ICML
 
 2025
-: ICFEM (PC co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC, Large Model Safety Workshop (PC co-chair)
+: ICFEM (PC Co-chair), Large Model Safety Workshop (PC Co-chair), ACM CCS, ICSE, ASE, ISSTA, WWW, ISSRE, ChinaSoft/FMAC, ChinaSoft/FM and LLM
 
 2024
 : ISSTA, ISSRE, ChinaSoft/FMAC, TASE, VALID, ANT, ACNS/SiMLA
@@ -29,7 +29,7 @@ description: Program committee service, journal reviewing and invited talks by J
 : Two tracks of ChinaSoft
 
 ≤2020
-: InternetWare 2019/2020, ChinaSoft 2020, APSEC 2020, ICFEM 2019
+: InternetWare 2019/2020, ChinaSoft 2020, APSEC 2020, InternetWare 2019, ICFEM 2019
 
 ## Journal reviewing
 

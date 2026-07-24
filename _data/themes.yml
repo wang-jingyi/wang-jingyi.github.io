@@ -7,25 +7,23 @@
 
 - id: fm
   tag: FM
-  filter: Formal methods
+  filter: Formal methods foundations
   name: Formal methods & program analysis
   blurb: >-
-    Model checking, refinement and rely-guarantee reasoning, executable
-    semantics for industrial languages, symbolic execution and fuzzing.
+    Model checking, theorem proving, symbolic execution and fuzzing.
 
 - id: se4ai
   tag: SE4AI
   filter: SE4AI
   name: Software engineering for AI
   blurb: >-
-    Testing, verification, debugging and repair of neural networks and LLM
-    applications — robustness, fairness, backdoors, model copyright,
-    unlearning and safety benchmarking.
+    Testing, verification, and repair of neural networks, LLM
+    applications and agents.
 
 - id: ai4se
   tag: AI4SE
   filter: AI4SE
   name: AI for software engineering
   blurb: >-
-    LLM-aided modelling and verification, agentic code generation for
+    LLM-aided formal modelling and verification, agentic code generation for
     industrial control, prompting and function orchestration frameworks.
