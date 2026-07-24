@@ -318,7 +318,7 @@
   note: 39th IEEE/ACM International Conference on Automated Software Engineering, Sacramento, Oct 2024
 - year: 2024
   venue: TSE
-  theme: fm
+  theme: ai4se
   title: Better Pay Attention Whilst Fuzzing
   authors: Shunkai Zhu, **Jingyi Wang***, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and
     Peng Cheng

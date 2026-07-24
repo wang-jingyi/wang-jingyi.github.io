@@ -3,7 +3,7 @@ layout: page
 permalink: /vac/
 title: Openings
 description: Open positions for postdocs, research assistants, research interns and prospective PhD students in the IS2 Lab at Zhejiang University.
-lede: The group has multiple openings for postdocs, research assistants and research interns. If one of these fits you, send me an email and let's have a chat.
+lede: Our group has multiple openings for postdocs, research assistants and research interns. If one of these fits you, send me an email and let's have a chat.
 ---
 
 [{{ site.email }}](mailto:{{ site.email }})

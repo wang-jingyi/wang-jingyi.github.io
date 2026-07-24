@@ -25,5 +25,4 @@
   filter: AI4SE
   name: AI for software engineering
   blurb: >-
-    LLM-aided formal modelling and verification, agentic code generation for
-    industrial control, prompting and function orchestration frameworks.
+    LLM-aided formal modelling and verification, agentic code generation.
