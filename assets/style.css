@@ -401,6 +401,47 @@ p:last-child { margin-bottom: 0; }
 
 .pub[hidden] { display: none; }
 
+/* ---------- grants ---------- */
+
+.grants { list-style: none; margin: 0; padding: 0; }
+
+.grant {
+  display: flex;
+  gap: 18px;
+  align-items: baseline;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.grant-role {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--ink);
+  flex: none;
+  width: 52px;
+}
+
+.grant-body { flex: 1; min-width: 0; }
+
+.grant-title {
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0 0 2px;
+  color: var(--ink);
+}
+
+.grant-funder {
+  font-size: 13.5px;
+  color: var(--ink-2);
+  line-height: 1.55;
+  margin: 0;
+}
+
+@media (max-width: 620px) {
+  .grant { flex-direction: column; gap: 2px; }
+  .grant-role { width: auto; }
+}
+
 /* ---------- footer ---------- */
 
 footer {
