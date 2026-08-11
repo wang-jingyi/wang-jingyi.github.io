@@ -28,12 +28,10 @@ profile_links:
     url: mailto:wangjyee@gmail.com
   - name: IS2 Lab
     url: http://is2lab.github.io
-  # - name: Google Scholar
-  #   url: https://scholar.google.com/citations?user=YOUR_ID
-  # - name: DBLP
-  #   url: https://dblp.org/pid/YOUR_ID.html
-  # - name: GitHub
-  #   url: https://github.com/YOUR_ID
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=GjkTuMQAAAAJ
+  - name: DBLP
+    url: https://dblp.org/pid/18/3178-4.html
 
 # ---- navigation --------------------------------------------------------
 

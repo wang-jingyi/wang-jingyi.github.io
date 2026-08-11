@@ -1,9 +1,14 @@
-      {% assign th = site.data.themes | where: "id", include.p.theme | first %}
-      <li class="pub" data-theme="{{ include.p.theme }}">
+      {% assign ids = include.p.theme | join: ',' | split: ',' %}
+      <li class="pub" data-themes="{{ ids | join: ' ' }}">
         <div class="pub-meta">
           <span class="venue">{{ include.venue | default: include.p.venue }}</span>
           {% if include.p.tier %}<span class="tier">{{ include.p.tier }}</span>{% endif %}
-          <span class="theme-pill">{{ th.tag }}</span>
+          <span class="pub-tags">
+            {%- for id in ids -%}
+              {%- assign th = site.data.themes | where: "id", id | first -%}
+              {%- if th %}<span class="theme-pill">{{ th.tag }}</span>{% endif -%}
+            {%- endfor -%}
+          </span>
         </div>
         <p class="pub-title">{{ include.p.title }}</p>
         <p class="pub-authors">{{ include.p.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>

@@ -2,27 +2,43 @@
 #
 # The `id` is what you put in a publication's `theme:` field. Change a name
 # or blurb here and it updates on the home page, the openings page and the
-# publication filters at once. Adding a fourth theme works the same way:
+# publication filters at once. Adding a fifth theme works the same way:
 # give it an id, then start tagging papers with it.
+#
+#   id      used in publications.yml; changing it means retagging papers
+#   tag     short pill shown on each paper
+#   filter  label on the filter buttons on the publications page
+#   name    heading on the theme cards
+#   blurb   one-line description on the theme cards
 
 - id: fm
   tag: FM
-  filter: Formal methods foundations
+  filter: Formal Methods
   name: Formal methods & program analysis
   blurb: >-
-    Model checking, theorem proving, symbolic execution and fuzzing.
+    Program verification, model checking, symbolic and concolic execution,
+    and formal semantics.
 
 - id: se4ai
   tag: SE4AI
   filter: SE4AI
   name: Software engineering for AI
   blurb: >-
-    Testing, verification, and repair of neural networks, LLM
-    applications and agents.
+    Testing, verification and repair of neural networks, LLMs and agent
+    applications.
 
 - id: ai4se
   tag: AI4SE
   filter: AI4SE
   name: AI for software engineering
   blurb: >-
-    LLM-aided formal modelling and verification, agentic code generation.
+    LLM-enabled formal methods — formal modelling, verification and code
+    generation.
+
+- id: security
+  tag: Security
+  filter: Security
+  name: System & AI security
+  blurb: >-
+    Attacks and defences for AI models and applications, and formal
+    security analysis.

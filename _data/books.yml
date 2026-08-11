@@ -5,7 +5,7 @@
     Methods, ICFEM 2025
   authors: Étienne André, **Jingyi Wang**, Naijun Zhan
   note: Lecture Notes in Computer Science 16229, Springer 2026, ISBN 978-981-95-4212-3
-- theme: se4ai
+- theme: [fm, se4ai]
   title: Research Progress and Trends on Formal Verification of Artificial Intelligence Systems
   authors: Lei Bu, Liqian Chen, Yunwei Dong, Xiaowei Huang, Jianlin Li, Qin Li, Wanwei Liu, Wenjian Ruan,
     Fu Song, Youcheng Sun, **Jingyi Wang**, Min Wu, Zhiwu Xu, Bai Xue, Pengfei Yang, Xinping Yi, Lijun

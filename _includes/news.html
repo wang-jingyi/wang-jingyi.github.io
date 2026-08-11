@@ -1,0 +1,6 @@
+<dl class="news">
+  {% for n in site.data.news %}
+  <dt>{{ n.date }}</dt>
+  <dd>{{ n.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</dd>
+  {% endfor %}
+</dl>

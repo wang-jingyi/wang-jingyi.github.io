@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /pubs/
-title: Publications
-description: Publications of Jingyi Wang, grouped by research theme and year.
+title: Selected publications
+description: Selected publications of Jingyi Wang, grouped by research theme and year.
 ---
 {% comment %}
 This page is generated from _data/publications.yml and _data/books.yml.
@@ -10,8 +10,8 @@ You should not need to edit it — add papers to the data files instead.
 {% endcomment %}
 
 <section>
-  <p class="eyebrow">Publications</p>
-  <p class="lede" style="margin-bottom:24px;">An asterisk marks corresponding authorship. Filter by research theme below.</p>
+  <p class="eyebrow">Selected publications</p>
+  <p class="lede" style="margin-bottom:24px;">* marks corresponding authorship. A paper may carry more than one theme. Filter by research theme below.</p>
 
   <div class="filters" role="group" aria-label="Filter publications by research theme">
     <button class="filter" type="button" data-filter="all" aria-pressed="true">All</button>
@@ -54,7 +54,8 @@ You should not need to edit it — add papers to the data files instead.
   function apply(theme) {
     var shown = 0;
     pubs.forEach(function (p) {
-      var match = theme === 'all' || p.getAttribute('data-theme') === theme;
+      var tags = (p.getAttribute('data-themes') || '').split(' ');
+      var match = theme === 'all' || tags.indexOf(theme) > -1;
       p.hidden = !match;
       if (match) shown++;
     });
@@ -65,8 +66,8 @@ You should not need to edit it — add papers to the data files instead.
       b.setAttribute('aria-pressed', b.getAttribute('data-filter') === theme ? 'true' : 'false');
     });
     count.textContent = theme === 'all'
-      ? total + ' publications'
-      : shown + ' of ' + total + ' publications';
+      ? total + ' selected publications'
+      : shown + ' of ' + total + ' selected publications';
     history.replaceState(null, '', theme === 'all' ? location.pathname : location.pathname + '?theme=' + theme);
   }
 
