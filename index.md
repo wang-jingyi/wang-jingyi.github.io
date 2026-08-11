@@ -5,7 +5,7 @@ layout: home
 I am interested in building formal methods that make complex intelligent systems (software, AI models and control) verifiably trustworthy.
 {: .lede}
 
-Much of this work happens with industry. We collaborate closely with [Alibaba](https://www.alibabagroup.com/), [Ant Group](https://www.antgroup.com/) and [Huawei](https://www.huawei.com/), which lets us take verification and safety analysis from the paper into systems running at production scale, and brings the problems that matter back into the lab.
+Much of this work happens with industry. We collaborate closely with [Alibaba](https://www.alibabagroup.com/), [Ant Group](https://www.antgroup.com/) and [Huawei](https://www.huawei.com/), which lets us take verification and security analysis from the paper into systems running at production scale, and brings the problems that matter back into the lab.
 
 I am looking for PhD students, postdocs and research interns. Collaborations from academia and industry are warmly welcome — [see openings]({{ '/vac/' | relative_url }}).
 {: .cta}
