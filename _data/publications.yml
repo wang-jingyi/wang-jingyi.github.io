@@ -217,7 +217,7 @@
   venue: TSE
   theme: fm
   title: 'OPTSE: Towards Optimal Symbolic Execution'
-  authors: Shunkai Zhu, Jun Sun, **Jingyi Wang***, Xingwei Lin, and Peng Cheng
+  authors: Shunkai Zhu, Jun Sun, **Jingyi Wang**, Xingwei Lin, and Peng Cheng
   tier: CCF A
   note: IEEE Transactions on Software Engineering (accepted)
 - year: 2025
@@ -320,14 +320,14 @@
     Peng Cheng
   tier: CCF A
   note: 39th IEEE/ACM International Conference on Automated Software Engineering, Sacramento, Oct 2024
-# - year: 2024
-#   venue: TSE
-#   theme: ai4se
-#   title: Better Pay Attention Whilst Fuzzing
-#   authors: Shunkai Zhu, **Jingyi Wang***, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and
-#     Peng Cheng
-#   tier: CCF A
-#   note: IEEE Transactions on Software Engineering (accepted)
+- year: 2024
+  venue: TSE
+  theme: [ai4se, security]
+  title: Better Pay Attention Whilst Fuzzing
+  authors: Shunkai Zhu, **Jingyi Wang***, Jun Sun, Jie Yang, Xingwei Lin, Tianyi Wang, Liyi Zhang and
+    Peng Cheng
+  tier: CCF A
+  note: IEEE Transactions on Software Engineering (accepted)
 # - year: 2024
 #   venue: TOSEM
 #   theme: [se4ai, security]
@@ -472,24 +472,24 @@
   links:
   - name: paper
     url: https://dl.acm.org/doi/10.1109/ICSE43902.2021.00038
-# - year: 2021
-#   venue: TSE
-#   theme: se4ai
-#   title: Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling
-#   authors: Peixin Zhang, **Jingyi Wang***, Jun Sun, Xinyu Wang, Guoliang Dong, Xinggen Wang, Ting Dai
-#     and Jin Song Dong
-#   tier: CCF A
-#   note: IEEE Transactions on Software Engineering
-#   links:
-#   - name: paper
-#     url: https://ieeexplore.ieee.org/document/8576657
 - year: 2021
-  venue: ISSTA
-  theme: [se4ai, security]
-  title: 'Attack as Defense: Characterizing Adversarial Examples using Robustness'
-  authors: Zhe Zhao, Guangke Chen, **Jingyi Wang**, Yiwei Yang, Fu Song and Jun Sun
+  venue: TSE
+  theme: se4ai
+  title: Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling
+  authors: Peixin Zhang, **Jingyi Wang***, Jun Sun, Xinyu Wang, Guoliang Dong, Xinggen Wang, Ting Dai
+    and Jin Song Dong
   tier: CCF A
-  note: 30th International Symposium on Software Testing and Analysis, Jul 2021 (22% acceptance)
+  note: IEEE Transactions on Software Engineering
+  links:
+  - name: paper
+    url: https://ieeexplore.ieee.org/document/8576657
+# - year: 2021
+#   venue: ISSTA
+#   theme: [se4ai, security]
+#   title: 'Attack as Defense: Characterizing Adversarial Examples using Robustness'
+#   authors: Zhe Zhao, Guangke Chen, **Jingyi Wang**, Yiwei Yang, Fu Song and Jun Sun
+#   tier: CCF A
+#   note: 30th International Symposium on Software Testing and Analysis, Jul 2021 (22% acceptance)
 - year: 2021
   venue: TACAS
   theme: [fm, se4ai]
