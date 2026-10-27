@@ -1,51 +1,58 @@
 ---
-layout: home
+layout: page
+# title: About
+permalink: /
+image: images/newback-small.jpg
 ---
 
-I am interested in building formal methods that make complex intelligent systems (software, AI models and control) verifiably trustworthy.
-{: .lede}
+I am a US-equivalent tenure-track Assistant Professor leading the [IS2 (Intelligent System Security) Lab](http://is2lab.github.io) at [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China.
 
-Much of this work happens with industry. We collaborate closely with [Alibaba](https://www.alibabagroup.com/), [Ant Group](https://www.antgroup.com/) and [Huawei](https://www.huawei.com/), which lets us take verification and security analysis from the paper into systems running at production scale, and brings the problems that matter back into the lab.
 
-I am looking for PhD students, postdocs and research interns. Collaborations from academia and industry are warmly welcome — [see openings]({{ '/vac/' | relative_url }}).
-{: .cta}
+#### Experience
 
-## Recent
+<!-- - July 2020 - present, Assistant Professor, Zhejiang University
+- April 2019 - June 2020, Research Fellow, National University of Singapore, Supervisor: Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/)
+- April 2018 - April 2019, Research Fellow, Singapore University of Technology and Design, Supervisor: Prof. [Sun Jun](https://sunjun.site/) -->
 
-{% include news.html %}
+I was a research fellow with Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/) (2019.04-2020.06). Before that, I was a research fellow with Prof. [Sun Jun](https://sunjun.site/) at the pillar of [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (2018.04-2019.04), where I received my Ph.D. in March 2018. I obtained my B.E. in Information Engineering from [Xi’an Jiaotong University](http://www.xjtu.edu.cn/) in July 2013.
+ 
 
-## Research themes
+<!-- <img align="right" src="images/me2.jpeg" />  -->
+<!-- <img style="float: right;" src="images/me2.jpeg">  -->
 
-{% include themes.html %}
+#### Research Interest
 
-Each theme links to the matching papers. [See all publications]({{ '/pubs/' | relative_url }}).
-{: .note}
+In general, I am interested in *formal methods and trustworthy AI*, covering the following research topics:
+- Formal methods for safety and security reasoning (see [TSE 2021](https://ieeexplore.ieee.org/document/8576657), [CCS 2025 a](https://dl.acm.org/doi/10.1145/3719027.3765138), [CCS 2025 b](https://dl.acm.org/doi/10.1145/3719027.3765057), [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a734/251mHfUjxMk), [WWW 2025](https://dl.acm.org/doi/abs/10.1145/3696410.3714682), [ASE 2025](https://ieeexplore.ieee.org/document/11334285), etc);
+- Software engineering for AI (SE4AI) (see [ICSE 2019](https://ieeexplore.ieee.org/abstract/document/8812047), [ICSE 2020](https://dl.acm.org/doi/10.1145/3377811.3380331), [ICSE 2021](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00038), [TACAS 2021](https://link.springer.com/chapter/10.1007/978-3-030-72016-2_21), [ICSE 2022](https://dl.acm.org/doi/10.1145/3510003.3510123), [ICSE 2024](https://dl.acm.org/doi/10.1145/3597503.3623332), [ISSTA 2024](https://dl.acm.org/doi/10.1145/3650212.3652132), [ISSTA 2025](https://s-eval.github.io/), etc);
+- AI safety, security and ethics (see [S&P 2022](https://ieeexplore.ieee.org/document/9833747), [TDSC 2024](https://ieeexplore.ieee.org/document/10480645), [NDSS 2026](https://arxiv.org/abs/2510.09647), [WWW 2026](), etc).
 
-## Experience
 
-2020–now
-: Assistant professor, [College of Control Science and Engineering](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/), leading the [IS2 Lab](http://is2lab.github.io).
+Collaborations are warmly welcome from both academia or industry!
 
-2019–20
-: Research fellow with Prof. [Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/), [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/).
+<!-- my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains to improve the system reliability and security.</u> -->
 
-2018–19
-: Research fellow with Prof. [Jun Sun](https://sunjun.site/), [Information Systems Technology and Design](https://istd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/).
-
-2018
-: Ph.D., Singapore University of Technology and Design.
-
-2013
-: B.E. in information engineering, [Xi'an Jiaotong University](http://www.xjtu.edu.cn/).
-
-## Awards
-
-- ACM SIGSOFT Distinguished Paper Award, ICSE 2018
-- ACM SIGSOFT Distinguished Paper Award, ICSE 2020
+##### Awards
+- ACM SIGSOFT Distinguished Paper Award ICSE 2018
+- ACM SIGSOFT Distinguished Paper Award ICSE 2020
 - ACM SIGSOFT Research Highlights
-- Best Paper Award Runner-up, IEEE TDSC 2024
-{: .plain}
+- Best Paper Award Runner-up IEEE TDSC 2024
 
-## Outside work
 
-I play badminton regularly, and DOTA2 and PES when there is time.
+<!-- I was very fortunate to receive two [*ACM SIGSOFT Distinguished Paper Award at ICSE (2018 and 2020)*](https://www.sigsoft.org/awards/distinguishedPaperAward.html). The ICSE 2020 paper on fairness testing of deep neural networks is also selected as [*ACM SIGSOFT Research Highlights*](https://www.sigsoft.org/resources/highlights.html). -->
+
+<!-- #### Vacancies -->
+
+<!-- <font color="#dd0000">
+I am actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns to work with me at ZJU. </font>
+Feel free to drop me an email with CV if you are interested. Preferred PhD candidates should have a strong background in logic, mathematics or programming, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Building 9-350, if you wish to have a talk.
+ -->
+
+#### Hobbies
+
+- I play badminton regularly;
+- I love to play DOTA2 and PES when I have the time.
+
+#### Contact
+
+[wangjyee *at* gmail *dot* com](mailto:wangjyee@gmail.com)
