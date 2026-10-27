@@ -15,7 +15,7 @@ permalink: /pubs/
 - Lei Bu, Liqian Chen, Yunwei Dong, Xiaowei Huang, Jianlin Li, Qin Li, Wanwei Liu, Wenjian Ruan, Fu Song, Youcheng Sun, **Jingyi Wang**, Min Wu, Zhiwu Xu, Bai Xue, Pengfei Yang, Xinping Yi, Lijun Zhang and Min Zhang. *Research Progress and Trends on Formal Verification of Artificial Intelligence Systems.*  CCF 2019-2020 Progress Report on Chinese Computer Science and Technology. China Machine Press, pages 491-539, 2020.
 
 
-## Refereed Journal and Conference Articles
+## Selected Refereed Journal and Conference Articles
 
 ###### <font color="#dd0000">* means corresponding author</font>
 
