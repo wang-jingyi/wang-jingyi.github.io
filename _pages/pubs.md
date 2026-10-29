@@ -50,7 +50,7 @@ permalink: /pubs/
 - [**WWW**] Xiangxiang Chen, Peixin Zhang, Jun Sun, Jin Song Dong, Wenhai Wang, and **Jingyi Wang**\*. *LLMQuA: Practical Backdoor Injection on Large Language Model Quantization*. The Web Conference, Dubai, UAE, Apr 2026.
 
 
-- [**TOSEM**] Xuran Li and **Jingyi Wang**\*. *An Empirical Study of Sample Selection Strategies for Large Language Model Repair in Detoxification* ACM Transactions on Software Engineering and Methodology. (Accepted)
+- [**TOSEM**] Xuran Li and **Jingyi Wang**\*. *An Empirical Study of Sample Selection Strategies for Large Language Model Repair in Detoxification*. ACM Transactions on Software Engineering and Methodology. (Accepted)
 
 <!-- - [**ESWA**] Xuran Li, **Jingyi Wang**\*, Xiaohan Yuan and Wenhai Wang. *A2R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability*. Expert Systems with Applications. (Accepted) -->
 
